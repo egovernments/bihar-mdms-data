@@ -1,22 +1,13 @@
 {
-  "tenantId": "uk",
+  "tenantId": "bh",
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PT",
-      "code": "PT",
+      "module": "PGR",
+      "code": "PGR",
       "tenants": [
         {
-          "code": "uk.dehradun"
-        }
-      ]
-    },
-    {
-      "module": "TL",
-      "code": "TL",
-      "tenants": [
-        {
-          "code": "uk.dehradun"
+          "code": "bh.patna"
         }
       ]
     }

@@ -1,38 +1,37 @@
 {
-  "tenantId": "uk",
+  "tenantId": "bh",
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "uk.dehradun",
-      "name": "Dehradun",
-      "description": "Dehradun",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/dlogo.png",
+      "code": "bh.patna",
+      "name": "Patna",
+      "description": "Patna",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
       "imageId": null,
-      "domainUrl": "http://nagarnigamdehradun.com/",
+      "domainUrl": "https://patnamunicipal.net/pmc/public",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "nagar_nigam2008@yahoo.com",
+      "emailId": null,
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
       "city": {
-        "name": "Dehradun",
-        "localName": "Dehradun",
-        "districtCode": "6",
-        "districtName": "Dehradun",
+        "name": "Patna",
+        "localName": "Patna",
+        "districtCode": "49",
+        "districtName": "Patna",
         "regionName": null,
         "ulbGrade": "MC Class I",
-        "longitude": 78.0322,
-        "latitude": 30.3165,
+        "longitude": 85.1376,
+        "latitude": 25.5941,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "601",
+        "code": "248430",
         "regionCode": null,
-        "municipalityName": "Nagar Nigam Dehradun"
+        "municipalityName": "Patna Municipal Corporation"
       },
-      "address": "Near Doon Hospital, New road, Dehradun
-District-Dehradun,Uttarakhand-248001",
+      "address": "Not Available",
       "contactNumber": "0135-2653572"
     }
   ]
