@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.dehradun",
+  "tenantId": "bh.patna",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Dehradun",
-        "localname": "Dehradun",
+        "name": "Patna",
+        "localname": "Patna",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.dehradun",
+        "code": "bh.patna",
         "children": [
           {
             "id": "1ce50cdc-6e4e-45bb-ba6f-97d5486693ca",
@@ -1564,12 +1564,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Dehradun",
-        "localname": "Dehradun",
+        "name": "Patna",
+        "localname": "Patna",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.dehradun",
+        "code": "bh.patna",
         "children": [
           {
             "id": "7d105a6f-037a-445b-ae54-bc3cc8058e05",
