@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk",
+  "tenantId": "bh",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [{
       "code": "CITIZEN",

@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk",
+  "tenantId": "bh",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
     {
@@ -2909,7 +2909,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "tenantId": "uk",
+      "tenantId": "bh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,
@@ -2929,7 +2929,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "tenantId": "uk",
+      "tenantId": "bh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,
