@@ -7,7 +7,19 @@
       "code": "PGR",
       "tenants": [
         {
-          "code": "bh.patna"
+          "code": "bh.sonapur"
+        },
+        {
+          "code": "bh.hajipur"
+        },
+        {
+          "code": "bh.fatuha"
+        },
+        {
+          "code": "bh.danapur"
+        },
+        {
+          "code": "bh.biharsharif"
         }
       ]
     }
