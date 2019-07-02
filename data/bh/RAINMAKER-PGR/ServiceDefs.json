@@ -43,6 +43,14 @@
       "menuPath": "Drains"
     },
     {
+      "serviceCode": "ManHoleCoverBroken",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck, man, hole, cover",
+      "department": "DEPT_4",
+      "slaHours": 480,
+      "menuPath": "Drains"
+    },
+    {
       "serviceCode": "illegalDischargeOfSewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
@@ -203,6 +211,14 @@
       "menuPath": "LandViolations"
     },
     {
+      "serviceCode": "EncroachmentOnGovtLands",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle, govt, land",
+      "department": "DEPT_6",
+      "slaHours": 480,
+      "menuPath": "LandViolations"
+    },
+    {
       "serviceCode": "IllegalCuttingOfTrees",
       "active": true,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
@@ -229,9 +245,17 @@
     {
       "serviceCode": "ParkRequiresMaintenance",
       "active": true,
-      "keywords": "open, defecation, waste, human, privy, toilet",
+      "keywords": "open, defecation, waste, human, privy, toilet, park",
       "department": "DEPT_5",
       "slaHours": 336,
+      "menuPath": "Parks"
+    },
+    {
+      "serviceCode": "ParkEncroachment",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet, park",
+      "department": "DEPT_5",
+      "slaHours": 480,
       "menuPath": "Parks"
     },
     {
@@ -257,6 +281,14 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
+    },
+    {
+      "serviceCode": "PlasticBagsUsage",
+      "active": true,
+      "keywords": "plastic, bag, usage, waste",
+      "department": "DEPT_3",
+      "slaHours": 480,
+      "menuPath": ""
     }
   ]
 }
