@@ -283,12 +283,12 @@
       "menuPath": "WaterandSewage"
     },
     {
-      "serviceCode": "PlasticBagsUsage",
+      "serviceCode": "IllegalUsageOfPlasticBags",
       "active": true,
       "keywords": "plastic, bag, usage, waste",
       "department": "DEPT_3",
       "slaHours": 480,
-      "menuPath": ""
+      "menuPath": "PlasticBags"
     }
   ]
 }
