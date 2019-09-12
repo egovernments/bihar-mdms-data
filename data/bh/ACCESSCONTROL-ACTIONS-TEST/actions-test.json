@@ -2385,7 +2385,7 @@
       "name": "Home",
       "url": "url",
       "displayName": "Home",
-      "orderNumber": 1,
+      "orderNumber": 0,
       "parentModule": "rainmaker-pgr",
       "enabled": true,
       "serviceCode": "PGR",
