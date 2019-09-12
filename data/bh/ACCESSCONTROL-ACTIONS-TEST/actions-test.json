@@ -4385,7 +4385,7 @@
       "url": "/report/rainmaker-tl/_get",
       "displayName": "TL Report",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "TLREPORTS",
       "code": "null",
       "path": "TL Report"
