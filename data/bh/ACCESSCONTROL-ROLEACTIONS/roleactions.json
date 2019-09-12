@@ -2691,6 +2691,12 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "CSR",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1556,
       "actioncode": "",
