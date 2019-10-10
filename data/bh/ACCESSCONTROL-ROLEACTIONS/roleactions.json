@@ -6074,7 +6074,6 @@
       "actioncode": "",
       "tenantId": "bh"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 1698,
@@ -7408,83 +7407,83 @@
       "tenantId": "bh"
     },
     {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1773,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1779,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1780,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1781,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1782,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1805,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1806,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1807,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "PTCEMP",
-        "actionid": 1808,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "PTFEMP",
-        "actionid": 1808,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1805,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1537,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1590,
-        "actioncode": "",
-        "tenantId": "bh"
-      },
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1773,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1779,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1780,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1781,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1805,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1806,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1807,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1808,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 1808,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1805,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
     {
       "rolecode": "GRO",
       "actionid": 1842,
@@ -7796,6 +7795,12 @@
       "actionid": 1847,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
