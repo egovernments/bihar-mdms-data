@@ -22,6 +22,27 @@
           "code": "bh.biharsharif"
         }
       ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "bh.sonpur"
+        },
+        {
+          "code": "bh.hajipur"
+        },
+        {
+          "code": "bh.fatuha"
+        },
+        {
+          "code": "bh.danapur"
+        },
+        {
+          "code": "bh.biharsharif"
+        }
+      ]
     }
   ]
 }
