@@ -646,23 +646,29 @@
       "uniqueKeys": [
         "$.code"
       ]
+    }
+  },
+  "BillingService": {
+    "BusinessService": {
+      "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     },
-    "BillingService": {
-      "BusinessService": {
-        "masterName": "BusinessService",
-        "isStateLevel": true,
-        "uniqueKeys": [ "$.code" ]
-      },
-      "TaxHeadMaster": {
-        "masterName": "TaxHeadMaster",
-        "isStateLevel": true,
-        "uniqueKeys": [ "$.code" ]
-      },
-      "TaxPeriod": {
-        "masterName": "TaxPeriod",
-        "isStateLevel": true,
-        "uniqueKeys": [ "$.code" ]
-      }
+    "TaxHeadMaster": {
+      "masterName": "TaxHeadMaster",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TaxPeriod": {
+      "masterName": "TaxPeriod",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   }
 }
