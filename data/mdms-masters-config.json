@@ -651,17 +651,17 @@
       "BusinessService": {
         "masterName": "BusinessService",
         "isStateLevel": true,
-        "uniqueKeys": []
+        "uniqueKeys": [ "$.code" ]
       },
       "TaxHeadMaster": {
         "masterName": "TaxHeadMaster",
         "isStateLevel": true,
-        "uniqueKeys": []
+        "uniqueKeys": [ "$.code" ]
       },
       "TaxPeriod": {
         "masterName": "TaxPeriod",
         "isStateLevel": true,
-        "uniqueKeys": []
+        "uniqueKeys": [ "$.code" ]
       }
     }
   }
