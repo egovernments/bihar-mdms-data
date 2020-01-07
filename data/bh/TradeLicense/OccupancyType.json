@@ -3,11 +3,11 @@
   "moduleName": "TradeLicense",
   "OccupancyType": [
     {
-      "code": "OCCUPANCYTYPE.OWNED",
+      "code": "OWNED",
       "active": true
     },
     {
-      "code": "OCCUPANCYTYPE.RENTED",
+      "code": "RENTED",
       "active": true
     }
   ]
