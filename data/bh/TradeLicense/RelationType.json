@@ -3,19 +3,19 @@
   "moduleName": "TradeLicense",
   "RelationType": [
     {
-      "code": "RELATIONTYPE.PROPRIETOR",
+      "code": "PROPRIETOR",
       "active": true
     },
     {
-      "code": "RELATIONTYPE.PARTNER",
+      "code": "PARTNER",
       "active": true
     },
     {
-      "code": "RELATIONTYPE.DIRECTOR",
+      "code": "DIRECTOR",
       "active": true
     },
     {
-      "code": "RELATIONTYPE.AUTHORIZEDSIGNATORY",
+      "code": "AUTHORIZEDSIGNATORY",
       "active": true
     }
   ]
