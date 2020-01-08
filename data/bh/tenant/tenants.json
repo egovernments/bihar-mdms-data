@@ -1,4 +1,8 @@
 {
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "tenants": [
+    {
       "code": "bh.biharsharif",
       "name": "Biharsharif",
       "description": "Biharsharif",
@@ -29,9 +33,8 @@
       },
       "address": "Biharsharif Municipal corporation, Biharsharif",
       "contactNumber": "1800-121-4554"
-    }
-
-{
+    },
+    {
       "code": "bh.muzaffarpur",
       "name": "Muzaffarpur",
       "description": "Muzaffarpur",
@@ -62,9 +65,8 @@
       },
       "address": "Muzaffarpur Municipal Corporation , Muzaffarpur",
       "contactNumber": "9939005692"
-    }
-
-{
+    },
+    {
       "code": "bh.danapur",
       "name": "Danapur",
       "description": "Danapur",
@@ -96,8 +98,7 @@
       "address": "Danapur Municipal Council , Danapur",
       "contactNumber": "7250444794 /7677223981"
     },
-
-{
+    {
       "code": "bh.hajipur",
       "name": "Hajipur",
       "description": "Hajipur",
@@ -129,7 +130,7 @@
       "address": "Hajipur Municipal Council , Hajipur",
       "contactNumber": "7808016983"
     },
-{
+    {
       "code": "bh.sitamarhi",
       "name": "Sitamarhi",
       "description": "Sitamarhi",
@@ -161,7 +162,7 @@
       "address": "Sitamarhi Municipal Council , Sitamarhi",
       "contactNumber": "Not Available"
     },
-{
+    {
       "code": "bh.katihar",
       "name": "Katihar",
       "description": "Katihar",
@@ -193,7 +194,7 @@
       "address": "Katihar Municipal Corporation , Katihar",
       "contactNumber": "9934997256 /9122483309"
     },
-{
+    {
       "code": "bh.bhagalpur",
       "name": "Bhagalpur",
       "description": "Bhagalpur",
@@ -225,3 +226,5 @@
       "address": "Bhagalpur Municipal Corporation , Bhagalpur",
       "contactNumber": "8292151116"
     }
+  ]
+}
