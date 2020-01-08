@@ -3,11 +3,11 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PGR",
-      "code": "PGR",
+      "module": "TL",
+      "code": "TL",
       "tenants": [
         {
-          "code": "bh.sonpur"
+          "code": "bh.muzaffarpur"
         },
         {
           "code": "bh.hajipur"
@@ -20,7 +20,17 @@
         },
         {
           "code": "bh.biharsharif"
+        },
+        {
+          "code": "bh.sitamarhi"
+        },
+        {
+          "code": "bh.katihar"
+        },
+        {
+          "code": "bh.bhagalpur"
         }
+        
       ]
     },
     {
