@@ -18,7 +18,7 @@
         "code": "bh.hajipur",
         "children": [
           {
-            "id": "44e35c86-5a10-47f0-b00d-66256b0371c0",
+            "id": "354724f5-b247-4db5-893f-5e47974f1dbb",
             "boundaryNum": 1,
             "name": "Hajipur",
             "localname": "Hajipur",
@@ -28,20 +28,20 @@
             "code": "CIRCLE1",
             "children": [
               {
-                "id": "d5028433-577c-4bd6-b0be-d808d9ba7481",
+                "id": "575c7434-2441-47cd-9257-0f1e0dc14dd1",
                 "boundaryNum": 1,
                 "name": "Ward 1",
                 "localname": "Ward 1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 1",
+                "code": "W36120",
                 "children": [
                   {
-                    "id": "673d4384-add7-4db6-9aac-5f88fb817773",
+                    "id": "12bc2bce-6bdc-4c5a-906b-0871f4036bfa",
                     "boundaryNum": 1,
-                    "name": "Khatakaji Barkhurdar - WARD 1",
-                    "localname": "Khatakaji Barkhurdar - WARD 1",
+                    "name": "KHATAKAJI BARKHURDAR - Ward 1",
+                    "localname": "KHATAKAJI BARKHURDAR - Ward 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -50,10 +50,10 @@
                     "children": []
                   },
                   {
-                    "id": "eea4afe4-9e8a-4b47-90b0-307011bef402",
+                    "id": "4752ebfe-6473-4076-9bda-f584862989be",
                     "boundaryNum": 1,
-                    "name": "Hathsarganj - WARD 1",
-                    "localname": "Hathsarganj - WARD 1",
+                    "name": "HATHSARGANJ - Ward 1",
+                    "localname": "HATHSARGANJ - Ward 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -64,20 +64,20 @@
                 ]
               },
               {
-                "id": "f54ae4ef-7b6b-4ca6-9626-5a7120bd78e8",
+                "id": "bcdab8b6-e914-4eb3-afa5-4f4a5787dd4e",
                 "boundaryNum": 1,
                 "name": "Ward 2",
                 "localname": "Ward 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 2",
+                "code": "W36121",
                 "children": [
                   {
-                    "id": "8b6d60cc-7b05-4520-94fc-c8ece3db9366",
+                    "id": "6cc87f54-2294-4f72-82bb-ab1ee963f27d",
                     "boundaryNum": 1,
-                    "name": "Khatakaji Barkhurdar - WARD 2",
-                    "localname": "Khatakaji Barkhurdar - WARD 2",
+                    "name": "KHATAKAJI BARKHURDAR - Ward 2",
+                    "localname": "KHATAKAJI BARKHURDAR - Ward 2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -86,10 +86,10 @@
                     "children": []
                   },
                   {
-                    "id": "cdb0c216-4e96-412a-99da-f3df590444cd",
+                    "id": "ef1734e4-bf60-4945-8e01-1eb99cfe33d7",
                     "boundaryNum": 1,
-                    "name": "Hathsarganj - WARD 2",
-                    "localname": "Hathsarganj - WARD 2",
+                    "name": "HATHSARGANJ - Ward 2",
+                    "localname": "HATHSARGANJ - Ward 2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -100,20 +100,20 @@
                 ]
               },
               {
-                "id": "b960f9e4-93fb-456d-a28b-3ffc0741a13b",
+                "id": "8e137186-b9cf-40d9-b8fc-cb7a8330c6d5",
                 "boundaryNum": 1,
                 "name": "Ward 3",
                 "localname": "Ward 3",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 3",
+                "code": "W36122",
                 "children": [
                   {
-                    "id": "b58914a2-7018-47a4-920e-13ffa73e1435",
+                    "id": "13138196-e37f-42ba-9d80-e41d6c391163",
                     "boundaryNum": 1,
-                    "name": "Hathsarganj - WARD 3",
-                    "localname": "Hathsarganj - WARD 3",
+                    "name": "HATHSARGANJ - Ward 3",
+                    "localname": "HATHSARGANJ - Ward 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -122,10 +122,10 @@
                     "children": []
                   },
                   {
-                    "id": "0fa04d23-c6ee-4af6-abdc-7b389f9ddfbc",
+                    "id": "f82bf5ca-8760-447f-84e6-d259e29268ee",
                     "boundaryNum": 1,
-                    "name": "Sanchipatti - WARD 3",
-                    "localname": "Sanchipatti - WARD 3",
+                    "name": "SANCHIPATTI - Ward 3",
+                    "localname": "SANCHIPATTI - Ward 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -136,20 +136,20 @@
                 ]
               },
               {
-                "id": "ab45cd17-2803-46a3-aab3-01ef7838ef30",
+                "id": "43cbd3ea-4b41-4ea4-aabf-459d819555ad",
                 "boundaryNum": 1,
                 "name": "Ward 4",
                 "localname": "Ward 4",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 4",
+                "code": "W36123",
                 "children": [
                   {
-                    "id": "e36c2715-c5c9-4195-90fa-f1a87ba2163f",
+                    "id": "99c778ee-b3a5-4385-a17e-2e7f0ffc8423",
                     "boundaryNum": 1,
-                    "name": "Bagmusha - WARD 4",
-                    "localname": "Bagmusha - WARD 4",
+                    "name": "BAGMUSHA - Ward 4",
+                    "localname": "BAGMUSHA - Ward 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -158,10 +158,10 @@
                     "children": []
                   },
                   {
-                    "id": "134d1644-5f90-4c69-a543-4e1f552af6c9",
+                    "id": "ce010957-2c30-4c1f-a91d-3e62496a77ea",
                     "boundaryNum": 1,
-                    "name": "Bagmali - WARD 4",
-                    "localname": "Bagmali - WARD 4",
+                    "name": "BAGMALI - Ward 4",
+                    "localname": "BAGMALI - Ward 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -170,10 +170,10 @@
                     "children": []
                   },
                   {
-                    "id": "c494cf39-53d1-41b2-984f-9fa310378908",
+                    "id": "4fdf617a-a5a9-451a-b363-bd58e8ef78d5",
                     "boundaryNum": 1,
-                    "name": "Pokhra - WARD 4",
-                    "localname": "Pokhra - WARD 4",
+                    "name": "POKHRA - Ward 4",
+                    "localname": "POKHRA - Ward 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -182,10 +182,10 @@
                     "children": []
                   },
                   {
-                    "id": "ae0ce30a-76a6-488f-a598-7175f71bd3d8",
+                    "id": "bc1bb2c8-31fb-43ad-82aa-c5f816153c39",
                     "boundaryNum": 1,
-                    "name": "Bagmali - WARD 4",
-                    "localname": "Bagmali - WARD 4",
+                    "name": "BAGMALI - Ward 4",
+                    "localname": "BAGMALI - Ward 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -194,10 +194,10 @@
                     "children": []
                   },
                   {
-                    "id": "e9d29a04-850e-4634-82ee-cada53271ad9",
+                    "id": "88062b34-ef76-46c9-8dab-aa25b026bb66",
                     "boundaryNum": 1,
-                    "name": "Khatajangi - WARD 4",
-                    "localname": "Khatajangi - WARD 4",
+                    "name": "KHATAJANGI - Ward 4",
+                    "localname": "KHATAJANGI - Ward 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -208,20 +208,20 @@
                 ]
               },
               {
-                "id": "d25a37a2-d130-4901-bacb-2b373889627e",
+                "id": "f34c8841-1a38-4cff-acab-d6a6b15ef964",
                 "boundaryNum": 1,
                 "name": "Ward 5",
                 "localname": "Ward 5",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 5",
+                "code": "W36124",
                 "children": [
                   {
-                    "id": "f36b738f-bc0f-4e8a-bf99-4395f8eaa662",
+                    "id": "6a452a48-7038-4b71-a673-242fbbab1e63",
                     "boundaryNum": 1,
-                    "name": "Bagmali - WARD 5",
-                    "localname": "Bagmali - WARD 5",
+                    "name": "BAGMALI - Ward 5",
+                    "localname": "BAGMALI - Ward 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -232,20 +232,20 @@
                 ]
               },
               {
-                "id": "90846540-a49b-45d6-b44a-ec8989c45762",
+                "id": "e3c0b172-90eb-460f-92e6-e979b6f77d2a",
                 "boundaryNum": 1,
                 "name": "Ward 6",
                 "localname": "Ward 6",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 6",
+                "code": "W36125",
                 "children": [
                   {
-                    "id": "5e70bdec-f0bb-4fbf-8420-b83dc9cefcf8",
+                    "id": "4ed02533-404a-4d34-9968-3de33af54bc9",
                     "boundaryNum": 1,
-                    "name": "Sanchipatti - WARD 6",
-                    "localname": "Sanchipatti - WARD 6",
+                    "name": "SANCHIPATTI - Ward 6",
+                    "localname": "SANCHIPATTI - Ward 6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -256,20 +256,20 @@
                 ]
               },
               {
-                "id": "6ddba659-a698-4918-9a02-32c06b20261d",
+                "id": "b1ae249d-e2b7-442c-a482-785ea382dcce",
                 "boundaryNum": 1,
                 "name": "Ward 7",
                 "localname": "Ward 7",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 7",
+                "code": "W36126",
                 "children": [
                   {
-                    "id": "fecfa48d-df23-4274-a35a-254c691a1c26",
+                    "id": "ad6c2424-6fb8-48c2-89ef-b98ebe167f23",
                     "boundaryNum": 1,
-                    "name": "Bagmali - WARD 7",
-                    "localname": "Bagmali - WARD 7",
+                    "name": "BAGMALI - Ward 7",
+                    "localname": "BAGMALI - Ward 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -278,10 +278,10 @@
                     "children": []
                   },
                   {
-                    "id": "1fb1ef8e-d3c2-4fd7-92ad-ba2b362b7a95",
+                    "id": "90d9206e-8796-4ace-adab-b7bad7e2dde8",
                     "boundaryNum": 1,
-                    "name": "Maksadpura - WARD 7",
-                    "localname": "Maksadpura - WARD 7",
+                    "name": "MAKSADPURA - Ward 7",
+                    "localname": "MAKSADPURA - Ward 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -290,10 +290,10 @@
                     "children": []
                   },
                   {
-                    "id": "ce57b265-489f-4ddd-87fb-87cd519e79b6",
+                    "id": "33cd4226-b0b0-43d6-9dff-f2016d88d187",
                     "boundaryNum": 1,
-                    "name": "Sanchipatti - WARD 7",
-                    "localname": "Sanchipatti - WARD 7",
+                    "name": "SANCHIPATTI - Ward 7",
+                    "localname": "SANCHIPATTI - Ward 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -304,20 +304,20 @@
                 ]
               },
               {
-                "id": "e82f4d35-f8c4-4073-9284-f91cabb6c71a",
+                "id": "66591a87-6e6c-4f13-a390-7e1cff7f9203",
                 "boundaryNum": 1,
                 "name": "Ward 8",
                 "localname": "Ward 8",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 8",
+                "code": "W36127",
                 "children": [
                   {
-                    "id": "64d2f838-0962-498c-b1e8-64da9aea11a7",
+                    "id": "2d5669e6-5eea-491a-abb7-7483d5525559",
                     "boundaryNum": 1,
-                    "name": "Tangaul - WARD 8",
-                    "localname": "Tangaul - WARD 8",
+                    "name": "TANGAUL, - Ward 8",
+                    "localname": "TANGAUL, - Ward 8",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -326,10 +326,10 @@
                     "children": []
                   },
                   {
-                    "id": "da73a316-f7af-4e02-b311-b173e56e641b",
+                    "id": "3b512e6f-56e0-4b40-ae5a-91f85b9ac2f1",
                     "boundaryNum": 1,
-                    "name": "Sanchipatti - WARD 8",
-                    "localname": "Sanchipatti - WARD 8",
+                    "name": "SANCHIPATTI - Ward 8",
+                    "localname": "SANCHIPATTI - Ward 8",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -338,10 +338,10 @@
                     "children": []
                   },
                   {
-                    "id": "0441676e-c176-4168-87ac-b3d5b57cf0da",
+                    "id": "e7470f24-982f-4b8c-b890-db655d686838",
                     "boundaryNum": 1,
-                    "name": "Maksadpura - WARD 8",
-                    "localname": "Maksadpura - WARD 8",
+                    "name": "MAKSADPURA - Ward 8",
+                    "localname": "MAKSADPURA - Ward 8",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -352,20 +352,20 @@
                 ]
               },
               {
-                "id": "f21f89bf-6742-4459-bf3b-ef47774d645e",
+                "id": "e43b0fd1-1eba-42a3-bc17-0a09ab731ac8",
                 "boundaryNum": 1,
                 "name": "Ward 9",
                 "localname": "Ward 9",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 9",
+                "code": "W36128",
                 "children": [
                   {
-                    "id": "3e878ea3-4b8e-4a86-8ac9-91e0871fcde1",
+                    "id": "23f43c19-ac77-4474-96dd-6dc49681a167",
                     "boundaryNum": 1,
-                    "name": "Anderkila - WARD 9",
-                    "localname": "Anderkila - WARD 9",
+                    "name": "ANDERKILA - Ward 9",
+                    "localname": "ANDERKILA - Ward 9",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -374,10 +374,10 @@
                     "children": []
                   },
                   {
-                    "id": "936307ae-5de7-4e91-87c2-2b22650f12ce",
+                    "id": "9123c1e7-d28b-4897-88cb-086769deb7a6",
                     "boundaryNum": 1,
-                    "name": "Maksadpura - WARD 9",
-                    "localname": "Maksadpura - WARD 9",
+                    "name": "MAKSADPURA - Ward 9",
+                    "localname": "MAKSADPURA - Ward 9",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -388,20 +388,20 @@
                 ]
               },
               {
-                "id": "d6e6be0e-b1f4-4c0d-ab25-73c4a856298e",
+                "id": "c7ed0841-12a9-42f6-a7e6-557d2540cb24",
                 "boundaryNum": 1,
                 "name": "Ward 10",
                 "localname": "Ward 10",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 10",
+                "code": "W36129",
                 "children": [
                   {
-                    "id": "37bd5880-3501-4207-a493-ae83241e7287",
+                    "id": "936bce42-9fd0-4334-afa6-1fcb4b7c2bd5",
                     "boundaryNum": 1,
-                    "name": "Nakhas - WARD 10",
-                    "localname": "Nakhas - WARD 10",
+                    "name": "NAKHAS - Ward 10",
+                    "localname": "NAKHAS - Ward 10",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -410,10 +410,10 @@
                     "children": []
                   },
                   {
-                    "id": "71f74443-2db7-4e03-aea9-3d1f55a4b9b6",
+                    "id": "e8b8255d-a50c-43f9-8118-0a3e3b783893",
                     "boundaryNum": 1,
-                    "name": "Anderkila - WARD 10",
-                    "localname": "Anderkila - WARD 10",
+                    "name": "ANDERKILA - Ward 10",
+                    "localname": "ANDERKILA - Ward 10",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -424,20 +424,20 @@
                 ]
               },
               {
-                "id": "244b6fec-87c8-40ec-a223-026d4658e212",
+                "id": "84eb91e2-b684-48f4-ba8d-141b91648ccd",
                 "boundaryNum": 1,
                 "name": "Ward 11",
                 "localname": "Ward 11",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 11",
+                "code": "W36130",
                 "children": [
                   {
-                    "id": "5da941a7-2083-4489-8aa1-f52bf3076696",
+                    "id": "5c599f7e-af04-4af0-a489-74479e2a5989",
                     "boundaryNum": 1,
-                    "name": "Nakhas - WARD 11",
-                    "localname": "Nakhas - WARD 11",
+                    "name": "NAKHAS - Ward 11",
+                    "localname": "NAKHAS - Ward 11",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -446,10 +446,10 @@
                     "children": []
                   },
                   {
-                    "id": "ca3bad41-cf65-4a86-a884-5760811435d6",
+                    "id": "76960c75-6c5f-40e6-8c9c-3579bea96d6d",
                     "boundaryNum": 1,
-                    "name": "Magarhatta - WARD 11",
-                    "localname": "Magarhatta - WARD 11",
+                    "name": "MAGARHATTA - Ward 11",
+                    "localname": "MAGARHATTA - Ward 11",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -458,10 +458,10 @@
                     "children": []
                   },
                   {
-                    "id": "0f19c2f3-7066-4a55-8d65-bd2ca31cbc7e",
+                    "id": "66e414bf-4678-4e67-9a70-fc2ed07804dc",
                     "boundaryNum": 1,
-                    "name": "Masjid Chowk - WARD 11",
-                    "localname": "Masjid Chowk - WARD 11",
+                    "name": "MASJID CHOWK - Ward 11",
+                    "localname": "MASJID CHOWK - Ward 11",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -470,10 +470,10 @@
                     "children": []
                   },
                   {
-                    "id": "7feca6f3-5fe6-49d1-bc6a-e852b48f9a54",
+                    "id": "dad82868-7009-4d50-abbb-d7a3138674db",
                     "boundaryNum": 1,
-                    "name": "Anderkila - WARD 11",
-                    "localname": "Anderkila - WARD 11",
+                    "name": "ANDERKILA - Ward 11",
+                    "localname": "ANDERKILA - Ward 11",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -482,10 +482,10 @@
                     "children": []
                   },
                   {
-                    "id": "a4245118-0c2c-4b34-a5b4-2e7534669f44",
+                    "id": "d7c5d858-ae37-41f8-a262-8ca3544068b5",
                     "boundaryNum": 1,
-                    "name": "Hela Bazar - WARD 11",
-                    "localname": "Hela Bazar - WARD 11",
+                    "name": "HELA BAZAR - Ward 11",
+                    "localname": "HELA BAZAR - Ward 11",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -496,20 +496,20 @@
                 ]
               },
               {
-                "id": "1ac3ddcc-1281-4f0d-89e3-6a8a2372e06e",
+                "id": "c36d6ad4-c37a-4a3a-b4cb-a34834c109e4",
                 "boundaryNum": 1,
                 "name": "Ward 12",
                 "localname": "Ward 12",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 12",
+                "code": "W36131",
                 "children": [
                   {
-                    "id": "33d7632a-3226-48d6-ab90-09845e7015cd",
+                    "id": "9e015031-03a8-4111-afca-e0473eead42f",
                     "boundaryNum": 1,
-                    "name": "Magargatta - WARD 12",
-                    "localname": "Magargatta - WARD 12",
+                    "name": "MAGARGATTA - Ward 12",
+                    "localname": "MAGARGATTA - Ward 12",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -518,10 +518,10 @@
                     "children": []
                   },
                   {
-                    "id": "75b6bd39-78d3-4e6d-8c3d-0a534b5fcc02",
+                    "id": "d6c86e85-eb28-40a3-b491-63fd8e13c925",
                     "boundaryNum": 1,
-                    "name": "Hela Bazar - WARD 12",
-                    "localname": "Hela Bazar - WARD 12",
+                    "name": "HELA BAZAR - Ward 12",
+                    "localname": "HELA BAZAR - Ward 12",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -530,10 +530,10 @@
                     "children": []
                   },
                   {
-                    "id": "a4e2f056-12ca-4743-bbcb-29ab545660a7",
+                    "id": "f09b6520-aa35-41ef-8e5d-9332b92e801c",
                     "boundaryNum": 1,
-                    "name": "Rambhadra - WARD 12",
-                    "localname": "Rambhadra - WARD 12",
+                    "name": "RAMBHADRA - Ward 12",
+                    "localname": "RAMBHADRA - Ward 12",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -542,10 +542,10 @@
                     "children": []
                   },
                   {
-                    "id": "06faf526-d255-48d2-8f9d-bd0f97481b3b",
+                    "id": "48d8d6e5-3c32-4081-846e-d47a5f43a856",
                     "boundaryNum": 1,
-                    "name": "Anderkila - WARD 12",
-                    "localname": "Anderkila - WARD 12",
+                    "name": "ANDERKILA - Ward 12",
+                    "localname": "ANDERKILA - Ward 12",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -556,20 +556,20 @@
                 ]
               },
               {
-                "id": "db6502ae-b453-4ab4-a324-d29e5df67eb7",
+                "id": "15de841c-5c83-4818-8614-88d9b4b5fc0a",
                 "boundaryNum": 1,
                 "name": "Ward 13",
                 "localname": "Ward 13",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 13",
+                "code": "W36132",
                 "children": [
                   {
-                    "id": "31de9768-f256-403a-806f-0d8f4a3a3f1b",
+                    "id": "e4dda39c-8004-4f94-9228-052c61a211a6",
                     "boundaryNum": 1,
-                    "name": "Hasan Khan - WARD 13",
-                    "localname": "Hasan Khan - WARD 13",
+                    "name": "HASAN KHAN - Ward 13",
+                    "localname": "HASAN KHAN - Ward 13",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -578,10 +578,10 @@
                     "children": []
                   },
                   {
-                    "id": "cc16835e-3fdc-4b7d-8c8b-d12a93c8d29e",
+                    "id": "3f99f816-3a45-42f3-bde2-03ab8467c180",
                     "boundaryNum": 1,
-                    "name": "Bharat Raut - WARD 13",
-                    "localname": "Bharat Raut - WARD 13",
+                    "name": "BHARAT RAUT - Ward 13",
+                    "localname": "BHARAT RAUT - Ward 13",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -590,10 +590,10 @@
                     "children": []
                   },
                   {
-                    "id": "faa3c278-7a30-4c4e-8a3b-e5f7701f3684",
+                    "id": "c12d75c5-8221-46ac-873e-73d2e8f3b822",
                     "boundaryNum": 1,
-                    "name": "Pandriva - WARD 13",
-                    "localname": "Pandriva - WARD 13",
+                    "name": "PANDRIVA - Ward 13",
+                    "localname": "PANDRIVA - Ward 13",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -602,10 +602,10 @@
                     "children": []
                   },
                   {
-                    "id": "acd38bba-cc3f-4beb-a56e-cedf8be0cac0",
+                    "id": "18575425-b38a-437c-9271-7726de680df0",
                     "boundaryNum": 1,
-                    "name": "Magarhatta - WARD 13",
-                    "localname": "Magarhatta - WARD 13",
+                    "name": "MAGARHATTA - Ward 13",
+                    "localname": "MAGARHATTA - Ward 13",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -614,10 +614,10 @@
                     "children": []
                   },
                   {
-                    "id": "0fa8b0b1-017e-48a6-833e-d12b5a81c9a2",
+                    "id": "830e89ab-6b0e-407a-adc5-4c7c94768a62",
                     "boundaryNum": 1,
-                    "name": "Rambhadra - WARD 13",
-                    "localname": "Rambhadra - WARD 13",
+                    "name": "RAMBHADRA - Ward 13",
+                    "localname": "RAMBHADRA - Ward 13",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -628,20 +628,20 @@
                 ]
               },
               {
-                "id": "9e30c2bf-3d77-4f9f-9b65-d11d8fb6fcca",
+                "id": "d21415c0-ff69-4cb3-b306-76ce92bee190",
                 "boundaryNum": 1,
                 "name": "Ward 14",
                 "localname": "Ward 14",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 14",
+                "code": "W36133",
                 "children": [
                   {
-                    "id": "ec7f89df-7c2f-44f1-babd-6a28b0764b5f",
+                    "id": "993df0fe-3369-41b9-b935-baf8e7460ea1",
                     "boundaryNum": 1,
-                    "name": "Chowk - WARD 14",
-                    "localname": "Chowk - WARD 14",
+                    "name": "CHOWK - Ward 14",
+                    "localname": "CHOWK - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -650,10 +650,10 @@
                     "children": []
                   },
                   {
-                    "id": "b5e1f51c-1be8-445e-8629-8aa7bc72c06c",
+                    "id": "77c5edea-cb59-4e08-947e-c17290a8424a",
                     "boundaryNum": 1,
-                    "name": "Manika Chowk - WARD 14",
-                    "localname": "Manika Chowk - WARD 14",
+                    "name": "MANIKA CHOWK - Ward 14",
+                    "localname": "MANIKA CHOWK - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -662,10 +662,10 @@
                     "children": []
                   },
                   {
-                    "id": "51784b83-5918-4fbf-806a-abfc8d1c49ea",
+                    "id": "c7ddd3d4-8f23-4135-bf1f-05501d456854",
                     "boundaryNum": 1,
-                    "name": "Chaudhary Mubarak - WARD 14",
-                    "localname": "Chaudhary Mubarak - WARD 14",
+                    "name": "CHAUDHARY MUBARAK - Ward 14",
+                    "localname": "CHAUDHARY MUBARAK - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -674,10 +674,10 @@
                     "children": []
                   },
                   {
-                    "id": "1dab6a5d-5ba5-4364-a5ae-31d560c1320b",
+                    "id": "60deff39-e827-4015-a547-b81a85d7eb18",
                     "boundaryNum": 1,
-                    "name": "Hasan Khan - WARD 14",
-                    "localname": "Hasan Khan - WARD 14",
+                    "name": "HASAN KHAN - Ward 14",
+                    "localname": "HASAN KHAN - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -686,10 +686,10 @@
                     "children": []
                   },
                   {
-                    "id": "74a4c75c-4368-4429-a366-e11ce26012ad",
+                    "id": "af367542-c182-44a6-939b-3f140ad945e3",
                     "boundaryNum": 1,
-                    "name": "Kanhaimal - WARD 14",
-                    "localname": "Kanhaimal - WARD 14",
+                    "name": "KANHAIMAL - Ward 14",
+                    "localname": "KANHAIMAL - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -698,10 +698,10 @@
                     "children": []
                   },
                   {
-                    "id": "12e6e89f-6e7d-457c-999a-fc5239b27b19",
+                    "id": "9caf4034-8e13-455d-90a4-17e5b4ade9f4",
                     "boundaryNum": 1,
-                    "name": "Nakhas - WARD 14",
-                    "localname": "Nakhas - WARD 14",
+                    "name": "NAKHAS - Ward 14",
+                    "localname": "NAKHAS - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -710,10 +710,10 @@
                     "children": []
                   },
                   {
-                    "id": "85b34cd3-1365-425e-a2fc-fc9ec78848ac",
+                    "id": "dbffaff6-d05b-461b-9eb3-9144e4441b25",
                     "boundaryNum": 1,
-                    "name": "Mufti Bazar - WARD 14",
-                    "localname": "Mufti Bazar - WARD 14",
+                    "name": "MUFTI BAZAR - Ward 14",
+                    "localname": "MUFTI BAZAR - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -722,10 +722,10 @@
                     "children": []
                   },
                   {
-                    "id": "3d067da8-db31-415a-a390-c6b2914168d0",
+                    "id": "233a6127-5480-437d-b77f-43a4ce7ae9c7",
                     "boundaryNum": 1,
-                    "name": "Pandriva - WARD 14",
-                    "localname": "Pandriva - WARD 14",
+                    "name": "PANDRIVA - Ward 14",
+                    "localname": "PANDRIVA - Ward 14",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -736,20 +736,20 @@
                 ]
               },
               {
-                "id": "413ae654-3399-4ee5-9fb8-29c13d72af5d",
+                "id": "6909459f-4887-4f41-8ec0-cb5d6364831e",
                 "boundaryNum": 1,
                 "name": "Ward 15",
                 "localname": "Ward 15",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 15",
+                "code": "W36134",
                 "children": [
                   {
-                    "id": "7a200df4-5c01-4253-b8e2-09bbe691c26a",
+                    "id": "967523eb-6587-4b91-94c1-9f1b33e01b55",
                     "boundaryNum": 1,
-                    "name": "Noongola - WARD 15",
-                    "localname": "Noongola - WARD 15",
+                    "name": "NOONGOLA - Ward 15",
+                    "localname": "NOONGOLA - Ward 15",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -758,10 +758,10 @@
                     "children": []
                   },
                   {
-                    "id": "f8635c9b-8a99-4f24-9ca1-d07a0798f82d",
+                    "id": "1656ad21-9bac-47bc-8823-83c2f208c252",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 15",
-                    "localname": "Pokhara - WARD 15",
+                    "name": "POKHARA - Ward 15",
+                    "localname": "POKHARA - Ward 15",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -770,10 +770,10 @@
                     "children": []
                   },
                   {
-                    "id": "b17e2dd6-17e7-4128-a573-82580063ca9a",
+                    "id": "1c76f9d4-2ddb-4b0b-a18b-613df9192c6c",
                     "boundaryNum": 1,
-                    "name": "Mufti Bazar - WARD 15",
-                    "localname": "Mufti Bazar - WARD 15",
+                    "name": "MUFTI BAZAR - Ward 15",
+                    "localname": "MUFTI BAZAR - Ward 15",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -782,10 +782,10 @@
                     "children": []
                   },
                   {
-                    "id": "cc3853f9-f775-4e0a-ad7c-b31dec814cf3",
+                    "id": "9b05936e-9942-4eee-b0e3-bd529a0cae67",
                     "boundaryNum": 1,
-                    "name": "Anderkila - WARD 15",
-                    "localname": "Anderkila - WARD 15",
+                    "name": "ANDERKILA - Ward 15",
+                    "localname": "ANDERKILA - Ward 15",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -796,20 +796,20 @@
                 ]
               },
               {
-                "id": "3b35f4ba-a41d-4c44-915b-092be5c32eb2",
+                "id": "d912377d-c611-47e3-b7a9-41af4d0327fa",
                 "boundaryNum": 1,
                 "name": "Ward 16",
                 "localname": "Ward 16",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 16",
+                "code": "W36135",
                 "children": [
                   {
-                    "id": "d3f8e084-96a4-44d2-bc2c-a5697a6aaf4b",
+                    "id": "c2d92d03-ed47-48ff-b98e-036830d2f935",
                     "boundaryNum": 1,
-                    "name": "Pokhra - WARD 16",
-                    "localname": "Pokhra - WARD 16",
+                    "name": "POKHRA - Ward 16",
+                    "localname": "POKHRA - Ward 16",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -818,10 +818,10 @@
                     "children": []
                   },
                   {
-                    "id": "77e4b8b1-fc98-414f-a32c-6ba287ec4da4",
+                    "id": "830e6a7c-25ab-4e52-a11e-c2abdc5655b3",
                     "boundaryNum": 1,
-                    "name": "Kanhaimal - WARD 16",
-                    "localname": "Kanhaimal - WARD 16",
+                    "name": "KANHAIMAL - Ward 16",
+                    "localname": "KANHAIMAL - Ward 16",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -830,10 +830,10 @@
                     "children": []
                   },
                   {
-                    "id": "10388709-5d5f-4357-8b35-60b4637c07d0",
+                    "id": "c615066a-6aff-4cc2-a6f9-19fd065c3bf2",
                     "boundaryNum": 1,
-                    "name": "Noongola - WARD 16",
-                    "localname": "Noongola - WARD 16",
+                    "name": "NOONGOLA - Ward 16",
+                    "localname": "NOONGOLA - Ward 16",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -842,10 +842,10 @@
                     "children": []
                   },
                   {
-                    "id": "b58d1edc-9205-4afe-827b-e71f3aefac36",
+                    "id": "da54db33-d1ff-4c79-af00-0ae945419ee3",
                     "boundaryNum": 1,
-                    "name": "Chaudhary Mubarak - WARD 16",
-                    "localname": "Chaudhary Mubarak - WARD 16",
+                    "name": "CHAUDHARY MUBARAK - Ward 16",
+                    "localname": "CHAUDHARY MUBARAK - Ward 16",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -856,20 +856,20 @@
                 ]
               },
               {
-                "id": "db8af551-5bf4-43c3-ac3e-d56b1fd4c57a",
+                "id": "2093e942-9421-469f-89a7-3ac094f972b5",
                 "boundaryNum": 1,
                 "name": "Ward 17",
                 "localname": "Ward 17",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 17",
+                "code": "W36136",
                 "children": [
                   {
-                    "id": "3d15652d-574f-4f19-be4a-06b7a1db1a1c",
+                    "id": "fbcc3e0b-efd3-40e0-89d3-3659686c19dc",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 17",
-                    "localname": "Pokhara - WARD 17",
+                    "name": "POKHARA - Ward 17",
+                    "localname": "POKHARA - Ward 17",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -878,10 +878,10 @@
                     "children": []
                   },
                   {
-                    "id": "39b7d9d1-8660-4c7c-9224-247cb3c4cb51",
+                    "id": "3ae14043-d905-42c5-99fe-e660766e7e4b",
                     "boundaryNum": 1,
-                    "name": "Noongola - WARD 17",
-                    "localname": "Noongola - WARD 17",
+                    "name": "NOONGOLA - Ward 17",
+                    "localname": "NOONGOLA - Ward 17",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -892,20 +892,20 @@
                 ]
               },
               {
-                "id": "402dcc63-49de-4b39-ad1c-866a33889722",
+                "id": "1979d3f9-1a12-4764-9c35-8629631a642e",
                 "boundaryNum": 1,
                 "name": "Ward 18",
                 "localname": "Ward 18",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 18",
+                "code": "W36137",
                 "children": [
                   {
-                    "id": "702627be-0a68-434f-a912-c881ada79282",
+                    "id": "723e6c0b-f7aa-4ee1-b759-a33f79c77f38",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 18",
-                    "localname": "Pokhara - WARD 18",
+                    "name": "POKHARA - Ward 18",
+                    "localname": "POKHARA - Ward 18",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -916,20 +916,20 @@
                 ]
               },
               {
-                "id": "23f22b0f-7a2e-4ef8-a3c1-5cab3fa3ebcc",
+                "id": "34f09434-9608-4ff1-8a9d-0fbf0fa86f02",
                 "boundaryNum": 1,
                 "name": "Ward 19",
                 "localname": "Ward 19",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 19",
+                "code": "W1299147",
                 "children": [
                   {
-                    "id": "fd3847f8-b075-4e50-b6e7-8cc797588bba",
+                    "id": "27df823d-6581-4dac-a36f-28521ebd90cf",
                     "boundaryNum": 1,
-                    "name": "Pokhra - WARD 19",
-                    "localname": "Pokhra - WARD 19",
+                    "name": "POKHRA - Ward 19",
+                    "localname": "POKHRA - Ward 19",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -938,10 +938,10 @@
                     "children": []
                   },
                   {
-                    "id": "2dfc0611-2c6d-4f57-a0dd-84b317fa98f2",
+                    "id": "d6b94005-91fd-411a-9be3-365ce578a3ba",
                     "boundaryNum": 1,
-                    "name": "Maksadpura - WARD 19",
-                    "localname": "Maksadpura - WARD 19",
+                    "name": "MAKSADPURA - Ward 19",
+                    "localname": "MAKSADPURA - Ward 19",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -950,10 +950,10 @@
                     "children": []
                   },
                   {
-                    "id": "6fbe8351-b69c-45f1-8837-6852b22db51c",
+                    "id": "7611cc2c-7d15-4adf-977a-1681e2cd9a62",
                     "boundaryNum": 1,
-                    "name": "Anwarpur - WARD 19",
-                    "localname": "Anwarpur - WARD 19",
+                    "name": "ANWARPUR - Ward 19",
+                    "localname": "ANWARPUR - Ward 19",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -964,20 +964,20 @@
                 ]
               },
               {
-                "id": "4d15c619-34db-4b96-8191-d5d4c674f676",
+                "id": "b9b6fded-cc68-4b3f-9c79-183e638abbb6",
                 "boundaryNum": 1,
                 "name": "Ward 20",
                 "localname": "Ward 20",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 20",
+                "code": "W1299148",
                 "children": [
                   {
-                    "id": "d3dd5a52-f95b-4332-ab41-30be0b851a56",
+                    "id": "2fe70dbd-924b-4298-aa1c-a2d95de492a1",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 20",
-                    "localname": "Pokhara - WARD 20",
+                    "name": "POKHARA - Ward 20",
+                    "localname": "POKHARA - Ward 20",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -986,10 +986,10 @@
                     "children": []
                   },
                   {
-                    "id": "a5796072-9a30-48cf-a384-2fa96115b34c",
+                    "id": "ea66eb1f-8124-4e58-937d-d4eded04de2e",
                     "boundaryNum": 1,
-                    "name": "Bagdulhan - WARD 20",
-                    "localname": "Bagdulhan - WARD 20",
+                    "name": "BAGDULHAN - Ward 20",
+                    "localname": "BAGDULHAN - Ward 20",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1000,20 +1000,20 @@
                 ]
               },
               {
-                "id": "be8ef2e8-7063-4956-add8-68ca1c2b5c20",
+                "id": "4f867cd2-d475-4325-9b75-de156bcf9d96",
                 "boundaryNum": 1,
                 "name": "Ward 21",
                 "localname": "Ward 21",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 21",
+                "code": "W1299149",
                 "children": [
                   {
-                    "id": "5b3f0e2b-bd25-4585-856e-2402a12c811f",
+                    "id": "8d8e920b-789b-450b-9132-70ccd72bc1a7",
                     "boundaryNum": 1,
-                    "name": "Anwarpur - WARD 21",
-                    "localname": "Anwarpur - WARD 21",
+                    "name": "ANWARPUR - Ward 21",
+                    "localname": "ANWARPUR - Ward 21",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1024,20 +1024,20 @@
                 ]
               },
               {
-                "id": "5f602c93-baa7-4dab-9adb-c57f59ea2e3d",
+                "id": "41c14bd4-f6b7-47bc-bbda-cc51d0a10276",
                 "boundaryNum": 1,
                 "name": "Ward 22",
                 "localname": "Ward 22",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 22",
+                "code": "W1299150",
                 "children": [
                   {
-                    "id": "15ca7391-d024-437a-b2bf-ed24a52b6396",
+                    "id": "503f6e52-c2ca-4d83-b0fa-e344b10fdeab",
                     "boundaryNum": 1,
-                    "name": "Anwarpur - WARD 22",
-                    "localname": "Anwarpur - WARD 22",
+                    "name": "ANWARPUR - Ward 22",
+                    "localname": "ANWARPUR - Ward 22",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1046,10 +1046,10 @@
                     "children": []
                   },
                   {
-                    "id": "cfd64fb5-b0c1-4d2a-bc70-0f25c2c4f279",
+                    "id": "5d738c30-3060-4bdf-a854-11a68ff91c7b",
                     "boundaryNum": 1,
-                    "name": "Bagdulhan - WARD 22",
-                    "localname": "Bagdulhan - WARD 22",
+                    "name": "BAGDULHAN - Ward 22",
+                    "localname": "BAGDULHAN - Ward 22",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1060,20 +1060,20 @@
                 ]
               },
               {
-                "id": "19613cb5-45c9-4faa-913f-a420fbfc87be",
+                "id": "5df961b2-0658-4dec-b831-f5d1cc44587e",
                 "boundaryNum": 1,
                 "name": "Ward 23",
                 "localname": "Ward 23",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 23",
+                "code": "W1299151",
                 "children": [
                   {
-                    "id": "b1e92fab-0b24-48d2-aca3-e5750f41be5e",
+                    "id": "be104a86-1d1a-4cb8-be66-f70b881a99d9",
                     "boundaryNum": 1,
-                    "name": "Bagdulhan - WARD 23",
-                    "localname": "Bagdulhan - WARD 23",
+                    "name": "BAGDULHAN - Ward 23",
+                    "localname": "BAGDULHAN - Ward 23",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1082,10 +1082,10 @@
                     "children": []
                   },
                   {
-                    "id": "bcd226ac-e58a-4540-9b63-5b82526925a7",
+                    "id": "d4ed6c84-905e-4cce-a721-fa7279ac0916",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 23",
-                    "localname": "Pokhara - WARD 23",
+                    "name": "POKHARA - Ward 23",
+                    "localname": "POKHARA - Ward 23",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1096,20 +1096,20 @@
                 ]
               },
               {
-                "id": "3e8ca000-331b-4c92-a5cd-a19182ccadaf",
+                "id": "87cf5d36-bb9f-4268-936f-48db3310ab6a",
                 "boundaryNum": 1,
                 "name": "Ward 24",
                 "localname": "Ward 24",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 24",
+                "code": "W1299152",
                 "children": [
                   {
-                    "id": "637bb86d-b633-4fd2-ab62-3cb57bf62202",
+                    "id": "c7d96ecc-27a1-4cd3-b14d-e31fe4667e80",
                     "boundaryNum": 1,
-                    "name": "Dhanauti - WARD 24",
-                    "localname": "Dhanauti - WARD 24",
+                    "name": "DHANAUTI - Ward 24",
+                    "localname": "DHANAUTI - Ward 24",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1118,10 +1118,10 @@
                     "children": []
                   },
                   {
-                    "id": "a3a94fe8-3a4d-4ec7-b1af-c5c8eda23a36",
+                    "id": "9bbf7a47-1f3b-41ed-8f0e-e5c8725f9c26",
                     "boundaryNum": 1,
-                    "name": "Ibrahimganj - WARD 24",
-                    "localname": "Ibrahimganj - WARD 24",
+                    "name": "IBRAHIMGANJ - Ward 24",
+                    "localname": "IBRAHIMGANJ - Ward 24",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1130,10 +1130,10 @@
                     "children": []
                   },
                   {
-                    "id": "95f6609d-7dc4-4529-a3a0-290b68598655",
+                    "id": "ed2cc6d1-6ede-4c1c-bae8-e51e3eeee130",
                     "boundaryNum": 1,
-                    "name": "Bagdulhan - WARD 24",
-                    "localname": "Bagdulhan - WARD 24",
+                    "name": "BAGDULHAN - Ward 24",
+                    "localname": "BAGDULHAN - Ward 24",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1142,10 +1142,10 @@
                     "children": []
                   },
                   {
-                    "id": "a6affd30-1ef8-4926-8893-3b04e8de5621",
+                    "id": "b003f340-9f4d-4698-abc4-e7c481ce9a37",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 24",
-                    "localname": "Pokhara - WARD 24",
+                    "name": "POKHARA - Ward 24",
+                    "localname": "POKHARA - Ward 24",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1156,20 +1156,20 @@
                 ]
               },
               {
-                "id": "b5e55aab-3e5d-49a8-a70d-5b63df45d846",
+                "id": "24d4cd63-44de-44f1-bef0-5d44645f768f",
                 "boundaryNum": 1,
                 "name": "Ward 25",
                 "localname": "Ward 25",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 25",
+                "code": "W1299153",
                 "children": [
                   {
-                    "id": "e3b5fd0c-cc0a-42b8-9684-edacd6f546c8",
+                    "id": "7518356b-f1e7-40e6-959e-08e8ac8f6843",
                     "boundaryNum": 1,
-                    "name": "Dhanauti - WARD 25",
-                    "localname": "Dhanauti - WARD 25",
+                    "name": "DHANAUTI - Ward 25",
+                    "localname": "DHANAUTI - Ward 25",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1178,10 +1178,10 @@
                     "children": []
                   },
                   {
-                    "id": "8a3ee368-5b0b-4ba2-b4c1-d96e3ab990e1",
+                    "id": "3a32601c-dbce-4c27-8b2e-8af7f8dde089",
                     "boundaryNum": 1,
-                    "name": "Ibrahimganj - WARD 25",
-                    "localname": "Ibrahimganj - WARD 25",
+                    "name": "IBRAHIMGANJ - Ward 25",
+                    "localname": "IBRAHIMGANJ - Ward 25",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1190,10 +1190,10 @@
                     "children": []
                   },
                   {
-                    "id": "6588b346-8c71-4d47-833a-f0e392d1d8d9",
+                    "id": "b56bcc73-5e99-43bf-8d88-ea64b2fa95d3",
                     "boundaryNum": 1,
-                    "name": "Bagdulhan - WARD 25",
-                    "localname": "Bagdulhan - WARD 25",
+                    "name": "BAGDULHAN - Ward 25",
+                    "localname": "BAGDULHAN - Ward 25",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1202,10 +1202,10 @@
                     "children": []
                   },
                   {
-                    "id": "e53734a4-20dc-40a4-a2cf-e905b93e19ef",
+                    "id": "f18356ab-0bb5-4038-8ab4-c7da170a828c",
                     "boundaryNum": 1,
-                    "name": "Pachchis Kurva - WARD 25",
-                    "localname": "Pachchis Kurva - WARD 25",
+                    "name": "PACHCHIS KURVA - Ward 25",
+                    "localname": "PACHCHIS KURVA - Ward 25",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1216,20 +1216,20 @@
                 ]
               },
               {
-                "id": "f751655f-0e29-4e25-aad6-19c7aa7855bc",
+                "id": "54e845ed-67ba-45ff-af65-1918fce2e613",
                 "boundaryNum": 1,
                 "name": "Ward 26",
                 "localname": "Ward 26",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 26",
+                "code": "W1299154",
                 "children": [
                   {
-                    "id": "4a16b7a2-295b-4d12-8d55-a0c41cb7383d",
+                    "id": "10a4b26a-2a64-4eb1-84fa-b630dfd3a284",
                     "boundaryNum": 1,
-                    "name": "Yusufpur - WARD 26",
-                    "localname": "Yusufpur - WARD 26",
+                    "name": "YUSUFPUR - Ward 26",
+                    "localname": "YUSUFPUR - Ward 26",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1238,10 +1238,10 @@
                     "children": []
                   },
                   {
-                    "id": "540e8250-dbab-4e72-9c29-64454489532e",
+                    "id": "2f4a4f49-d4aa-41cc-a9ed-933c285bf8a9",
                     "boundaryNum": 1,
-                    "name": "Ibrahimganj - WARD 26",
-                    "localname": "Ibrahimganj - WARD 26",
+                    "name": "IBRAHIMGANJ - Ward 26",
+                    "localname": "IBRAHIMGANJ - Ward 26",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1252,20 +1252,20 @@
                 ]
               },
               {
-                "id": "7b42182d-38e9-4f95-97f9-fee9d978a8cb",
+                "id": "8975f561-e8e8-4638-b373-ea553b54e500",
                 "boundaryNum": 1,
                 "name": "Ward 27",
                 "localname": "Ward 27",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 27",
+                "code": "W1299155",
                 "children": [
                   {
-                    "id": "00b8a1e4-0a0b-47a5-87bf-c7fba659b56d",
+                    "id": "bc2e07ed-e27e-4dee-b636-d45ae6f78902",
                     "boundaryNum": 1,
-                    "name": "Pokhara - WARD 27",
-                    "localname": "Pokhara - WARD 27",
+                    "name": "POKHARA - Ward 27",
+                    "localname": "POKHARA - Ward 27",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1274,10 +1274,10 @@
                     "children": []
                   },
                   {
-                    "id": "9f8541f7-47ed-42c2-96f6-a7f1e25270e4",
+                    "id": "ee6c633c-0b75-4677-b10c-5f96919c1851",
                     "boundaryNum": 1,
-                    "name": "Ibrahimganj - WARD 27",
-                    "localname": "Ibrahimganj - WARD 27",
+                    "name": "IBRAHIMGANJ - Ward 27",
+                    "localname": "IBRAHIMGANJ - Ward 27",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1286,10 +1286,10 @@
                     "children": []
                   },
                   {
-                    "id": "779aeeb3-d15d-4f6a-9e85-4666c0fb9d80",
+                    "id": "045c1d5c-34c9-402e-9f96-a51cab96f7c3",
                     "boundaryNum": 1,
-                    "name": "Medanimal - WARD 27",
-                    "localname": "Medanimal - WARD 27",
+                    "name": "MEDANIMAL - Ward 27",
+                    "localname": "MEDANIMAL - Ward 27",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1300,20 +1300,20 @@
                 ]
               },
               {
-                "id": "5d35b55f-f327-4799-98a2-b73d2848b802",
+                "id": "1e423cda-16e7-4662-8284-1b68d8fb7dd8",
                 "boundaryNum": 1,
                 "name": "Ward 28",
                 "localname": "Ward 28",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 28",
+                "code": "W1299156",
                 "children": [
                   {
-                    "id": "1128474e-e3fc-4b23-ac36-54658c329554",
+                    "id": "6156e520-d833-46f4-a8c8-20488e16fcec",
                     "boundaryNum": 1,
-                    "name": "Yusufpur - WARD 28",
-                    "localname": "Yusufpur - WARD 28",
+                    "name": "YUSUFPUR - Ward 28",
+                    "localname": "YUSUFPUR - Ward 28",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1322,10 +1322,10 @@
                     "children": []
                   },
                   {
-                    "id": "ea78a4e1-c959-44f6-85d6-973475722fab",
+                    "id": "4b4c48f8-f077-470b-80b1-44fc5c9e6c44",
                     "boundaryNum": 1,
-                    "name": "Minapur - WARD 28",
-                    "localname": "Minapur - WARD 28",
+                    "name": "MINAPUR - Ward 28",
+                    "localname": "MINAPUR - Ward 28",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1334,10 +1334,10 @@
                     "children": []
                   },
                   {
-                    "id": "520413ef-ad1f-4a6a-b7c1-64d956ee9393",
+                    "id": "2d2bd67e-d39b-4b75-945c-8e7aa6a6c95b",
                     "boundaryNum": 1,
-                    "name": "Chhipitola - WARD 28",
-                    "localname": "Chhipitola - WARD 28",
+                    "name": "CHHIPITOLA - Ward 28",
+                    "localname": "CHHIPITOLA - Ward 28",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1348,20 +1348,20 @@
                 ]
               },
               {
-                "id": "f3e2577b-2856-4968-9858-b449eaf419da",
+                "id": "4c0a8d9d-53f9-40bd-af5a-9a23b90d386c",
                 "boundaryNum": 1,
                 "name": "Ward 29",
                 "localname": "Ward 29",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 29",
+                "code": "W1299157",
                 "children": [
                   {
-                    "id": "71dc4d38-f69e-4dc4-8e2e-8c7f08c25a73",
+                    "id": "3ef50516-879c-4c6e-b553-72030b9147f1",
                     "boundaryNum": 1,
-                    "name": "Bharat Raut - WARD 29",
-                    "localname": "Bharat Raut - WARD 29",
+                    "name": "BHARAT RAUT - Ward 29",
+                    "localname": "BHARAT RAUT - Ward 29",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1370,10 +1370,10 @@
                     "children": []
                   },
                   {
-                    "id": "4de8724c-174a-473d-9069-2e8ea5401d5f",
+                    "id": "450e3ee0-0875-4c22-87f6-43717cde50af",
                     "boundaryNum": 1,
-                    "name": "Chhipitola - WARD 29",
-                    "localname": "Chhipitola - WARD 29",
+                    "name": "CHHIPITOLA - Ward 29",
+                    "localname": "CHHIPITOLA - Ward 29",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1382,10 +1382,10 @@
                     "children": []
                   },
                   {
-                    "id": "32b55f02-43fa-43e8-b72b-da7fd7e48b64",
+                    "id": "37eb4917-4ea4-4b18-a936-2fde12f93f5d",
                     "boundaryNum": 1,
-                    "name": "Lodipur - WARD 29",
-                    "localname": "Lodipur - WARD 29",
+                    "name": "LODIPUR - Ward 29",
+                    "localname": "LODIPUR - Ward 29",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1394,10 +1394,10 @@
                     "children": []
                   },
                   {
-                    "id": "c844a1cf-102c-4545-a75b-32839b0bdee8",
+                    "id": "1c96cbc5-ca53-4abd-ad34-9ee7098a738f",
                     "boundaryNum": 1,
-                    "name": "Patwatoli - WARD 29",
-                    "localname": "Patwatoli - WARD 29",
+                    "name": "PATWATOLI - Ward 29",
+                    "localname": "PATWATOLI - Ward 29",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1408,20 +1408,20 @@
                 ]
               },
               {
-                "id": "71c39c4d-d59d-4dde-adac-1bb0afe75a64",
+                "id": "7b6abd6a-e802-4909-bfa4-67d3823205ad",
                 "boundaryNum": 1,
                 "name": "Ward 30",
                 "localname": "Ward 30",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 30",
+                "code": "W1299158",
                 "children": [
                   {
-                    "id": "86f2d845-c70e-4a70-98cc-4258083ec968",
+                    "id": "f351aaeb-a57b-49da-ae4a-bf8da8bcecce",
                     "boundaryNum": 1,
-                    "name": "Rambhadra - WARD 30",
-                    "localname": "Rambhadra - WARD 30",
+                    "name": "RAMBHADRA - Ward 30",
+                    "localname": "RAMBHADRA - Ward 30",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1430,10 +1430,10 @@
                     "children": []
                   },
                   {
-                    "id": "b1ef3696-300b-4b19-a926-b534969327dd",
+                    "id": "3644137f-67a3-4c1b-8112-2beae1cdb479",
                     "boundaryNum": 1,
-                    "name": "Chakbara - WARD 30",
-                    "localname": "Chakbara - WARD 30",
+                    "name": "CHAKBARA - Ward 30",
+                    "localname": "CHAKBARA - Ward 30",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1442,10 +1442,10 @@
                     "children": []
                   },
                   {
-                    "id": "498e2839-c447-491b-b4df-64d1329df33d",
+                    "id": "a4a1a309-a88a-41b2-8097-8903b64648f6",
                     "boundaryNum": 1,
-                    "name": "Lodipur - WARD 30",
-                    "localname": "Lodipur - WARD 30",
+                    "name": "LODIPUR - Ward 30",
+                    "localname": "LODIPUR - Ward 30",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1454,10 +1454,10 @@
                     "children": []
                   },
                   {
-                    "id": "9c59241f-98a3-41c8-b6fd-6014d78e1f90",
+                    "id": "d7ea57e2-2ec5-405c-bb1b-4256e92cfe44",
                     "boundaryNum": 1,
-                    "name": "Patwatoli - WARD 30",
-                    "localname": "Patwatoli - WARD 30",
+                    "name": "PATWATOLI - Ward 30",
+                    "localname": "PATWATOLI - Ward 30",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1468,20 +1468,20 @@
                 ]
               },
               {
-                "id": "bcb51535-ca10-4cd4-b287-0549fdb02619",
+                "id": "f80827c7-80a2-47d9-b7c8-594a648c2a5d",
                 "boundaryNum": 1,
                 "name": "Ward 31",
                 "localname": "Ward 31",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 31",
+                "code": "W1299159",
                 "children": [
                   {
-                    "id": "d248a937-c6ef-497e-b897-a2b7be4fb785",
+                    "id": "fb3f7612-266a-4b46-be53-170244a74702",
                     "boundaryNum": 1,
-                    "name": "Lodipur - WARD 31",
-                    "localname": "Lodipur - WARD 31",
+                    "name": "LODIPUR - Ward 31",
+                    "localname": "LODIPUR - Ward 31",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1490,10 +1490,10 @@
                     "children": []
                   },
                   {
-                    "id": "028497f1-5f4b-4882-8e88-5c15ab383773",
+                    "id": "19a11477-2a40-45ed-885e-31d8b681c842",
                     "boundaryNum": 1,
-                    "name": "Rambhadra - WARD 31",
-                    "localname": "Rambhadra - WARD 31",
+                    "name": "RAMBHADRA - Ward 31",
+                    "localname": "RAMBHADRA - Ward 31",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1502,10 +1502,10 @@
                     "children": []
                   },
                   {
-                    "id": "83266ffc-b8b2-4781-bfd8-f47706178af1",
+                    "id": "01e6a770-2035-4793-9cbd-8f636bcf22cd",
                     "boundaryNum": 1,
-                    "name": "Minapur - WARD 31",
-                    "localname": "Minapur - WARD 31",
+                    "name": "MINAPUR - Ward 31",
+                    "localname": "MINAPUR - Ward 31",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1514,10 +1514,10 @@
                     "children": []
                   },
                   {
-                    "id": "92b835e9-e8d8-4474-8f45-3bcb65cbe1d8",
+                    "id": "2b876619-09cf-44d7-97e5-f277087fe87e",
                     "boundaryNum": 1,
-                    "name": "Malipur - WARD 31",
-                    "localname": "Malipur - WARD 31",
+                    "name": "MALIPUR - Ward 31",
+                    "localname": "MALIPUR - Ward 31",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1526,10 +1526,10 @@
                     "children": []
                   },
                   {
-                    "id": "e97b5b6e-6f93-4f50-8c04-108b91d9510b",
+                    "id": "adbe8812-ccc5-4906-b0c8-dbd753611cef",
                     "boundaryNum": 1,
-                    "name": "Harvanshpur - WARD 31",
-                    "localname": "Harvanshpur - WARD 31",
+                    "name": "HARVANSHPUR - Ward 31",
+                    "localname": "HARVANSHPUR - Ward 31",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1540,20 +1540,20 @@
                 ]
               },
               {
-                "id": "7185f389-4380-4229-93ee-45762cf491cb",
+                "id": "a071ad4e-55c3-48fb-8388-bbf277400a62",
                 "boundaryNum": 1,
                 "name": "Ward 32",
                 "localname": "Ward 32",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 32",
+                "code": "W1299160",
                 "children": [
                   {
-                    "id": "5aef2215-68bf-4de7-ae32-675b7e5a3fdf",
+                    "id": "b87b3f41-6b89-4447-b2d4-4a2e7c3dd899",
                     "boundaryNum": 1,
-                    "name": "Minapur - WARD 32",
-                    "localname": "Minapur - WARD 32",
+                    "name": "MINAPUR - Ward 32",
+                    "localname": "MINAPUR - Ward 32",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1562,10 +1562,10 @@
                     "children": []
                   },
                   {
-                    "id": "f6d501f8-551c-462d-a818-ee75919b1234",
+                    "id": "a494a370-d0ce-4e05-a07f-7b65a9e21fcd",
                     "boundaryNum": 1,
-                    "name": "Chhipitola - WARD 32",
-                    "localname": "Chhipitola - WARD 32",
+                    "name": "CHHIPITOLA - Ward 32",
+                    "localname": "CHHIPITOLA - Ward 32",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1574,10 +1574,10 @@
                     "children": []
                   },
                   {
-                    "id": "85d2e0ea-4354-4f3a-a970-06089198f2b8",
+                    "id": "d21b78b9-88b2-42ea-9e46-26b52af7fbb4",
                     "boundaryNum": 1,
-                    "name": "Chaudhary Bazar - WARD 32",
-                    "localname": "Chaudhary Bazar - WARD 32",
+                    "name": "CHAUDHARY BAZAR - Ward 32",
+                    "localname": "CHAUDHARY BAZAR - Ward 32",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1586,10 +1586,10 @@
                     "children": []
                   },
                   {
-                    "id": "e60d6fdb-4007-46a1-a2c0-2d8cd34d3207",
+                    "id": "df8ce5fd-9fd1-4051-9d53-97ca32f74d86",
                     "boundaryNum": 1,
-                    "name": "Chaudhary Bajar - WARD 32",
-                    "localname": "Chaudhary Bajar - WARD 32",
+                    "name": "CHAUDHARY BAJAR - Ward 32",
+                    "localname": "CHAUDHARY BAJAR - Ward 32",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1600,20 +1600,20 @@
                 ]
               },
               {
-                "id": "c08c9629-0b11-4097-ae4e-5e72be35f8bc",
+                "id": "d54b2911-a305-41f4-863c-b29c2722816f",
                 "boundaryNum": 1,
                 "name": "Ward 33",
                 "localname": "Ward 33",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 33",
+                "code": "W1299161",
                 "children": [
                   {
-                    "id": "f1f01ac8-0c9b-4da2-8b21-54263ea03106",
+                    "id": "f92a7e0b-1dc0-423d-abd5-01b67e101ccf",
                     "boundaryNum": 1,
-                    "name": "Minapur - WARD 33",
-                    "localname": "Minapur - WARD 33",
+                    "name": "MINAPUR - Ward 33",
+                    "localname": "MINAPUR - Ward 33",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1624,20 +1624,20 @@
                 ]
               },
               {
-                "id": "8da7ecde-fecb-4833-871b-a6e38efa2c57",
+                "id": "391edf39-1f24-40c3-921f-4be6cc967a9d",
                 "boundaryNum": 1,
                 "name": "Ward 34",
                 "localname": "Ward 34",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 34",
+                "code": "W1299162",
                 "children": [
                   {
-                    "id": "a3e747f9-78bc-4331-946e-ac40cb46c5ba",
+                    "id": "885e6bc2-f308-43c4-a22e-2a521d74d4d6",
                     "boundaryNum": 1,
-                    "name": "Minapur - WARD 34",
-                    "localname": "Minapur - WARD 34",
+                    "name": "MINAPUR - Ward 34",
+                    "localname": "MINAPUR - Ward 34",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1646,10 +1646,10 @@
                     "children": []
                   },
                   {
-                    "id": "17b26c72-aa00-4016-9a22-ef35bd11f34e",
+                    "id": "0b7f56ee-2adf-4bf5-9340-ead76d235727",
                     "boundaryNum": 1,
-                    "name": "Saidpur - WARD 34",
-                    "localname": "Saidpur - WARD 34",
+                    "name": "SAIDPUR - Ward 34",
+                    "localname": "SAIDPUR - Ward 34",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1658,10 +1658,10 @@
                     "children": []
                   },
                   {
-                    "id": "07cbfe07-5f05-4889-bfda-303ee1eab25c",
+                    "id": "c0b83904-e3bf-4af6-89de-3830f0aa2b31",
                     "boundaryNum": 1,
-                    "name": "Jadhau - WARD 34",
-                    "localname": "Jadhau - WARD 34",
+                    "name": "JADHAU - Ward 34",
+                    "localname": "JADHAU - Ward 34",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1672,20 +1672,20 @@
                 ]
               },
               {
-                "id": "5ef22caf-ead1-419a-871b-4f5cb5e638a8",
+                "id": "d75ecc5d-a3a1-4fcf-8e12-28c3f00a17bc",
                 "boundaryNum": 1,
                 "name": "Ward 35",
                 "localname": "Ward 35",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 35",
+                "code": "W1299163",
                 "children": [
                   {
-                    "id": "cc6b7e84-1e2a-4d6f-8c9c-cbed9212784e",
+                    "id": "0016fe84-be10-4573-9cc2-98110cef8c53",
                     "boundaryNum": 1,
-                    "name": "Jadhau - WARD 35",
-                    "localname": "Jadhau - WARD 35",
+                    "name": "JADHAU - Ward 35",
+                    "localname": "JADHAU - Ward 35",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1696,20 +1696,20 @@
                 ]
               },
               {
-                "id": "a940af0f-a871-4e5e-8aaa-ccffc075bdea",
+                "id": "f7c43c0e-2823-45dd-b8bc-1b7a3d1c3e21",
                 "boundaryNum": 1,
                 "name": "Ward 36",
                 "localname": "Ward 36",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 36",
+                "code": "W1299164",
                 "children": [
                   {
-                    "id": "e09fb792-feef-4818-ac27-8b4f19718ac4",
+                    "id": "e673d07f-067b-4044-9267-7f1263f99135",
                     "boundaryNum": 1,
-                    "name": "Jadhau - WARD 36",
-                    "localname": "Jadhau - WARD 36",
+                    "name": "JADHAU - Ward 36",
+                    "localname": "JADHAU - Ward 36",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1718,10 +1718,10 @@
                     "children": []
                   },
                   {
-                    "id": "94f800ad-f45e-487b-8f52-6217f654deee",
+                    "id": "92d108c8-9d15-47b8-a1c9-fdd20d29e1b0",
                     "boundaryNum": 1,
-                    "name": "Saidpur - WARD 36",
-                    "localname": "Saidpur - WARD 36",
+                    "name": "SAIDPUR - Ward 36",
+                    "localname": "SAIDPUR - Ward 36",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1732,20 +1732,20 @@
                 ]
               },
               {
-                "id": "59be6c08-9925-46e9-942a-31fd83c3eaa8",
+                "id": "0af1f34a-d873-4e13-b7c5-d8c07fd23b00",
                 "boundaryNum": 1,
                 "name": "Ward 37",
                 "localname": "Ward 37",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 37",
+                "code": "W1299165",
                 "children": [
                   {
-                    "id": "668325ca-3180-4250-be87-09c766d1035f",
+                    "id": "1fc2bf31-e933-4854-b400-b82f7933696a",
                     "boundaryNum": 1,
-                    "name": "Yusufpur - WARD 37",
-                    "localname": "Yusufpur - WARD 37",
+                    "name": "YUSUFPUR - Ward 37",
+                    "localname": "YUSUFPUR - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1754,10 +1754,10 @@
                     "children": []
                   },
                   {
-                    "id": "96d340a1-59c3-4b09-87ac-e6a7b9408c98",
+                    "id": "bdb4d87c-241a-49a6-90b4-c395b3848caf",
                     "boundaryNum": 1,
-                    "name": "Barai Tola - WARD 37",
-                    "localname": "Barai Tola - WARD 37",
+                    "name": "BARAI TOLA - Ward 37",
+                    "localname": "BARAI TOLA - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1766,10 +1766,10 @@
                     "children": []
                   },
                   {
-                    "id": "3f837293-06e6-40f6-befb-0a987f4ec021",
+                    "id": "921bfbbb-ea36-4c2b-85cf-24bf790e4c0d",
                     "boundaryNum": 1,
-                    "name": "Jadhau - WARD 37",
-                    "localname": "Jadhau - WARD 37",
+                    "name": "JADHAU - Ward 37",
+                    "localname": "JADHAU - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1778,10 +1778,10 @@
                     "children": []
                   },
                   {
-                    "id": "9717cc00-d3bc-4027-95ed-46e92db24a6e",
+                    "id": "2df2a50e-ed7f-49d7-a893-4db96a7bf250",
                     "boundaryNum": 1,
-                    "name": "Jadhua Bagtola - WARD 37",
-                    "localname": "Jadhua Bagtola - WARD 37",
+                    "name": "JADHUA BAGTOLA - Ward 37",
+                    "localname": "JADHUA BAGTOLA - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1790,10 +1790,10 @@
                     "children": []
                   },
                   {
-                    "id": "c02ad08c-cd16-4e85-90a2-66831e7370e5",
+                    "id": "7a34ea45-e3de-41fd-aedd-37a227cc2032",
                     "boundaryNum": 1,
-                    "name": "Chiknauta - WARD 37",
-                    "localname": "Chiknauta - WARD 37",
+                    "name": "CHIKNAUTA - Ward 37",
+                    "localname": "CHIKNAUTA - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1802,10 +1802,10 @@
                     "children": []
                   },
                   {
-                    "id": "4c606c78-f55d-4622-86b2-e9fba6842d80",
+                    "id": "d0e1fa8d-6d23-4928-904c-5bd197d053ac",
                     "boundaryNum": 1,
-                    "name": "Baraitola - WARD 37",
-                    "localname": "Baraitola - WARD 37",
+                    "name": "BARAITOLA - Ward 37",
+                    "localname": "BARAITOLA - Ward 37",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1816,20 +1816,20 @@
                 ]
               },
               {
-                "id": "87a89c80-d49f-4181-a021-18973bbcc1fb",
+                "id": "9336871e-467f-42c3-8d26-b5f6a3fc5d3e",
                 "boundaryNum": 1,
                 "name": "Ward 38",
                 "localname": "Ward 38",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 38",
+                "code": "W1299166",
                 "children": [
                   {
-                    "id": "e1a31e29-126b-43dd-849a-f6f3dc92df6c",
+                    "id": "34628358-91cf-46a8-9b8a-aed6744a903d",
                     "boundaryNum": 1,
-                    "name": "Yusufpur - WARD 38",
-                    "localname": "Yusufpur - WARD 38",
+                    "name": "YUSUFPUR - Ward 38",
+                    "localname": "YUSUFPUR - Ward 38",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1838,10 +1838,10 @@
                     "children": []
                   },
                   {
-                    "id": "ccad0cab-186d-45aa-81a2-dabb764b4b00",
+                    "id": "6974005c-f9b6-45d5-9af8-152c1a3bc5ac",
                     "boundaryNum": 1,
-                    "name": "Baraitola - WARD 38",
-                    "localname": "Baraitola - WARD 38",
+                    "name": "BARAI TOLA - Ward 38",
+                    "localname": "BARAI TOLA - Ward 38",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1852,20 +1852,20 @@
                 ]
               },
               {
-                "id": "cc192157-bc39-44ea-b3f9-3ee8c86e3f1a",
+                "id": "94a1f519-aaf1-43b3-b4b6-d0398c28c5ac",
                 "boundaryNum": 1,
                 "name": "Ward 39",
                 "localname": "Ward 39",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD 39",
+                "code": "W1299167",
                 "children": [
                   {
-                    "id": "ddcf4fe9-7722-43c8-8222-3ebe72db5072",
+                    "id": "495fa7ef-bf2c-411c-9ce6-a4c208105e33",
                     "boundaryNum": 1,
-                    "name": "Jadhua - WARD 39",
-                    "localname": "Jadhua - WARD 39",
+                    "name": "JADHUA - Ward 39",
+                    "localname": "JADHUA - Ward 39",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1874,10 +1874,10 @@
                     "children": []
                   },
                   {
-                    "id": "dd60737b-887c-4787-8c96-88b6ba006b22",
+                    "id": "40750421-fd1e-4eb7-9f13-a68aab76c901",
                     "boundaryNum": 1,
-                    "name": "Bagtola - WARD 39",
-                    "localname": "Bagtola - WARD 39",
+                    "name": "BAGTOLA - Ward 39",
+                    "localname": "BAGTOLA - Ward 39",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1886,10 +1886,10 @@
                     "children": []
                   },
                   {
-                    "id": "9813da4d-96dc-4753-93b0-bdc7371f3d8d",
+                    "id": "090c93e8-2146-44e9-bb15-0ce44225c76b",
                     "boundaryNum": 1,
-                    "name": "Baraitola - WARD 39",
-                    "localname": "Baraitola - WARD 39",
+                    "name": "BARAITOLA - Ward 39",
+                    "localname": "BARAITOLA - Ward 39",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
