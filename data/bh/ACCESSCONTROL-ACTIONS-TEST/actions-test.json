@@ -5889,7 +5889,7 @@
       "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
-      "navigationURL": "/uc/search",
+      "navigationURL": "uc/search",
       "path": "Collections.Search Collections"
     }
   ]
