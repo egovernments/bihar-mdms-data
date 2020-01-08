@@ -7,6 +7,9 @@
       "code": "TL",
       "tenants": [
         {
+          "code": "bh.sonpur"
+        },
+        {
           "code": "bh.muzaffarpur"
         },
         {
