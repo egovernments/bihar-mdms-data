@@ -1,51 +1,78 @@
 {
-    "tenantId": "bh",
-    "moduleName": "common-masters",
-    "OwnerShipCategory":
-    [
-      {
-        "code": "INDIVIDUAL.SINGLEOWNER",
-        "active": true
-      },
-      {
-        "code": "INDIVIDUAL.MULTIPLEOWNERS",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.NGO",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PRIVATEBOARD",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
-        "active": true
-      }
+  "tenantId": "bh",
+  "moduleName": "common-masters",
+  "OwnerShipCategory": [
+        {
+            "code": "INDIVIDUAL.SINGLEOWNER",
+            "active": true
+        },
+        {
+            "code": "INDIVIDUAL.MULTIPLEOWNER",
+            "active": true
+        },
+        {
+            "code": "COMPANY.PROPRIETORSHIP",
+            "active": true
+        },
+        {
+            "code": "COMPANY.ONEPERSONCOMPANY",
+            "active": true
+        },
+        {
+            "code": "COMPANY.PARTNERSHIPFIRM",
+            "active": true
+        },
+        {
+            "code": "COMPANY.LIMITEDLIABILITYPARTNERSHIP",
+            "active": true
+        },
+        {
+            "code": "COMPANY.PRIVATELIMITEDCOMPANY",
+            "active": true
+        },
+        {
+            "code": "COMPANY.PUBLICLIMITEDCOMPANY",
+            "active": true
+        },
+        {
+            "code": "COMPANY.SECTION8COMPANY",
+            "active": true
+        },
+        {
+            "code": "SOCIETY.HOUSINGSOCIETY",
+            "active": true
+        },
+        {
+            "code": "SOCIETY.SELFHELPGROUP",
+            "active": true
+        },
+        {
+            "code": "TRUST.PRIVATETRUST",
+            "active": true
+        },
+        {
+            "code": "TRUST.PUBLICTRUST",
+            "active": true
+        },
+        {
+            "code": "TRUST.RELIGIOUSTRUST",
+            "active": true
+        },
+        {
+            "code": "GOVERNMENT.STATEGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "GOVERNMENT.CENTRALGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "GOVERNMENT.LOCALGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "GOVERNMENT.RURALLOCALGOVERNMENT",
+            "active": true
+        }
     ]
-  }
+}
