@@ -5940,7 +5940,7 @@
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
       "enabled": true,
-      "serviceCode": "COLLECTIONS",
+      "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
