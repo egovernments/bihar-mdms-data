@@ -5821,6 +5821,36 @@
       "actionid": 1846,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1813,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1814,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1816,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1817,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
