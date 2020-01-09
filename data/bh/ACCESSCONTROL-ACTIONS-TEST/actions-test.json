@@ -5944,7 +5944,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
-      "path": "State Reports.UC.Miscellaneous Collection category wise"
+      "path": "Reports.Miscellaneous Collection category wise"
     },
     {
       "id": 1848,
