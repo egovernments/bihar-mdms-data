@@ -5992,8 +5992,6 @@
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
       "path": "Reports.Misc Business Service Collections"
     },
     {
@@ -6005,8 +6003,6 @@
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
       "path": "Reports.Miscellaneous Collection category wise"
     },
     {
@@ -6018,8 +6014,6 @@
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
       "path": "Reports.miscellaneous Receipt Register"
     },
     {
@@ -6031,8 +6025,6 @@
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled",
       "path": "Reports.miscellaneous Receipt Register"
     },
     {
@@ -6044,8 +6036,6 @@
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
       "path": "Reports.Miscellaneous Receipt Register"
     }
   ]
