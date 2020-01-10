@@ -5818,7 +5818,7 @@
       "url": "url",
       "displayName": "Miscellaneous Receipt Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -5831,7 +5831,7 @@
       "url": "url",
       "displayName": "Miscellaneous Collection Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -5930,7 +5930,7 @@
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
+      "navigationURL": "report/rainmaker-uc/CollectionRegister",
       "path": "Reports.Collection Register"
     },
     {
@@ -5952,7 +5952,7 @@
       "url": "url",
       "displayName": "Misc Receipt Register State",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -5971,6 +5971,17 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
       "path": "Reports.Misc Business Service Collections"
+    },
+    {
+      "id": 1850,
+      "name": "UCReportMetadata",
+      "url": "/report/rainmaker-uc/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "UC Collection Metadata "
     }
   ]
 }
