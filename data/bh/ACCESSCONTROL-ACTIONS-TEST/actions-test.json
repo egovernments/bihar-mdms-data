@@ -5802,7 +5802,7 @@
     {
       "id": 1826,
       "name": "MiscReceiptULB",
-      "url": "url",
+      "url": "report/rainmaker-uc/MiscReceiptULB/metadata/_get",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
       "enabled": true,
@@ -5856,7 +5856,7 @@
     {
       "id": 1841,
       "name": "MiscReceiptULBCancelled",
-      "url": "url",
+      "url": "report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
       "displayName": "Miscellaneous Cancelled Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -5869,7 +5869,7 @@
     {
       "id": 1842,
       "name": "MiscReceiptULBShort",
-      "url": "url",
+      "url": "report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -5923,10 +5923,10 @@
     {
       "id": 1846,
       "name": "CollectionRegister",
-      "url": "url",
+      "url": "report/rainmaker-uc/CollectionRegister/metadata/_get",
       "displayName": "Collection Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "leftIcon": "action:description",
@@ -5936,7 +5936,7 @@
     {
       "id": 1847,
       "name": "MiscReceiptStateWide",
-      "url": "url",
+      "url": "report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
       "enabled": true,
@@ -5949,7 +5949,7 @@
     {
       "id": 1848,
       "name": "MiscReceiptState",
-      "url": "url",
+      "url": "report/rainmaker-uc/MiscReceiptState/metadata/_get",
       "displayName": "Misc Receipt Register State",
       "orderNumber": 1,
       "enabled": false,
@@ -5962,7 +5962,7 @@
     {
       "id": 1849,
       "name": "MiscBusinessServiceCollectionTenant",
-      "url": "url",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
       "displayName": "Misc Business Service Collections",
       "orderNumber": 1,
       "enabled": true,
