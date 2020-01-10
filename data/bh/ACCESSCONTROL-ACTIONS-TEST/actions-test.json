@@ -5986,7 +5986,7 @@
     {
       "id": 1851,
       "name": "MiscBusinessServiceCollectionTenant",
-      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
       "displayName": "Misc Business Service Collections",
       "orderNumber": 1,
       "enabled": true,
@@ -5997,7 +5997,7 @@
     {
       "id": 1852,
       "name": "MiscReceiptStateWide",
-      "url": "/report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptStateWide/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
       "enabled": true,
@@ -6008,7 +6008,7 @@
     {
       "id": 1853,
       "name": "MiscReceiptULBShort",
-      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -6019,7 +6019,7 @@
     {
       "id": 1854,
       "name": "MiscReceiptULBCancelled",
-      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
       "displayName": "Miscellaneous Cancelled Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -6030,7 +6030,7 @@
     {
       "id": 1855,
       "name": "MiscReceiptULB",
-      "url": "/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
       "enabled": true,
