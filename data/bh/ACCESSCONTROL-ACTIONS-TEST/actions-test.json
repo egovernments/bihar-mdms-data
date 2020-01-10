@@ -5886,7 +5886,7 @@
       "displayName": "Search Collections",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "uc/search",
