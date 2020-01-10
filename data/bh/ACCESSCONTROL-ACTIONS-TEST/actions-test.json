@@ -5930,7 +5930,7 @@
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-common/CollectionRegister",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
       "path": "Reports.Collection Register"
     },
     {
