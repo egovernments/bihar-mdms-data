@@ -23,7 +23,21 @@
       "defaultUrl" : {
           "citizen" : "/user/register",
           "employee" : "/user/login"
-      }
+      },
+       "userManuals": [
+        {
+          "module": "TL",
+          "manuals": [
+            {
+              "locale": "en_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/TL_English_UserManual_Citizen.pdf"
+            },
+            {
+              "locale": "hi_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/TL_Hindi_UserManual_Citizen.pdf"
+            }
+          ]
+        }
     }
   ]
 }
