@@ -1,7 +1,7 @@
 {
   "tenantId": "bh",
   "moduleName": "TradeLicense",
-  "MarketType": [
+  "EconomicStatus": [
         {
             "code": "BPL",
             "active": true
