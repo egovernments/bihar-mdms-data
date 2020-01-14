@@ -1,262 +1,262 @@
-{ 
-"tenantId":"bh",
-"moduleName":"tenant",
-"tenants":[ 
-{ 
-"code":"bh.biharsharif",
-"name":"Biharsharif",
-"description":"Biharsharif",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/biharsharif",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":null,
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Biharsharif",
-"localName":"Biharsharif",
-"districtCode":"209",
-"districtName":"Nalanda",
-"regionName":null,
-"ulbGrade":"Municipal Corporation",
-"longitude":85.5174,
-"latitude":25.205,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249645",
-"regionCode":null,
-"municipalityName":"Biharsharif Municipal Corporation"
-},
-"address":"Biharsharif Municipal corporation, Biharsharif",
-"contactNumber":"1800-121-4554"
-},
-{ 
-"code":"bh.muzaffarpur",
-"name":"Muzaffarpur",
-"description":"Muzaffarpur",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/muzaffarpur",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"mmc-muz-bih@nic.in,",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Muzaffarpur",
-"localName":"Muzaffarpur",
-"districtCode":"208",
-"districtName":"Muzaffarpur",
-"regionName":null,
-"ulbGrade":"Municipal Corporation",
-"longitude":null,
-"latitude":null,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249603",
-"regionCode":null,
-"municipalityName":"Muzaffarpur Municipal Corporation"
-},
-"address":"Muzaffarpur Municipal Corporation , Muzaffarpur",
-"contactNumber":"9939005692"
-},
-{ 
-"code":"bh.danapur",
-"name":"Danapur",
-"description":"Danapur",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/danapur",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"nagarparishaddanapur@gmail.com",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Danapur",
-"localName":"Danapur",
-"districtCode":"212",
-"districtName":"Patna",
-"regionName":null,
-"ulbGrade":"Municipal Council",
-"longitude":85.0414,
-"latitude":25.6241,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249648",
-"regionCode":null,
-"municipalityName":"Danapur Municipal Council"
-},
-"address":"Danapur Municipal Council , Danapur",
-"contactNumber":"7250444794 /7677223981"
-},
-{ 
-"code":"bh.hajipur",
-"name":"Hajipur",
-"description":"Hajipur",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/hajipur",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"hajipurnagarparishad@gmail.com",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Hajipur",
-"localName":"Hajipur",
-"districtCode":"224",
-"districtName":"Vaishali",
-"regionName":null,
-"ulbGrade":"Municipal Council",
-"longitude":85.2083,
-"latitude":25.6924,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249617",
-"regionCode":null,
-"municipalityName":"Hajipur Municipal Council"
-},
-"address":"Hajipur Municipal Council , Hajipur",
-"contactNumber":"7808016983"
-},
-{ 
-"code":"bh.sitamarhi",
-"name":"Sitamarhi",
-"description":"Sitamarhi",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/sitamarhi",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"sitamarhi.ulb@gmail.com",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Sitamarhi",
-"localName":"Sitamarhi",
-"districtCode":"221",
-"districtName":"Sitamarhi",
-"regionName":null,
-"ulbGrade":"Municipal Council",
-"longitude":null,
-"latitude":null,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249575",
-"regionCode":null,
-"municipalityName":"Sitamarhi Municipal Council"
-},
-"address":"Sitamarhi Municipal Council , Sitamarhi",
-"contactNumber":"Not Available"
-},
-{ 
-"code":"bh.katihar",
-"name":"Katihar",
-"description":"Katihar",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/katihar",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"nagarnigamkatihar@gmail.com",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Katihar",
-"localName":"Katihar",
-"districtCode":"201",
-"districtName":"Katihar",
-"regionName":null,
-"ulbGrade":"Municipal Corporation",
-"longitude":null,
-"latitude":null,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"249595",
-"regionCode":null,
-"municipalityName":"Katihar Municipal Corporation"
-},
-"address":"Katihar Municipal Corporation , Katihar",
-"contactNumber":"9934997256 /9122483309"
-},
-{ 
-"code":"bh.bhagalpur",
-"name":"Bhagalpur",
-"description":"Bhagalpur",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://nagarseva.bihar.gov.in/bhagalpur",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":"nagarnigambhagalpur@gmail.com",
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Bhagalpur",
-"localName":"Bhagalpur",
-"districtCode":"192",
-"districtName":"Bhagalpur",
-"regionName":null,
-"ulbGrade":"Municipal Corporation",
-"longitude":null,
-"latitude":null,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"277643",
-"regionCode":null,
-"municipalityName":"Bhagalpur Municipal Corporation"
-},
-"address":"Bhagalpur Municipal Corporation , Bhagalpur",
-"contactNumber":"8292151116"
-},
-{ 
-"code":"bh.sonpur",
-"name":"Sonpur",
-"description":"Sonpur",
-"logoId":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/biharcommonulblogo.jpg",
-"imageId":null,
-"domainUrl":"https://patnamunicipal.net/pmc/public",
-"type":"CITY",
-"twitterUrl":null,
-"facebookUrl":null,
-"emailId":null,
-"OfficeTimings":{ 
-"Mon - Sat":"10.00 AM - 5.00 PM"
-},
-"city":{ 
-"name":"Sonpur",
-"localName":"Sonpur",
-"districtCode":"49",
-"districtName":"Sonpur",
-"regionName":null,
-"ulbGrade":"NP",
-"longitude":85.1784,
-"latitude":25.6943,
-"shapeFileLocation":null,
-"captcha":null,
-"code":"248430",
-"regionCode":null,
-"municipalityName":"Sonpur Nagar Panchayat"
-},
-"address":"Not Available",
-"contactNumber":"Not Available"
-}
-]
+{
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "bh.biharsharif",
+      "name": "Biharsharif",
+      "description": "Biharsharif",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.biharsharif/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/biharsharif",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Biharsharif",
+        "localName": "Biharsharif",
+        "districtCode": "209",
+        "districtName": "Nalanda",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 85.5174,
+        "latitude": 25.205,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249645",
+        "regionCode": null,
+        "municipalityName": "Biharsharif Municipal Corporation"
+      },
+      "address": "Biharsharif Municipal corporation, Biharsharif",
+      "contactNumber": "1800-121-4554"
+    },
+    {
+      "code": "bh.muzaffarpur",
+      "name": "Muzaffarpur",
+      "description": "Muzaffarpur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.muzaffarpur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/muzaffarpur",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mmc-muz-bih@nic.in,",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Muzaffarpur",
+        "localName": "Muzaffarpur",
+        "districtCode": "208",
+        "districtName": "Muzaffarpur",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249603",
+        "regionCode": null,
+        "municipalityName": "Muzaffarpur Municipal Corporation"
+      },
+      "address": "Muzaffarpur Municipal Corporation , Muzaffarpur",
+      "contactNumber": "9939005692"
+    },
+    {
+      "code": "bh.danapur",
+      "name": "Danapur",
+      "description": "Danapur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.danapur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/danapur",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nagarparishaddanapur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Danapur",
+        "localName": "Danapur",
+        "districtCode": "212",
+        "districtName": "Patna",
+        "regionName": null,
+        "ulbGrade": "Municipal Council",
+        "longitude": 85.0414,
+        "latitude": 25.6241,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249648",
+        "regionCode": null,
+        "municipalityName": "Danapur Municipal Council"
+      },
+      "address": "Danapur Municipal Council , Danapur",
+      "contactNumber": "7250444794 /7677223981"
+    },
+    {
+      "code": "bh.hajipur",
+      "name": "Hajipur",
+      "description": "Hajipur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.hajipur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/hajipur",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "hajipurnagarparishad@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Hajipur",
+        "localName": "Hajipur",
+        "districtCode": "224",
+        "districtName": "Vaishali",
+        "regionName": null,
+        "ulbGrade": "Municipal Council",
+        "longitude": 85.2083,
+        "latitude": 25.6924,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249617",
+        "regionCode": null,
+        "municipalityName": "Hajipur Municipal Council"
+      },
+      "address": "Hajipur Municipal Council , Hajipur",
+      "contactNumber": "7808016983"
+    },
+    {
+      "code": "bh.sitamarhi",
+      "name": "Sitamarhi",
+      "description": "Sitamarhi",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.sitamarhi/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/sitamarhi",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "sitamarhi.ulb@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Sitamarhi",
+        "localName": "Sitamarhi",
+        "districtCode": "221",
+        "districtName": "Sitamarhi",
+        "regionName": null,
+        "ulbGrade": "Municipal Council",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249575",
+        "regionCode": null,
+        "municipalityName": "Sitamarhi Municipal Council"
+      },
+      "address": "Sitamarhi Municipal Council , Sitamarhi",
+      "contactNumber": "Not Available"
+    },
+    {
+      "code": "bh.katihar",
+      "name": "Katihar",
+      "description": "Katihar",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.katihar/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/katihar",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nagarnigamkatihar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Katihar",
+        "localName": "Katihar",
+        "districtCode": "201",
+        "districtName": "Katihar",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "249595",
+        "regionCode": null,
+        "municipalityName": "Katihar Municipal Corporation"
+      },
+      "address": "Katihar Municipal Corporation , Katihar",
+      "contactNumber": "9934997256 /9122483309"
+    },
+    {
+      "code": "bh.bhagalpur",
+      "name": "Bhagalpur",
+      "description": "Bhagalpur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.bhagalpur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/bhagalpur",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nagarnigambhagalpur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bhagalpur",
+        "localName": "Bhagalpur",
+        "districtCode": "192",
+        "districtName": "Bhagalpur",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277643",
+        "regionCode": null,
+        "municipalityName": "Bhagalpur Municipal Corporation"
+      },
+      "address": "Bhagalpur Municipal Corporation , Bhagalpur",
+      "contactNumber": "8292151116"
+    },
+    {
+      "code": "bh.sonpur",
+      "name": "Sonpur",
+      "description": "Sonpur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/bh.sonpur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://patnamunicipal.net/pmc/public",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Sonpur",
+        "localName": "Sonpur",
+        "districtCode": "49",
+        "districtName": "Sonpur",
+        "regionName": null,
+        "ulbGrade": "NP",
+        "longitude": 85.1784,
+        "latitude": 25.6943,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248430",
+        "regionCode": null,
+        "municipalityName": "Sonpur Nagar Panchayat"
+      },
+      "address": "Not Available",
+      "contactNumber": "Not Available"
+    }
+  ]
 }
