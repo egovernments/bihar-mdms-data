@@ -1,0 +1,1884 @@
+{
+  "tenantId": "bh.muzaffarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Muzaffarpur",
+        "localname": "Muzaffarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "bh.muzaffarpur",
+        "children": [
+          {
+            "id": "1d7d5359-16ea-4231-bc3f-bfec88a830ae",
+            "boundaryNum": 1,
+            "name": "Muzaffarpur",
+            "localname": "Muzaffarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CIRCLE1",
+            "children": [
+              {
+                "id": "abb13b5a-1fdb-4245-9869-695acd75e528",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59383",
+                "children": [
+                  {
+                    "id": "abd50e11-df54-4b1a-8719-fee27e865b69",
+                    "boundaryNum": 1,
+                    "name": "Jhitkaiya - Ward 1",
+                    "localname": "Jhitkaiya - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "81d4585a-ed91-4181-a8d1-e0b6214dd0d0",
+                    "boundaryNum": 1,
+                    "name": "Daudpur - Ward 1",
+                    "localname": "Daudpur - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ab2b310-f24f-494b-a0ac-89e06998d54e",
+                    "boundaryNum": 1,
+                    "name": "Saraswati Nagar - Ward 1",
+                    "localname": "Saraswati Nagar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1b00c78b-4d08-4cc6-a87f-733065933b59",
+                    "boundaryNum": 1,
+                    "name": "Didar Colony - Ward 1",
+                    "localname": "Didar Colony - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c8bc252-35dd-466b-ab68-299199739de8",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59384",
+                "children": [
+                  {
+                    "id": "710ea111-2d3c-44c0-a9b9-1e08fe570de1",
+                    "boundaryNum": 1,
+                    "name": "Jhitkaiya - Ward 2",
+                    "localname": "Jhitkaiya - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58c651c2-271a-494c-a07e-99f262a30830",
+                    "boundaryNum": 1,
+                    "name": "Brahampura - Ward 2",
+                    "localname": "Brahampura - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc84458b-416d-405a-b9a5-b0ce4816622c",
+                    "boundaryNum": 1,
+                    "name": "Rahul Nagar - Ward 2",
+                    "localname": "Rahul Nagar - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d0efc6ef-00aa-4a84-b9ee-c6c87bc6534d",
+                    "boundaryNum": 1,
+                    "name": "Damodarpur - Ward 2",
+                    "localname": "Damodarpur - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a7c0fbcd-cc87-41ee-8f7e-135bf0525be4",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59385",
+                "children": [
+                  {
+                    "id": "378b95a1-0ac9-4575-a5fc-3a8c865293be",
+                    "boundaryNum": 1,
+                    "name": "Brahampura - Ward 3",
+                    "localname": "Brahampura - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "11064513-49ab-4474-9960-37afb680e4e8",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59386",
+                "children": [
+                  {
+                    "id": "dbbc86fe-731b-4851-881a-7caa11f8a906",
+                    "boundaryNum": 1,
+                    "name": "Brahampura - Ward 4",
+                    "localname": "Brahampura - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e05f8bcc-c9fb-46b3-b154-79c15d107055",
+                    "boundaryNum": 1,
+                    "name": "Juran Chhapar - Ward 4",
+                    "localname": "Juran Chhapar - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd7c2861-ba1d-4a73-8ed7-103b859d09c8",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59387",
+                "children": [
+                  {
+                    "id": "7843c32b-f9f4-4105-810e-5c2238c2be9e",
+                    "boundaryNum": 1,
+                    "name": "Imali Chhatti - Ward 5",
+                    "localname": "Imali Chhatti - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "73531cb1-789b-4c78-ad9e-70082a0e238e",
+                    "boundaryNum": 1,
+                    "name": "Brahampura - Ward 5",
+                    "localname": "Brahampura - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "404f394b-762f-4f17-adaa-63191333b375",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59388",
+                "children": [
+                  {
+                    "id": "7773e9e1-0d9a-42d7-b5e3-68d3dd709c25",
+                    "boundaryNum": 1,
+                    "name": "Brahampura - Ward 6",
+                    "localname": "Brahampura - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "109629b4-76fb-49fb-8977-bdc67d00cd6d",
+                    "boundaryNum": 1,
+                    "name": "Rahul Nagar - Ward 6",
+                    "localname": "Rahul Nagar - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9582142-257e-4864-805c-e7ca37df688c",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59389",
+                "children": [
+                  {
+                    "id": "008b6c36-2eec-44d0-8921-5d5b25a9dc89",
+                    "boundaryNum": 1,
+                    "name": "BB Ganj - Ward 7",
+                    "localname": "BB Ganj - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "efb3f419-69eb-4a9b-bc9b-199e1ba67ff8",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59390",
+                "children": [
+                  {
+                    "id": "7e68ce1b-0833-4c75-916d-9f54040fbfda",
+                    "boundaryNum": 1,
+                    "name": "Maripur - Ward 8",
+                    "localname": "Maripur - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b76cfb3-8c41-46b8-bdf7-f3848846e525",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59391",
+                "children": [
+                  {
+                    "id": "83ccef8b-81ff-424c-b7c9-dbf6b30555ec",
+                    "boundaryNum": 1,
+                    "name": "Maripur - Ward 9",
+                    "localname": "Maripur - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "917cacfc-cd73-4e52-b57d-8dda49c41ebb",
+                    "boundaryNum": 1,
+                    "name": "Chakkar Maidan - Ward 9",
+                    "localname": "Chakkar Maidan - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "01032c0d-ccdd-46c6-9033-1f90ae12ffc4",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59392",
+                "children": [
+                  {
+                    "id": "c6b7d909-6967-48bc-8249-b0c4c57b3ec3",
+                    "boundaryNum": 1,
+                    "name": "Shivapuri - Ward 10",
+                    "localname": "Shivapuri - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ba3b4083-f52d-4b32-a80a-a16e25ee4380",
+                    "boundaryNum": 1,
+                    "name": "Maripur - Ward 10",
+                    "localname": "Maripur - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "492c4612-51b7-473b-b89d-d53261bbe98d",
+                    "boundaryNum": 1,
+                    "name": "Chakkar Maidan - Ward 10",
+                    "localname": "Chakkar Maidan - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b67ea33-ba98-4423-9a02-2d2ece0cf5c7",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59393",
+                "children": [
+                  {
+                    "id": "94e9bb84-d096-417d-9001-a00076c18f32",
+                    "boundaryNum": 1,
+                    "name": "Imali Chhatti - Ward 11",
+                    "localname": "Imali Chhatti - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d3b75f3a-266e-4a71-8209-41930eb7fedc",
+                    "boundaryNum": 1,
+                    "name": "Company Bagh - Ward 11",
+                    "localname": "Company Bagh - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9db3ca20-fbce-4bb9-924e-d8fdaeb58790",
+                    "boundaryNum": 1,
+                    "name": "Sikandarpur - Ward 11",
+                    "localname": "Sikandarpur - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1c0c75a2-e14c-4f09-a6c2-16922ed9a75e",
+                    "boundaryNum": 1,
+                    "name": "Juran Chhapar - Ward 11",
+                    "localname": "Juran Chhapar - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96910695-cb0e-4360-9b08-86d9a641cff5",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59394",
+                "children": [
+                  {
+                    "id": "d3fd5651-0706-4a31-a001-94afac5e2447",
+                    "boundaryNum": 1,
+                    "name": "Sikandarpur - Ward 12",
+                    "localname": "Sikandarpur - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b41bb000-aae9-4516-bef5-8447138a6815",
+                    "boundaryNum": 1,
+                    "name": "Juran Chhapar - Ward 12",
+                    "localname": "Juran Chhapar - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b0adbdaf-40f8-4636-8852-9ac43cf3f01c",
+                    "boundaryNum": 1,
+                    "name": "Daudpur - Ward 12",
+                    "localname": "Daudpur - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05f8d3c7-65cf-4526-b88e-7666e12597d2",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59395",
+                "children": [
+                  {
+                    "id": "dc7c90a7-7a30-4b78-85ef-f6109626ec3b",
+                    "boundaryNum": 1,
+                    "name": "Sikandarpur - Ward 13",
+                    "localname": "Sikandarpur - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52e76079-d58d-4d04-85b6-853fe7f08f2c",
+                "boundaryNum": 1,
+                "name": "Ward 14",
+                "localname": "Ward 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59396",
+                "children": [
+                  {
+                    "id": "4e6961b6-080c-4b5c-a370-c23023a41c27",
+                    "boundaryNum": 1,
+                    "name": "Sikandarpur - Ward 14",
+                    "localname": "Sikandarpur - Ward 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "865844f5-fae1-4c84-adc9-c265e4ac1325",
+                "boundaryNum": 1,
+                "name": "Ward 15",
+                "localname": "Ward 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59397",
+                "children": [
+                  {
+                    "id": "9dbace5e-7b81-4a75-a149-12285fcc0d9b",
+                    "boundaryNum": 1,
+                    "name": "Balu Ghat - Ward 15",
+                    "localname": "Balu Ghat - Ward 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8595f5bf-f213-4651-85c8-d08ef943756b",
+                "boundaryNum": 1,
+                "name": "Ward 16",
+                "localname": "Ward 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59398",
+                "children": [
+                  {
+                    "id": "1aa39b20-7e68-46dd-953b-6f0d536148e8",
+                    "boundaryNum": 1,
+                    "name": "Kamara - Ward 16",
+                    "localname": "Kamara - Ward 16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3eaaee7f-bc62-4fbc-9b34-1b50399a3c6a",
+                    "boundaryNum": 1,
+                    "name": "Chandwara - Ward 16",
+                    "localname": "Chandwara - Ward 16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccb15100-450c-4b41-b61a-9d30cb83b009",
+                "boundaryNum": 1,
+                "name": "Ward 17",
+                "localname": "Ward 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59399",
+                "children": [
+                  {
+                    "id": "ba2159cd-8eb1-4719-87ec-da236c996a53",
+                    "boundaryNum": 1,
+                    "name": "Balu Ghat - Ward 17",
+                    "localname": "Balu Ghat - Ward 17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "44210f6c-83c8-4970-a7dc-9935a412d9e8",
+                "boundaryNum": 1,
+                "name": "Ward 18",
+                "localname": "Ward 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59400",
+                "children": [
+                  {
+                    "id": "fd653c95-52e0-4948-9fcc-2733723cf439",
+                    "boundaryNum": 1,
+                    "name": "Balu Ghat - Ward 18",
+                    "localname": "Balu Ghat - Ward 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "80072def-d71f-4167-bfc9-96f55633c4bf",
+                    "boundaryNum": 1,
+                    "name": "Golabandh - Ward 18",
+                    "localname": "Golabandh - Ward 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "70d79ac8-d3bc-4a01-a649-bdf8a9054226",
+                    "boundaryNum": 1,
+                    "name": "Imamganj - Ward 18",
+                    "localname": "Imamganj - Ward 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84c15e93-74df-4dbe-85bd-25446bd7181c",
+                "boundaryNum": 1,
+                "name": "Ward 19",
+                "localname": "Ward 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59401",
+                "children": [
+                  {
+                    "id": "5fe43986-75f4-44e8-b802-0c954ce14f1c",
+                    "boundaryNum": 1,
+                    "name": "Golabandh - Ward 19",
+                    "localname": "Golabandh - Ward 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "29b198bf-d8f6-4c0b-94db-1a0161a7ed1b",
+                    "boundaryNum": 1,
+                    "name": "Saraiyaganj - Ward 19",
+                    "localname": "Saraiyaganj - Ward 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "158d0613-68c2-4c87-b078-4037b7b3c781",
+                    "boundaryNum": 1,
+                    "name": "Sikandarpur - Ward 19",
+                    "localname": "Sikandarpur - Ward 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a475927c-2e54-41f0-8cfb-a29d22c053b8",
+                "boundaryNum": 1,
+                "name": "Ward 20",
+                "localname": "Ward 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59402",
+                "children": [
+                  {
+                    "id": "3e92a7eb-139e-4718-8e9d-a987b8ecbc33",
+                    "boundaryNum": 1,
+                    "name": "Saraiyaganj - Ward 20",
+                    "localname": "Saraiyaganj - Ward 20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b37a313b-cd12-4b4b-8331-07dfa40f90f6",
+                    "boundaryNum": 1,
+                    "name": "Suta Patti - Ward 20",
+                    "localname": "Suta Patti - Ward 20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC43",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fca2df93-04d3-4568-8027-1e81a7d7d300",
+                "boundaryNum": 1,
+                "name": "Ward 21",
+                "localname": "Ward 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59403",
+                "children": [
+                  {
+                    "id": "648acd56-2b53-4204-9f73-a38fc7b46f0c",
+                    "boundaryNum": 1,
+                    "name": "Chota Bazar - Ward 21",
+                    "localname": "Chota Bazar - Ward 21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3bbe60d7-b003-4625-8b4b-1ebf1770071a",
+                    "boundaryNum": 1,
+                    "name": "Bramkon - Ward 21",
+                    "localname": "Bramkon - Ward 21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16814bd5-a47d-4e63-8c59-5d5294dd20b3",
+                "boundaryNum": 1,
+                "name": "Ward 22",
+                "localname": "Ward 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59404",
+                "children": [
+                  {
+                    "id": "7b2b5be7-99d5-40c9-aabd-931a2827e5dc",
+                    "boundaryNum": 1,
+                    "name": "Chota Bazar - Ward 22",
+                    "localname": "Chota Bazar - Ward 22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7446d820-958a-4961-bd3a-66e3809f96b5",
+                    "boundaryNum": 1,
+                    "name": "Choti Kalyani - Ward 22",
+                    "localname": "Choti Kalyani - Ward 22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC47",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13d620ac-2b04-4883-8dcc-98c02206634b",
+                "boundaryNum": 1,
+                "name": "Ward 23",
+                "localname": "Ward 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59405",
+                "children": [
+                  {
+                    "id": "5c473c30-9680-48fb-a124-5efe1e441a28",
+                    "boundaryNum": 1,
+                    "name": "Ghirni Pokher - Ward 23",
+                    "localname": "Ghirni Pokher - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "27b60815-147e-4dee-9bff-ad62de45db50",
+                    "boundaryNum": 1,
+                    "name": "Islampur - Ward 23",
+                    "localname": "Islampur - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf1278cf-ea42-48c2-8250-b8df5edeb328",
+                    "boundaryNum": 1,
+                    "name": "Motijheel - Ward 23",
+                    "localname": "Motijheel - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8fd2be32-ea32-4c99-9d73-02361b520f31",
+                    "boundaryNum": 1,
+                    "name": "Tilak Maidan - Ward 23",
+                    "localname": "Tilak Maidan - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72a8bb6e-2389-417b-8555-cfbd5eff0319",
+                    "boundaryNum": 1,
+                    "name": "Choti Kalyani - Ward 23",
+                    "localname": "Choti Kalyani - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC52",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bab6c8d3-daf9-420f-883c-e119ef17878a",
+                "boundaryNum": 1,
+                "name": "Ward 24",
+                "localname": "Ward 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59406",
+                "children": [
+                  {
+                    "id": "c0effb0f-47b6-4e02-93b2-8815ea505ee9",
+                    "boundaryNum": 1,
+                    "name": "Motijheel - Ward 24",
+                    "localname": "Motijheel - Ward 24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC53",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3a5f251-f79d-40c7-b800-1f5b3f335ffa",
+                "boundaryNum": 1,
+                "name": "Ward 25",
+                "localname": "Ward 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59407",
+                "children": [
+                  {
+                    "id": "36ac075f-babf-4dca-8a3d-5435c575858e",
+                    "boundaryNum": 1,
+                    "name": "Pankha Tola - Ward 25",
+                    "localname": "Pankha Tola - Ward 25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "261a9fb9-758e-43bc-8845-78432f9dd756",
+                    "boundaryNum": 1,
+                    "name": "Kalam Bag - Ward 25",
+                    "localname": "Kalam Bag - Ward 25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC55",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d3acb21d-630c-4d67-a904-2c5ba89babc0",
+                "boundaryNum": 1,
+                "name": "Ward 26",
+                "localname": "Ward 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59408",
+                "children": [
+                  {
+                    "id": "405cd324-d95b-4f27-9b29-90c860303f9d",
+                    "boundaryNum": 1,
+                    "name": "Naya Tola - Ward 26",
+                    "localname": "Naya Tola - Ward 26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC56",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ddcb2719-1ba4-46b4-b4b7-57b982c590f4",
+                "boundaryNum": 1,
+                "name": "Ward 27",
+                "localname": "Ward 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59409",
+                "children": [
+                  {
+                    "id": "6912e2c1-0397-4c9d-bd0e-276a1afee1f6",
+                    "boundaryNum": 1,
+                    "name": "Imali Chhatti - Ward 27",
+                    "localname": "Imali Chhatti - Ward 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC57",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dda62e29-b378-4076-8f5f-708dc993020d",
+                    "boundaryNum": 1,
+                    "name": "Shivapuri - Ward 27",
+                    "localname": "Shivapuri - Ward 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "baa69ccf-9853-480e-9ec9-a0ebda8d64b5",
+                    "boundaryNum": 1,
+                    "name": "Damu Chak - Ward 27",
+                    "localname": "Damu Chak - Ward 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC59",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4696fbc8-36ae-4f0d-b8d7-a2d95a829ab4",
+                "boundaryNum": 1,
+                "name": "Ward 28",
+                "localname": "Ward 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59410",
+                "children": [
+                  {
+                    "id": "c35bbddd-d020-408d-8f5d-24e8248798ef",
+                    "boundaryNum": 1,
+                    "name": "Gannipur - Ward 28",
+                    "localname": "Gannipur - Ward 28",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC60",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2aea2aa3-b8eb-4e91-b13e-8163e7723f8d",
+                    "boundaryNum": 1,
+                    "name": "Damu Chak - Ward 28",
+                    "localname": "Damu Chak - Ward 28",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC61",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a46916c0-ed56-48bc-a661-ccfee983593e",
+                "boundaryNum": 1,
+                "name": "Ward 29",
+                "localname": "Ward 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59411",
+                "children": [
+                  {
+                    "id": "d4d28454-6cda-45e7-b6e5-f2f2a6732e88",
+                    "boundaryNum": 1,
+                    "name": "Gannipur - Ward 29",
+                    "localname": "Gannipur - Ward 29",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC62",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47e23950-7244-4e29-9dc7-ef337d6098d6",
+                "boundaryNum": 1,
+                "name": "Ward 30",
+                "localname": "Ward 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59412",
+                "children": [
+                  {
+                    "id": "4f5d15c5-deda-4a92-96cf-e9ed855c4112",
+                    "boundaryNum": 1,
+                    "name": "Shankarpuri - Ward 30",
+                    "localname": "Shankarpuri - Ward 30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC63",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eac86c5f-33c9-4566-853b-f54d1f5c1c35",
+                    "boundaryNum": 1,
+                    "name": "Sadpura - Ward 30",
+                    "localname": "Sadpura - Ward 30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC64",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "240a834d-7ab4-4a5a-bcc8-0d37b67fbdab",
+                    "boundaryNum": 1,
+                    "name": "Kalam Bag - Ward 30",
+                    "localname": "Kalam Bag - Ward 30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC65",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4ab9252-443f-4206-8c1e-91f146be04fc",
+                "boundaryNum": 1,
+                "name": "Ward 31",
+                "localname": "Ward 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59413",
+                "children": [
+                  {
+                    "id": "14665b2d-4aaf-48cc-8a29-3754838982ad",
+                    "boundaryNum": 1,
+                    "name": "Gannipur - Ward 31",
+                    "localname": "Gannipur - Ward 31",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC66",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "14f85dfa-65e5-4bb5-9671-77cbe0770c11",
+                    "boundaryNum": 1,
+                    "name": "Atardah - Ward 31",
+                    "localname": "Atardah - Ward 31",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC67",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b9e193e2-a17d-40f7-b803-13c56fdd0075",
+                    "boundaryNum": 1,
+                    "name": "Ramdayalu Nagar - Ward 31",
+                    "localname": "Ramdayalu Nagar - Ward 31",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC68",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89c22dd9-ea8f-4336-9549-498e6edb7dc4",
+                "boundaryNum": 1,
+                "name": "Ward 32",
+                "localname": "Ward 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W59414",
+                "children": [
+                  {
+                    "id": "5416e21b-e11b-4c7b-a3b5-9baf7e6f7985",
+                    "boundaryNum": 1,
+                    "name": "Ramdayal Nagar - Ward 32",
+                    "localname": "Ramdayal Nagar - Ward 32",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC69",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "95ef9342-77c3-46d8-9688-b5bd1a29fa1e",
+                    "boundaryNum": 1,
+                    "name": "Anand Marg - Ward 32",
+                    "localname": "Anand Marg - Ward 32",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC70",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e13b141a-0d9d-4f7e-a53b-50d2358357c8",
+                "boundaryNum": 1,
+                "name": "Ward 33",
+                "localname": "Ward 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W69157",
+                "children": [
+                  {
+                    "id": "7ea1115a-6a17-43f3-a596-38969fb3c95e",
+                    "boundaryNum": 1,
+                    "name": "Sadpura - Ward 33",
+                    "localname": "Sadpura - Ward 33",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC71",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7548a7c-b5a1-4c2c-b0dc-e4b8688b966a",
+                "boundaryNum": 1,
+                "name": "Ward 34",
+                "localname": "Ward 34",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70731",
+                "children": [
+                  {
+                    "id": "57d26d98-0788-4f95-bc67-ecbae42d385b",
+                    "boundaryNum": 1,
+                    "name": "Pankha Tola - Ward 34",
+                    "localname": "Pankha Tola - Ward 34",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC72",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bdc06331-3034-420c-b6da-6a4d04ee65c4",
+                    "boundaryNum": 1,
+                    "name": "Shankarpuri - Ward 34",
+                    "localname": "Shankarpuri - Ward 34",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC73",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2823349c-cfe3-441d-ba7e-946551f94639",
+                "boundaryNum": 1,
+                "name": "Ward 35",
+                "localname": "Ward 35",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70732",
+                "children": [
+                  {
+                    "id": "a754e226-0cf9-4f17-b885-b2a11474b64a",
+                    "boundaryNum": 1,
+                    "name": "Miscot Line - Ward 35",
+                    "localname": "Miscot Line - Ward 35",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC74",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c6cca82a-8cd5-4209-8303-6b8a7ed0eb9d",
+                    "boundaryNum": 1,
+                    "name": "Choti Kalyani - Ward 35",
+                    "localname": "Choti Kalyani - Ward 35",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC75",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dc412bb4-339a-4ae1-8756-e83125256664",
+                    "boundaryNum": 1,
+                    "name": "Shankar Nagar - Ward 35",
+                    "localname": "Shankar Nagar - Ward 35",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC76",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1be5ac90-0ff7-46ef-9f4a-43f26d4fba4c",
+                "boundaryNum": 1,
+                "name": "Ward 36",
+                "localname": "Ward 36",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70733",
+                "children": [
+                  {
+                    "id": "c092a12c-0afb-43d2-94f8-684d3f4c3656",
+                    "boundaryNum": 1,
+                    "name": "Mithan Pura - Ward 36",
+                    "localname": "Mithan Pura - Ward 36",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC77",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35912712-c1eb-47de-b915-a2fbab7df9ed",
+                "boundaryNum": 1,
+                "name": "Ward 37",
+                "localname": "Ward 37",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70734",
+                "children": [
+                  {
+                    "id": "dfe6ccaa-7396-467c-9de4-6d8ebe55cc7a",
+                    "boundaryNum": 1,
+                    "name": "Kachi Sarai - Ward 37",
+                    "localname": "Kachi Sarai - Ward 37",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC78",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a39c41d8-2833-4fc9-a0f0-c761a2cf57ba",
+                    "boundaryNum": 1,
+                    "name": "Mithan Pura - Ward 37",
+                    "localname": "Mithan Pura - Ward 37",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC79",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a17d4ea0-91b2-462e-b85d-fbdc0766e6ba",
+                "boundaryNum": 1,
+                "name": "Ward 38",
+                "localname": "Ward 38",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70735",
+                "children": [
+                  {
+                    "id": "f4e0f851-76ba-4873-95fb-33e6fdff6cb5",
+                    "boundaryNum": 1,
+                    "name": "Kachi Sarai - Ward 38",
+                    "localname": "Kachi Sarai - Ward 38",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC80",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e616d7c9-25dd-4d65-8fe4-000a31695288",
+                    "boundaryNum": 1,
+                    "name": "Maharaji Pokhar - Ward 38",
+                    "localname": "Maharaji Pokhar - Ward 38",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC81",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "212889ea-4203-4e36-8712-74a4090fb6ba",
+                "boundaryNum": 1,
+                "name": "Ward 39",
+                "localname": "Ward 39",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W70736",
+                "children": [
+                  {
+                    "id": "ffc088f6-d0bc-40f3-a7d7-06b07cc2c88e",
+                    "boundaryNum": 1,
+                    "name": "Maharaji Pokhar - Ward 39",
+                    "localname": "Maharaji Pokhar - Ward 39",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC82",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b83c2404-cb99-42fa-9f8c-02a60e8a77b0",
+                    "boundaryNum": 1,
+                    "name": "Purani Guduri - Ward 39",
+                    "localname": "Purani Guduri - Ward 39",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC83",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5da1fec-96d2-4898-9e07-e3e9d5714e59",
+                "boundaryNum": 1,
+                "name": "Ward 40",
+                "localname": "Ward 40",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71014",
+                "children": [
+                  {
+                    "id": "c62db3ea-7e93-4de7-ba4a-ab9b3c073a7c",
+                    "boundaryNum": 1,
+                    "name": "Purana Bazar - Ward 40",
+                    "localname": "Purana Bazar - Ward 40",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC84",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b85d2c74-c102-4ad2-bb54-afd032db285f",
+                    "boundaryNum": 1,
+                    "name": "Purani Guduri - Ward 40",
+                    "localname": "Purani Guduri - Ward 40",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC85",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17bf24a8-312a-4434-89da-520bdf7461a4",
+                "boundaryNum": 1,
+                "name": "Ward 41",
+                "localname": "Ward 41",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71015",
+                "children": [
+                  {
+                    "id": "844f8071-c5b8-405f-9d28-08760eb33d22",
+                    "boundaryNum": 1,
+                    "name": "Ram Bagh - Ward 41",
+                    "localname": "Ram Bagh - Ward 41",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC86",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5d31bf2e-12af-4c30-a838-aa0607f0f1d0",
+                    "boundaryNum": 1,
+                    "name": "Malighat - Ward 41",
+                    "localname": "Malighat - Ward 41",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC87",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e73abab-3b27-4857-aa08-82a8348386f9",
+                "boundaryNum": 1,
+                "name": "Ward 42",
+                "localname": "Ward 42",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71016",
+                "children": [
+                  {
+                    "id": "61ccc831-30ec-4a02-95bb-b7a7236ce8a6",
+                    "boundaryNum": 1,
+                    "name": "Muzaffarpur Jail - Ward 42",
+                    "localname": "Muzaffarpur Jail - Ward 42",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC88",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0a5628f9-93ac-453e-92bb-3d338f77a22c",
+                    "boundaryNum": 1,
+                    "name": "Tinkotia - Ward 42",
+                    "localname": "Tinkotia - Ward 42",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC89",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "499e2169-cf28-4466-87af-898582ceeafe",
+                "boundaryNum": 1,
+                "name": "Ward 43",
+                "localname": "Ward 43",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71020",
+                "children": [
+                  {
+                    "id": "ec9936fc-3843-40f7-ac6d-f7367c902e81",
+                    "boundaryNum": 1,
+                    "name": "Chandwara - Ward 43",
+                    "localname": "Chandwara - Ward 43",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC90",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26f0c04f-22b4-423c-9c5f-f6c0fa731c24",
+                    "boundaryNum": 1,
+                    "name": "Naya Bazar - Ward 43",
+                    "localname": "Naya Bazar - Ward 43",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC91",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d2c0acd9-d57e-439f-8fd7-8cab7c8bb132",
+                "boundaryNum": 1,
+                "name": "Ward 44",
+                "localname": "Ward 44",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71021",
+                "children": [
+                  {
+                    "id": "e21ae1ae-0548-4ce4-9194-9ff98d127ff7",
+                    "boundaryNum": 1,
+                    "name": "Naya Bazar - Ward 44",
+                    "localname": "Naya Bazar - Ward 44",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC92",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4c7c10cd-8c84-4d4e-a5ec-a3ef3c6b9f79",
+                    "boundaryNum": 1,
+                    "name": "Chandwara - Ward 44",
+                    "localname": "Chandwara - Ward 44",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC93",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d10f0269-39ee-44a4-b92d-bf00461f0fc5",
+                    "boundaryNum": 1,
+                    "name": "Kamara - Ward 44",
+                    "localname": "Kamara - Ward 44",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC94",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29513e85-1d1c-458c-aa8f-3c924c91f6b9",
+                "boundaryNum": 1,
+                "name": "Ward 45",
+                "localname": "Ward 45",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71022",
+                "children": [
+                  {
+                    "id": "3c1e6706-f5f8-404c-af5e-2edbfc888eac",
+                    "boundaryNum": 1,
+                    "name": "Chandwara - Ward 45",
+                    "localname": "Chandwara - Ward 45",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC95",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa47213a-a6e2-4283-a322-40a648fc8a11",
+                "boundaryNum": 1,
+                "name": "Ward 46",
+                "localname": "Ward 46",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71023",
+                "children": [
+                  {
+                    "id": "05dd23c6-1c83-4ecb-8882-c56e0a4be30b",
+                    "boundaryNum": 1,
+                    "name": "Kachi Sarai - Ward 46",
+                    "localname": "Kachi Sarai - Ward 46",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC96",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9fffd853-f54a-45fd-bb64-84f7609289fb",
+                    "boundaryNum": 1,
+                    "name": "Ram Bagh - Ward 46",
+                    "localname": "Ram Bagh - Ward 46",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC97",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7dd9a965-1daf-4b68-8149-87ffa9ea2b75",
+                "boundaryNum": 1,
+                "name": "Ward 47",
+                "localname": "Ward 47",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71024",
+                "children": [
+                  {
+                    "id": "60f789e3-79b5-402b-8c52-f21b165b49fd",
+                    "boundaryNum": 1,
+                    "name": "Bavan Bigha - Ward 47",
+                    "localname": "Bavan Bigha - Ward 47",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC98",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "be8672ea-81b0-4a9b-91d2-61180aeed6b1",
+                    "boundaryNum": 1,
+                    "name": "Kanholi - Ward 47",
+                    "localname": "Kanholi - Ward 47",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC99",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74777a9a-ae6d-4099-8e7d-699549d783a6",
+                "boundaryNum": 1,
+                "name": "Ward 48",
+                "localname": "Ward 48",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71025",
+                "children": [
+                  {
+                    "id": "57308478-580e-4fc5-963c-bea279ee5df0",
+                    "boundaryNum": 1,
+                    "name": "Mithan Pura - Ward 48",
+                    "localname": "Mithan Pura - Ward 48",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC100",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "612c5836-edd2-40e9-a083-aabae1586989",
+                    "boundaryNum": 1,
+                    "name": "Kanholi - Ward 48",
+                    "localname": "Kanholi - Ward 48",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC101",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "494ddfff-c813-44e0-8cae-697e284ff642",
+                    "boundaryNum": 1,
+                    "name": "Bela - Ward 48",
+                    "localname": "Bela - Ward 48",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC102",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d92c087-3635-47af-8f6f-edd9ce068b83",
+                "boundaryNum": 1,
+                "name": "Ward 49",
+                "localname": "Ward 49",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W71026",
+                "children": [
+                  {
+                    "id": "34a5c434-656e-4f75-98f0-8c07fe45e8c8",
+                    "boundaryNum": 1,
+                    "name": "Bela - Ward 49",
+                    "localname": "Bela - Ward 49",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC103",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f41a0949-dd37-4bbe-8978-444243cf47fd",
+                    "boundaryNum": 1,
+                    "name": "Kanholi - Ward 49",
+                    "localname": "Kanholi - Ward 49",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC104",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "10d12824-8d93-44b8-9c88-5642c06f52e6",
+                    "boundaryNum": 1,
+                    "name": "Mithan Pura - Ward 49",
+                    "localname": "Mithan Pura - Ward 49",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC105",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
