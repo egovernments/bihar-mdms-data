@@ -5872,7 +5872,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
