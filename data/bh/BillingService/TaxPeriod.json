@@ -1057,6 +1057,22 @@
       "service": "CH.Burning_of_waste_challan",
       "code": "CHBURNINGOFWASTECHALLAN",
       "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2021",
+      "financialYear": "2021-22"
     }
   ]
 }
