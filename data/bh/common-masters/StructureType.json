@@ -37,14 +37,6 @@
         {
             "code": "IMMOVABLE.OPENSPACEOFBUILDING",
             "active": true
-        },
-        {
-            "code": "MOVABLE.HDV",
-            "active": true
-        },
-        {
-            "code": "MOVABLE.MDV",
-            "active": true
         }
     ]
 }
