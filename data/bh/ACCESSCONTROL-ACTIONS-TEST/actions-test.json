@@ -5939,7 +5939,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
