@@ -1468,6 +1468,150 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
-    }
+    },
+            {
+            "businessService": "Rents.Nagar Buildings",
+            "code": "RT.Nagar_Buildings",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Water Tanks",
+            "code": "RT.Water_Tanks",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Mobile Toilets",
+            "code": "RT.Mobile_Toilets",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Suction Machine",
+            "code": "RT.Suction_Machine",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Crematorium",
+            "code": "RT.Crematorium",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Marriage Hall",
+            "code": "RT.Marriage_Hall",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Community/Town Hall",
+            "code": "RT.Community/Town_Hall",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.Meeting Room",
+            "code": "RT.Meeting_Room",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Rents.RoadCuttings",
+            "code": "RT.RoadCuttings",
+            "collectionModesNotAllowed": [
+               "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "ADMIN Fees.Road Cuttings",
+            "code": "ADMIN.RoadCuttings",
+            "collectionModesNotAllowed": [
+              "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Plastic Fine",
+            "code": "CH.Plastic_Fine",
+            "collectionModesNotAllowed": [
+              "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        },
+        {
+            "businessService": "Waste Dumping",
+            "code": "CH.Waste_Dumping",
+            "collectionModesNotAllowed": [
+              "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+        }
   ]
 }
