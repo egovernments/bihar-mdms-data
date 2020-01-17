@@ -1579,7 +1579,7 @@
         },
         {
             "businessService": "ADMIN Fees.Road Cuttings",
-            "code": "ADMIN.RoadCuttings",
+            "code": "ADMIN.Road_Cuttings",
             "collectionModesNotAllowed": [
               "DD"
              ],
