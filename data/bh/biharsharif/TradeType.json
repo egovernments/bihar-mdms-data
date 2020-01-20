@@ -11,8 +11,7 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true,
-      "type": "TL"
+      "active": true
     },
     {
       "code": "MARKET.CA.T026",
@@ -23,8 +22,7 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true,
-      "type": "TL"
+      "active": true
     }
   ]
 }
