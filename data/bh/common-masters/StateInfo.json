@@ -10,6 +10,8 @@
       "digitLogoUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Digit_logo.png",
       "hasLocalisation": true,
       "defaultLanguage": "hi_IN",
+      "citizenNavigationURL": "https://bihar-uat.egovernments.org/citizen/",
+      "employeeNavigationURL": "https://bihar-uat.egovernments.org/employee/",
       "languages": [
         {
           "label": "ENGLISH",
