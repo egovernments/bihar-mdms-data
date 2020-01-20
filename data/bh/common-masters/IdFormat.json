@@ -412,6 +412,14 @@
         {
             "format": "PT-[CITY.CODE]-[SEQ_EG_PT_PTID_[TENANT_ID]]",
             "idname": "pt.propertyid"
+        },
+        {
+            "format": "BH-TL-[CITY.CODE]-[MM-cy:yyyy]-[SEQ_EG_TL_APL_[TENANT_ID]]",
+            "idname": "tl.aplnumber"
+        },
+        {
+            "format": "BH-TL-[CITY.CODE]-[MM-cy:yyyy]-[SEQ_EG_TL_LN_[TENANT_ID]]",
+            "idname": "tl.licensenumber"
         }
 
     ]
