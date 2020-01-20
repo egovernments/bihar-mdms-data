@@ -1,0 +1,50 @@
+{
+  "tenantId": "bh.danapur",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "MARKET.CA.T001",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "MARKET.CB.T002",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "MARKET.CC.T003",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "MARKET.CD.T004",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
+  ]
+}
