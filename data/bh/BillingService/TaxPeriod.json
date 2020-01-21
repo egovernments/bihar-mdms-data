@@ -1073,14 +1073,6 @@
       "service": "TL",
       "code": "TLAN2021",
       "financialYear": "2021-22"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "RT.Nagar_Buildings",
-      "code": "NAGARBUILDINGS",
-      "financialYear": "2014-24"
     }
   ]
 }
