@@ -1566,18 +1566,6 @@
             "type": "Adhoc"
         },
         {
-            "businessService": "Rents.RoadCuttings",
-            "code": "RT.RoadCuttings",
-            "collectionModesNotAllowed": [
-               "DD"
-             ],
-            "partPaymentAllowed": false,
-            "isAdvanceAllowed": false,
-            "isVoucherCreationEnabled": true,
-            "isActive": true,
-            "type": "Adhoc"
-        },
-        {
             "businessService": "ADMIN Fees.Road Cuttings",
             "code": "ADMN.Road_Cuttings",
             "collectionModesNotAllowed": [
