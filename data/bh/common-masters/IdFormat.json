@@ -414,11 +414,11 @@
             "idname": "pt.propertyid"
         },
         {
-            "format": "BH-TL-[CITY.CODE]-[MM-cy:yyyy]-[SEQ_EG_TL_APL_[TENANT_ID]]",
+            "format": "BH-TL-[CITY.CODE]-[cy:MM-yyyy]-[SEQ_EG_TL_APL_[TENANT_ID]]",
             "idname": "tl.aplnumber"
         },
         {
-            "format": "BH-TL-[CITY.CODE]-[MM-cy:yyyy]-[SEQ_EG_TL_LN_[TENANT_ID]]",
+            "format": "BH-TL-[CITY.CODE]-[cy:MM-yyyy]-[SEQ_EG_TL_LN_[TENANT_ID]]",
             "idname": "tl.licensenumber"
         }
 
