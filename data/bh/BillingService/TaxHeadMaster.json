@@ -4913,46 +4913,6 @@
       "order": "0",
       "isRequired": true,
       "value": "100"
-    },
-    {
-      "category": "TAX",
-      "service": "RT.Nagar_Buildings",
-      "name": "RT.NAGAR_BUILDINGS_CGST",
-      "code": "RT.NAGAR_BUILDINGS_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "RT.Nagar_Buildings",
-      "name": "RT.NAGAR_BUILDINGS_SGST",
-      "code": "RT.NAGAR_BUILDINGS_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "RT.Nagar_Buildings",
-      "name": "RT.NAGAR_BUILDINGS_TAX",
-      "code": "RT.NAGAR_BUILDINGS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "RT.Nagar_Buildings",
-      "name": "RT.NAGAR_BUILDINGS_FIELD_FEE",
-      "code": "RT.NAGAR_BUILDINGS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
     }
   ]
 }
