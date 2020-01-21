@@ -11,67 +11,67 @@
             "active": true
         },
         {
-            "code": "COMPANY.PROPRIETORSHIP",
+            "code": "INSTITUTIONALCOMPANY.PROPRIETORSHIP",
             "active": true
         },
         {
-            "code": "COMPANY.ONEPERSONCOMPANY",
+            "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
             "active": true
         },
         {
-            "code": "COMPANY.PARTNERSHIPFIRM",
+            "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
             "active": true
         },
         {
-            "code": "COMPANY.LIMITEDLIABILITYPARTNERSHIP",
+            "code": "INSTITUTIONALCOMPANY.LIMITEDLIABILITYPARTNERSHIP",
             "active": true
         },
         {
-            "code": "COMPANY.PRIVATELIMITEDCOMPANY",
+            "code": "INSTITUTIONALCOMPANY.PRIVATELIMITEDCOMPANY",
             "active": true
         },
         {
-            "code": "COMPANY.PUBLICLIMITEDCOMPANY",
+            "code": "INSTITUTIONALCOMPANY.PUBLICLIMITEDCOMPANY",
             "active": true
         },
         {
-            "code": "COMPANY.SECTION8COMPANY",
+            "code": "INSTITUTIONALCOMPANY.SECTION8COMPANY",
             "active": true
         },
         {
-            "code": "SOCIETY.HOUSINGSOCIETY",
+            "code": "INSTITUTIONALSOCIETY.HOUSINGSOCIETY",
             "active": true
         },
         {
-            "code": "SOCIETY.SELFHELPGROUP",
+            "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
             "active": true
         },
         {
-            "code": "TRUST.PRIVATETRUST",
+            "code": "INSTITUTIONALTRUST.PRIVATETRUST",
             "active": true
         },
         {
-            "code": "TRUST.PUBLICTRUST",
+            "code": "INSTITUTIONALTRUST.PUBLICTRUST",
             "active": true
         },
         {
-            "code": "TRUST.RELIGIOUSTRUST",
+            "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
             "active": true
         },
         {
-            "code": "GOVERNMENT.STATEGOVERNMENT",
+            "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
             "active": true
         },
         {
-            "code": "GOVERNMENT.CENTRALGOVERNMENT",
+            "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
             "active": true
         },
         {
-            "code": "GOVERNMENT.LOCALGOVERNMENT",
+            "code": "INSTITUTIONALGOVERNMENT.LOCALGOVERNMENT",
             "active": true
         },
         {
-            "code": "GOVERNMENT.RURALLOCALGOVERNMENT",
+            "code": "INSTITUTIONALGOVERNMENT.RURALLOCALGOVERNMENT",
             "active": true
         }
     ]
