@@ -83,7 +83,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T002",
@@ -94,7 +95,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T003",
@@ -105,7 +107,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CD.T004",
@@ -116,7 +119,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CE.T005",
@@ -127,7 +131,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CF.T006",
@@ -138,7 +143,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T007",
@@ -149,7 +155,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T008",
@@ -160,7 +167,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CG.T009",
@@ -171,7 +179,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T010",
@@ -182,7 +191,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CF.T011",
@@ -193,7 +203,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CH.T012",
@@ -204,7 +215,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CE.T013",
@@ -215,7 +227,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T014",
@@ -226,7 +239,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T015",
@@ -237,7 +251,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CE.T016",
@@ -248,7 +263,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CD.T017",
@@ -259,7 +275,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T018",
@@ -270,7 +287,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T019",
@@ -281,7 +299,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T020",
@@ -292,7 +311,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T021",
@@ -303,7 +323,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CF.T022",
@@ -314,7 +335,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T023",
@@ -325,7 +347,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T024",
@@ -336,7 +359,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T025",
@@ -347,7 +371,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CE.T026",
@@ -358,7 +383,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T027",
@@ -369,7 +395,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T028",
@@ -380,7 +407,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T029",
@@ -391,7 +419,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T030",
@@ -402,7 +431,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T031",
@@ -413,7 +443,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T032",
@@ -424,7 +455,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T033",
@@ -435,7 +467,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T034",
@@ -446,7 +479,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T035",
@@ -457,7 +491,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T036",
@@ -468,7 +503,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T037",
@@ -479,7 +515,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T038",
@@ -490,7 +527,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T039",
@@ -501,7 +539,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T040",
@@ -512,7 +551,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T041",
@@ -523,7 +563,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T042",
@@ -534,7 +575,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T043",
@@ -545,7 +587,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T044",
@@ -556,7 +599,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T045",
@@ -567,7 +611,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T046",
@@ -578,7 +623,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T047",
@@ -589,7 +635,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T048",
@@ -600,7 +647,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T049",
@@ -611,7 +659,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T050",
@@ -622,7 +671,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T051",
@@ -633,7 +683,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T052",
@@ -644,7 +695,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T053",
@@ -655,7 +707,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T054",
@@ -666,7 +719,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T055",
@@ -677,7 +731,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T056",
@@ -688,7 +743,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T057",
@@ -699,7 +755,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T058",
@@ -710,7 +767,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T059",
@@ -721,7 +779,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T060",
@@ -732,7 +791,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T061",
@@ -743,7 +803,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T062",
@@ -754,7 +815,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T063",
@@ -765,7 +827,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T064",
@@ -776,7 +839,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T065",
@@ -787,7 +851,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T066",
@@ -798,7 +863,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T067",
@@ -809,7 +875,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T068",
@@ -820,7 +887,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T069",
@@ -831,7 +899,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T070",
@@ -842,7 +911,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CA.T071",
@@ -853,7 +923,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T072",
@@ -864,7 +935,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T073",
@@ -875,7 +947,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T074",
@@ -886,7 +959,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T075",
@@ -897,7 +971,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T076",
@@ -908,7 +983,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T077",
@@ -919,7 +995,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T078",
@@ -930,7 +1007,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T079",
@@ -941,7 +1019,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T080",
@@ -952,7 +1031,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T081",
@@ -963,7 +1043,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T082",
@@ -974,7 +1055,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T083",
@@ -985,7 +1067,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T084",
@@ -996,7 +1079,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T085",
@@ -1007,7 +1091,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T086",
@@ -1018,7 +1103,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T087",
@@ -1029,7 +1115,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T088",
@@ -1040,7 +1127,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T089",
@@ -1051,7 +1139,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T090",
@@ -1062,7 +1151,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T091",
@@ -1073,7 +1163,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T092",
@@ -1084,7 +1175,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T093",
@@ -1095,7 +1187,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T094",
@@ -1106,7 +1199,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T095",
@@ -1117,7 +1211,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T096",
@@ -1128,7 +1223,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T097",
@@ -1139,7 +1235,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T098",
@@ -1150,7 +1247,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T099",
@@ -1161,7 +1259,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T100",
@@ -1172,7 +1271,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T101",
@@ -1183,7 +1283,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T102",
@@ -1194,7 +1295,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T103",
@@ -1205,7 +1307,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T104",
@@ -1216,7 +1319,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T105",
@@ -1227,7 +1331,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T106",
@@ -1238,7 +1343,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T107",
@@ -1249,7 +1355,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T108",
@@ -1260,7 +1367,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T109",
@@ -1271,7 +1379,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T110",
@@ -1282,7 +1391,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T111",
@@ -1293,7 +1403,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T112",
@@ -1304,7 +1415,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T113",
@@ -1315,7 +1427,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T114",
@@ -1326,7 +1439,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T115",
@@ -1337,7 +1451,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T116",
@@ -1348,7 +1463,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CB.T117",
@@ -1359,7 +1475,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T118",
@@ -1370,7 +1487,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T119",
@@ -1381,7 +1499,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T120",
@@ -1392,7 +1511,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T121",
@@ -1403,7 +1523,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T122",
@@ -1414,7 +1535,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T123",
@@ -1425,7 +1547,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T124",
@@ -1436,7 +1559,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T125",
@@ -1447,7 +1571,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T126",
@@ -1458,7 +1583,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T127",
@@ -1469,7 +1595,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T128",
@@ -1480,7 +1607,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T129",
@@ -1491,7 +1619,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T130",
@@ -1502,7 +1631,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T131",
@@ -1513,7 +1643,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T132",
@@ -1524,7 +1655,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T133",
@@ -1535,7 +1667,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T134",
@@ -1546,7 +1679,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T135",
@@ -1557,7 +1691,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T136",
@@ -1568,7 +1703,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T137",
@@ -1579,7 +1715,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T138",
@@ -1590,7 +1727,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T139",
@@ -1601,7 +1739,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T140",
@@ -1612,7 +1751,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T141",
@@ -1623,7 +1763,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T142",
@@ -1634,7 +1775,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T143",
@@ -1645,7 +1787,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T144",
@@ -1656,7 +1799,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T145",
@@ -1667,7 +1811,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T146",
@@ -1678,7 +1823,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T147",
@@ -1689,7 +1835,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T148",
@@ -1700,7 +1847,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T149",
@@ -1711,7 +1859,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T150",
@@ -1722,7 +1871,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T151",
@@ -1733,7 +1883,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T152",
@@ -1744,7 +1895,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T153",
@@ -1755,7 +1907,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T154",
@@ -1766,7 +1919,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T155",
@@ -1777,7 +1931,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T156",
@@ -1788,7 +1943,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T157",
@@ -1799,7 +1955,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T158",
@@ -1810,7 +1967,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T159",
@@ -1821,7 +1979,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T160",
@@ -1832,7 +1991,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T161",
@@ -1843,7 +2003,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "MARKET.CC.T162",
@@ -1854,7 +2015,8 @@
         "TRDSHOPBLDGPRMS"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     }
   ]
 }
