@@ -420,7 +420,10 @@
         {
             "format": "BH-TL-[CITY.CODE]-[cy:MM-yyyy]-[SEQ_EG_TL_LN_[TENANT_ID]]",
             "idname": "tl.licensenumber"
+        },
+        {
+            "format": "BH_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "idname": "pg.txnid"
         }
-
     ]
 }
