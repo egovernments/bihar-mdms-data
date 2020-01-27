@@ -5727,12 +5727,6 @@
       "tenantId": "bh"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1845,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
       "rolecode": "UC_EMP",
       "actionid": 1846,
       "actioncode": "",
