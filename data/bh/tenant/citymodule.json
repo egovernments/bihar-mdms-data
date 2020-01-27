@@ -7,16 +7,10 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "bh.sonpur"
-        },
-        {
           "code": "bh.muzaffarpur"
         },
         {
           "code": "bh.hajipur"
-        },
-        {
-          "code": "bh.fatuha"
         },
         {
           "code": "bh.danapur"
@@ -33,7 +27,6 @@
         {
           "code": "bh.bhagalpur"
         }
-        
       ]
     },
     {
@@ -41,19 +34,25 @@
       "code": "UC",
       "tenants": [
         {
-          "code": "bh.sonpur"
+          "code": "bh.muzaffarpur"
         },
         {
           "code": "bh.hajipur"
-        },
-        {
-          "code": "bh.fatuha"
         },
         {
           "code": "bh.danapur"
         },
         {
           "code": "bh.biharsharif"
+        },
+        {
+          "code": "bh.sitamarhi"
+        },
+        {
+          "code": "bh.katihar"
+        },
+        {
+          "code": "bh.bhagalpur"
         }
       ]
     }
