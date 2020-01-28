@@ -32,11 +32,11 @@
           "manuals": [
             {
               "locale": "en_IN",
-              "url": "http://s3.ap-south-1.amazonaws.com/bihar-asset/manuals/TL_English_UserManual_Citizen.pdf"
+              "url": "https://s3.ap-south-1.amazonaws.com/bihar-asset/manuals/TL_English_UserManual_Citizen.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "http://s3.ap-south-1.amazonaws.com/bihar-asset/manuals/TL_Hindi_UserManual_Citizen.pdf"
+              "url": "https://s3.ap-south-1.amazonaws.com/bihar-asset/manuals/TL_Hindi_UserManual_Citizen.pdf"
             }
           ]
         }
