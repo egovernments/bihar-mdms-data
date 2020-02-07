@@ -6043,6 +6043,12 @@
       "actionid": 1819,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+     "rolecode": "UC_EMP",
+     "actionid": 1856,
+     "actioncode": "",
+     "tenantId": "bh"
     }
   ]
 }
