@@ -6037,6 +6037,22 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Receipt Register"
-    }
+    },
+   {
+     "id": 1856,
+     "name": "rainmaker-common-uc",
+     "url": "card",
+     "displayName": "Miscellaneous Collection",
+     "orderNumber": 2,
+     "parentModule": "",
+     "enabled": true,
+     "serviceCode": "",
+     "code": "",
+     "path": "",
+     "navigationURL": "uc/search",
+     "leftIcon": "image:collections-bookmark",
+     "rightIcon": "",
+     "queryParams": ""
+   }
   ]
 }
