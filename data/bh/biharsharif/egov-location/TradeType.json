@@ -2,7 +2,7 @@
   "tenantId": "bh.biharsharif",
   "moduleName": "TradeLicense",
   "TradeType": [{
-      "code": "MARKET.CA.T005",
+      "code": "MARKET.CA.T025",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -14,7 +14,7 @@
       "type": "TL"
     },
     {
-      "code": "MARKET.CA.T006",
+      "code": "MARKET.CE.T026",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
