@@ -1,0 +1,29 @@
+{
+  "tenantId": "bh.biharsharif",
+  "moduleName": "TradeLicense",
+  "TradeType": [{
+      "code": "MARKET.CA.T005",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "MARKET.CA.T006",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "RLAPO",
+        "TRDSHOPBLDGPRMS"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+]
+}
