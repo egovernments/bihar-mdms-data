@@ -592,7 +592,7 @@
   "TradeLicense": {
     "ApplicationType": {
       "masterName": "ApplicationType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
