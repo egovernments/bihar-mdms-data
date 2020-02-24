@@ -427,6 +427,18 @@
             "idname": "pg.txnid"
         },
         {
+            "format": "BPA_APPL_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.nc_app_fee.receipt.id"
+        },
+        {
+            "format": "BPA_SANC_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.nc_san_fee.receipt.id"
+        },
+        {
+            "idname": "egov.idgen.bpa.applicationNum",
+            "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+        },
+        {
             "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpareg.receipt.id"
         }
