@@ -191,6 +191,16 @@
       "code": "UC_EMP",
       "name": "Universal Collection Employee",
       "description": "Universal Miscellaneous Collection Employee"
+    },
+    {
+      "code": "BPAREG_APPROVER",
+      "name": "BPAREG Approver",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "BPAREG_DOC_VERIFIER",
+      "name": "BPAREG doc verifier",
+      "description": "BPA Stakeholder workflow document verifier"
     }
   ]
 }
