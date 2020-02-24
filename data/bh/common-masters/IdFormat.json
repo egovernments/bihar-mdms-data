@@ -437,6 +437,10 @@
         {
             "idname": "egov.idgen.bpa.applicationNum",
             "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+        },
+        {
+            "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpareg.receipt.id"
         }
     ]
 }
