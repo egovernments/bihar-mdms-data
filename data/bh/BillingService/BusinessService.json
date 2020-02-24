@@ -6,7 +6,7 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": true,
       "isAdvanceAllowed": false,
@@ -17,7 +17,7 @@
       "businessService": "WaterCharges",
       "code": "WC",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -28,7 +28,7 @@
       "businessService": "TradeLicense",
       "code": "TL",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -39,7 +39,7 @@
       "businessService": "WaterCharges.Metered",
       "code": "WaterCharges.Metered",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -50,7 +50,7 @@
       "businessService": "WaterCharges.NonMetered",
       "code": "WaterCharges.NonMetered",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -61,7 +61,7 @@
       "businessService": "FIRENOC",
       "code": "FIRENOC",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -72,7 +72,7 @@
       "businessService": "Taxes.No Dues Certificate",
       "code": "TX.No_Dues_Certificate",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -83,7 +83,7 @@
       "businessService": "Advertisement Tax.Hoardings",
       "code": "ADVT.Hoardings",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -95,7 +95,7 @@
       "businessService": "Advertisement Tax.Unipolls",
       "code": "ADVT.Unipolls",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -107,7 +107,7 @@
       "businessService": "Rents.Municipal Shops Rent",
       "code": "RT.Municipal_Shops_Rent",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -119,7 +119,7 @@
       "businessService": "Rents.Land Rent",
       "code": "RT.Land_Rent",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -131,7 +131,7 @@
       "businessService": "Rents.Tower Rent",
       "code": "RT.Tower_Rent",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -143,7 +143,7 @@
       "businessService": "Rents.Parking Fee",
       "code": "RT.Parking_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -155,7 +155,7 @@
       "businessService": "Rents.Jamin Theka",
       "code": "RT.Jamin_Theka",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -167,7 +167,7 @@
       "businessService": "ADMIN Fees.Election rally fees",
       "code": "ADMN.Election_rally_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -179,7 +179,7 @@
       "businessService": "ADMIN Fees.Parking during election",
       "code": "ADMN.Parking_during_election",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -191,7 +191,7 @@
       "businessService": "ADMIN Fees.Road show",
       "code": "ADMN.Road_show",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -203,7 +203,7 @@
       "businessService": "Finance Fees.Advance Provident Fund",
       "code": "FN.Advance_Provident_Fund",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -215,7 +215,7 @@
       "businessService": "Stationary.Stationary (Not Income)",
       "code": "ST.Stationary_Not_Income",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -227,7 +227,7 @@
       "businessService": "Stationary.Expenditure santitation (Not Income)",
       "code": "ST.Expenditure_santitation_Not_Income",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -239,7 +239,7 @@
       "businessService": "Challans.Santitation dumping garbage",
       "code": "CH.Santitation_dumping_garbage",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -251,7 +251,7 @@
       "businessService": "Fee Town Planning.Telecom tower fees",
       "code": "FTP.Telecom_tower_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -263,7 +263,7 @@
       "businessService": "Taxes.Electricity Chungi",
       "code": "TX.Electricity_Chungi",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -275,7 +275,7 @@
       "businessService": "Fee Town Planning.Draftsmen fees",
       "code": "FTP.Draftsmen_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -287,7 +287,7 @@
       "businessService": "Fee Town Planning.Compremasing fees",
       "code": "FTP.Compremasing_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -299,7 +299,7 @@
       "businessService": "Fee Town Planning.Building planner renew",
       "code": "FTP.Building_planner_renew",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -311,7 +311,7 @@
       "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
       "code": "NKS.Naksha_samjota_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -323,7 +323,7 @@
       "businessService": "Naksha_Building Manual Fees.Naksha changes ",
       "code": "NKS.Naksha_changes",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -335,7 +335,7 @@
       "businessService": "Fee Town Planning.License fees building branch",
       "code": "FTP.License_fees_building_branch",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -347,7 +347,7 @@
       "businessService": "O&M Fee.Water connection_disconnection fees",
       "code": "OM.Water_connection_disconnection_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -359,7 +359,7 @@
       "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
       "code": "NKS.Naksha_renew_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -371,7 +371,7 @@
       "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
       "code": "NKS.NOC_Completion_of_building_approval",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -383,7 +383,7 @@
       "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
       "code": "NKS.Alteration_additional_charge",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -395,7 +395,7 @@
       "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
       "code": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -407,7 +407,7 @@
       "businessService": "Fee Town Planning.Leave encashment and gratuty",
       "code": "FTP.Leave_encashment_and_gratuty",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -419,7 +419,7 @@
       "businessService": "Challans.Plastic Challan",
       "code": "CH.Plastic_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -431,7 +431,7 @@
       "businessService": "Challans.Rehri Challan",
       "code": "CH.Rehri_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -443,7 +443,7 @@
       "businessService": "Challans.Challan for Misuse of Water",
       "code": "CH.Challan_for_Misuse_of_Water",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -455,7 +455,7 @@
       "businessService": "Challans.Dengue Challan",
       "code": "CH.Dengue_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -467,7 +467,7 @@
       "businessService": "Challans.Littering Challan",
       "code": "CH.Littering_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -479,7 +479,7 @@
       "businessService": "Sanitation.Licence Pure food",
       "code": "SNT.Licence_Pure_food",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -491,7 +491,7 @@
       "businessService": "OTHER.Misc Challans",
       "code": "OTHER.Misc_Challans",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -503,7 +503,7 @@
       "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
       "code": "NKS.Regularisation_of_Buildings",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -515,7 +515,7 @@
       "businessService": "Work Fee.Contractor Enlistment",
       "code": "WF.Contractor_Enlistment",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -527,7 +527,7 @@
       "businessService": "Work Fee.Tender Form Fee",
       "code": "WF.Tender Form Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -539,7 +539,7 @@
       "businessService": "Tehbazaari Fee.Advertisement fee",
       "code": "TB.Advertisement_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -551,7 +551,7 @@
       "businessService": "Tehbazaari Fee.Tehbazaari",
       "code": "TB.Tehbazaari",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -563,7 +563,7 @@
       "businessService": "Finance Fees.PF transfer (Accounts)",
       "code": "FN.PF_transfer_(Accounts)",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -575,7 +575,7 @@
       "businessService": "Taxes.TS1 copy register for old survey",
       "code": "TX.TS1_copy_register_for_old_survey",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -587,7 +587,7 @@
       "businessService": "Taxes.Transfer Property Fees",
       "code": "TX.Transfer_Property_Fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -599,7 +599,7 @@
       "businessService": "ADMIN Fees.RTI",
       "code": "ADMN.RTI",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -611,7 +611,7 @@
       "businessService": "ADMIN Fees.No Dues Certificate",
       "code": "ADMN.No_Dues_Certificate",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -623,7 +623,7 @@
       "businessService": "Fee Town Planning.Architect license fee",
       "code": "FTP.Architect_license_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -635,7 +635,7 @@
       "businessService": "Tehbazaari Fee.Challan Under section 156",
       "code": "TB.Challan_Under_section_156",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -647,7 +647,7 @@
       "businessService": "Finance Fees.Recovery employee_contractor",
       "code": "FN.Recovery_employee_contractor",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -659,7 +659,7 @@
       "businessService": "Finance Fees.Grants cheque",
       "code": "FN.Grants_cheque",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -671,7 +671,7 @@
       "businessService": "OTHER.No due certificate electricity",
       "code": "OTHER.No_due_certificate_electricity",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -683,7 +683,7 @@
       "businessService": "OTHER.registery and bank loan",
       "code": "OTHER.registery_and_bank_loan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -695,7 +695,7 @@
       "businessService": "SBM garbage plastic polythene challan",
       "code": "CH.SBM_garbage_plastic_polythene_challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -707,7 +707,7 @@
       "businessService": "Sanitation.Dead animals contract",
       "code": "SNT.Dead_animals_contract",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -719,7 +719,7 @@
       "businessService": "Finance Fees.GPF",
       "code": "FN.GPF",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -731,7 +731,7 @@
       "businessService": "Finance Fees.CPF received check",
       "code": "FN.CPF_received_check",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -743,7 +743,7 @@
       "businessService": "Rents.Tower Installation",
       "code": "RT.Tower_Installation",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -755,7 +755,7 @@
       "businessService": "Rents.Tower Annual Rent",
       "code": "RT.Tower_Annual_Rent",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -767,7 +767,7 @@
       "businessService": "Cess.Cow Cess",
       "code": "CSS.cow_cess",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -779,7 +779,7 @@
       "businessService": "Challans.Cattle Challan",
       "code": "CH.Cattle_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -791,7 +791,7 @@
       "businessService": "Tehbazaari Fee.Rehri Challan",
       "code": "TB.Rehri_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -803,7 +803,7 @@
       "businessService": "License Fee.Manual Rikshaw",
       "code": "LCF.Manual_Rikshaw",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -815,7 +815,7 @@
       "businessService": "Challans.Dairy Animals Challan",
       "code": "CH.Dairy_Animals_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -827,7 +827,7 @@
       "businessService": "Challans.Bidi_And_Cigrette_Challan",
       "code": "CH.Bidi_And_Cigrette_Challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -839,7 +839,7 @@
       "businessService": "Rents.Community Centre Booking Fee",
       "code": "RT.Community_Centre_Booking_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -851,7 +851,7 @@
       "businessService": "Rents.Commercial Use of Municipal Land",
       "code": "RT.Commercial_Use_of_Municipal_Land",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -863,7 +863,7 @@
       "businessService": "Rents.Street Vendor",
       "code": "RT.Street_Vendor",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -875,7 +875,7 @@
       "businessService": "Fee Town Planning.Construction Waste",
       "code": "FTP.Construction_Waste",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -887,7 +887,7 @@
       "businessService": "Fee Town Planning.Demolition Waste",
       "code": "FTP.Demolition_Waste",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -899,7 +899,7 @@
       "businessService": "Sanitation.SNT Clean_Safai Sanitation",
       "code": "SNT.clean_safai_sanitation",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -911,7 +911,7 @@
       "businessService": "O&M Fee.Plumber License Fee",
       "code": "OM.Plumber_License_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -923,7 +923,7 @@
       "businessService": "Advertisement Tax.Light Wala Board",
       "code": "ADVT.Light_Wala_Board",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -935,7 +935,7 @@
       "businessService": "Advertisement Tax.Wall Paint Advertisement",
       "code": "ADVT.Wall_Paint_Advertisement",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -947,7 +947,7 @@
       "businessService": "Advertisement Tax.Gas Balloon Advertisement",
       "code": "ADVT.Gas_Balloon_Advertisement",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -958,7 +958,7 @@
       "businessService": "Taxes.House Tax",
       "code": "TX.House_Tax",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -969,7 +969,7 @@
       "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
       "code": "NKS.Hadud_Certificate_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -981,7 +981,7 @@
       "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
       "code": "NKS.No_Due_Certificate_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -993,7 +993,7 @@
       "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
       "code": "NKS.Colony_Sambandhi_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1005,7 +1005,7 @@
       "businessService": "Naksha_Building Manual Fees.Naksha fees",
       "code": "NKS.Naksha_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1017,7 +1017,7 @@
       "businessService": "Work Fee.OFC Permission fee",
       "code": "WF.OFC_Permission_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1029,7 +1029,7 @@
       "businessService": "Naksha_Building Manual Fees.Building_fees",
       "code": "NKS.Building_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1041,7 +1041,7 @@
       "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
       "code": "NKS.Boundary_wall_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1053,7 +1053,7 @@
       "businessService": "Naksha_Building Manual Fees.Malba_fees",
       "code": "NKS.Malba_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1065,7 +1065,7 @@
       "businessService": "Naksha_Building Manual Fees.Development_fees",
       "code": "NKS.Development_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1077,7 +1077,7 @@
       "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
       "code": "NKS.Change_of_land_use_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1089,7 +1089,7 @@
       "businessService": "Naksha_Building Manual Fees.Under_development_fees",
       "code": "NKS.Under_development_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1101,7 +1101,7 @@
       "businessService": "OTHER.Water_Charges",
       "code": "OTHER.Water_Charges",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1113,7 +1113,7 @@
       "businessService": "OTHER.Others_fee",
       "code": "OTHER.Others_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1125,7 +1125,7 @@
       "businessService": "Cess.Labor Cess",
       "code": "CSS.labor_cess",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1137,7 +1137,7 @@
       "businessService": "Finance Fees.Provident Fund Processing Fees",
       "code": "FN.Provident_Fund_Processing_Fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1149,7 +1149,7 @@
       "businessService": "O&M Fee.Sewerage disconnection connection fees",
       "code": "OM.Sewerage_disconnection_connection_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1161,7 +1161,7 @@
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
       "code": "NKS.Economics_Weaker_Section_Scheme_Charges",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1173,7 +1173,7 @@
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
       "code": "NKS.Economics_Weaker_Section_Projects_Fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1185,7 +1185,7 @@
       "businessService": "O&M Fee.Road cut fees",
       "code": "OM.Road_cut_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1197,7 +1197,7 @@
       "businessService": "ADMIN Fees.Parking booking fee",
       "code": "ADMN.Parking_booking_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1209,7 +1209,7 @@
       "businessService": "Advertisement Tax.Canopy Fee",
       "code": "ADVT.Canopy_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1221,7 +1221,7 @@
       "businessService": "Advertisement Tax.Outdoor Media Display Fee",
       "code": "ADVT.Outdoor_Media_Display_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1233,7 +1233,7 @@
       "businessService": "Taxes.Property Tax 2013-14",
       "code": "TX.Property_Tax_2013-14",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1245,7 +1245,7 @@
       "businessService": "OTHER.Noc_fee",
       "code": "OTHER.Noc_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1257,7 +1257,7 @@
       "businessService": "OTHER.Fire_Noc_fee",
       "code": "OTHER.Fire_Noc_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1269,7 +1269,7 @@
       "businessService": "OTHER.Fire_Tender_fee",
       "code": "OTHER.Fire_Tender_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1281,7 +1281,7 @@
       "businessService": "OTHER.Fire_Call_Report_fee",
       "code": "OTHER.Fire_Call_Report_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1293,7 +1293,7 @@
       "businessService": "OTHER.Bus_Adda_fee",
       "code": "OTHER.Bus_Adda_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1305,7 +1305,7 @@
       "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
       "code": "NKS.Rain_Harvesting_charges",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1317,7 +1317,7 @@
       "businessService": "Finance Fees.Tender_Earnest_Money_Deposit",
       "code": "FN.Tender_Earnest_Money_Deposit",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1329,7 +1329,7 @@
       "businessService": "Finance Fees.Security_Deposit_Fee",
       "code": "FN.Security_Deposit_Fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1341,7 +1341,7 @@
       "businessService": "OTHER.Dispensary_fee",
       "code": "OTHER.Dispensary_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1353,7 +1353,7 @@
       "businessService": "Rents.Sale_of_land",
       "code": "RT.Sale_of_land",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1365,7 +1365,7 @@
       "businessService": "OTHER.License_fee",
       "code": "OTHER.License_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1377,7 +1377,7 @@
       "businessService": "OTHER.Candy_fee",
       "code": "OTHER.Candy_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1389,7 +1389,7 @@
       "businessService": "OTHER.Conservancy_fee",
       "code": "OTHER.Conservancy_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1401,7 +1401,7 @@
       "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
       "code": "NKS.Sub_division_charges",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1413,7 +1413,7 @@
       "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
       "code": "NKS.Information_certificate_fees",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1425,7 +1425,7 @@
       "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
       "code": "NKS.Building_safety_certificate",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1437,7 +1437,7 @@
       "businessService": "OTHER.Street_light_pole_transfer_fee",
       "code": "OTHER.Street_light_pole_transfer_fee",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1449,7 +1449,7 @@
       "businessService": "Challans.Collection_and_demolition_waste_challan",
       "code": "CH.Collection_and_demolition_waste_challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1461,7 +1461,7 @@
       "businessService": "Challans.Burning_of_waste_challan",
       "code": "CH.Burning_of_waste_challan",
       "collectionModesNotAllowed": [
-        "DD"
+        "CREDIT.DEBIT.CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
