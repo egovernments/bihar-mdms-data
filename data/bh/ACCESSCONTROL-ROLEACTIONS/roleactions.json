@@ -6200,6 +6200,36 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1875,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1876,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1877,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 1878,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1880,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1876,
       "actioncode": "",
