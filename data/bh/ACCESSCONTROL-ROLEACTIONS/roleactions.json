@@ -6068,8 +6068,26 @@
       "actioncode": "",
       "tenantId": "bh"
     },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
     {
       "rolecode": "BPA_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CEMP",
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "bh"
