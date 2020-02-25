@@ -6153,18 +6153,6 @@
       "tenantId": "bh"
     },
     {
-      "rolecode": "BPA_APPROVER",
-      "actionid": 1936,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "BPA_VERIFIER",
-      "actionid": 1936,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1938,
       "actioncode": "",
