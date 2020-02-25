@@ -6082,22 +6082,6 @@
       "path": ""
     },
     {
-      "id": 1856,
-      "name": "rainmaker-common-uc",
-      "url": "card",
-      "displayName": "Miscellaneous Collection",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "uc/search",
-      "leftIcon": "image:collections-bookmark",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
       "id": 1875,
       "name": "Create BPALicense",
       "url": "/tl-services/v1/BPAREG/_create",
