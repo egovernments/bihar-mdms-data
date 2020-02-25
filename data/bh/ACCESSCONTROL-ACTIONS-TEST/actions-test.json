@@ -6226,6 +6226,7 @@
       "id": 1936,
       "name": "search BPA application",
       "displayName": "Search Application",
+      "url":"url",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
