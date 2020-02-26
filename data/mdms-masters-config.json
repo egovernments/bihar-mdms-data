@@ -701,6 +701,13 @@
         "$.code"
       ]
     },
+    "Usages": {
+      "masterName": "Usages",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "CalculationType": {
       "masterName": "CalculationType",
       "isStateLevel": true,
