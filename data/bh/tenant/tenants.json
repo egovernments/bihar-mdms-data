@@ -257,6 +257,36 @@
       },
       "address": "Not Available",
       "contactNumber": "Not Available"
+    },
+    {
+      "code": "bh.bihar",
+      "name": "Bihar",
+      "description": "Bihar",
+      "logoId": "https://bihar-uat.egovernments.org/bihar-asset/bh.sonpur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bihar",
+        "localName": "Bihar",
+        "districtCode": "0",
+        "districtName": "Bihar",
+        "regionName": "Bihar",
+        "ulbGrade": "BH",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "123456"
+      },
+      "address": "Bihar, India",
+      "contactNumber": "-"
     }
   ]
 }
