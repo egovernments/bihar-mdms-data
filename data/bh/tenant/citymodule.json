@@ -58,8 +58,8 @@
       ]
     },
     {
-      "module": "BPA",
-      "code": "BPA",
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
       "tenants": [
         {
           "code": "bh.sonpur"
