@@ -6338,6 +6338,30 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "bh"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
