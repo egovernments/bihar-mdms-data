@@ -6332,6 +6332,12 @@
       "actionid": 1937,
       "actioncode": "",
       "tenantId": "bh"
+    },
+      {
+      "rolecode": "SUPERUSER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
