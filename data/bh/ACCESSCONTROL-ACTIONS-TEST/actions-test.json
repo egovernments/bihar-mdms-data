@@ -6258,6 +6258,21 @@
       "quickAction": true,
       "leftIcon": "communication:business",
       "rightIcon": ""
+    },
+    {
+      "id": 1937,
+      "name": "eDCRScrutinyHome",
+      "url": "url",
+      "displayName": "eDCR Scrutiny Home",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-edcr",
+      "enabled": true,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": "eDCRScrutiny",
+      "navigationURL": "edcrscrutiny/home",
+      "leftIcon": "custom:edcr",
+      "rightIcon": ""
     }
   ]
 }
