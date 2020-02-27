@@ -10,13 +10,14 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Bhagalpur",
-        "localname": "Bhagalpur",
+        "name": "Bihar",
+        "localname": "Bihar",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "bh.bhagalpur",
+        "code": "bh.bihar",
         "children": []
       }
     }
+  ]
 }
