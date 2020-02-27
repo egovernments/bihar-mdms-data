@@ -1,5 +1,22 @@
 {
   "tenantId": "bh.bihar",
   "moduleName": "egov-location",
-  "TenantBoundary": []
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhagalpur",
+        "localname": "Bhagalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "bh.bhagalpur",
+        "children": []
+      }
+    }
 }
