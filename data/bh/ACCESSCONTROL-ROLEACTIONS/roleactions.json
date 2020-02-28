@@ -6385,6 +6385,18 @@
       "actionid": 623,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
