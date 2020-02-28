@@ -6273,6 +6273,38 @@
       "navigationURL": "edcrscrutiny/home",
       "leftIcon": "custom:edcr",
       "rightIcon": ""
+    },
+    {
+      "id": 1938,
+      "name": "rainmaker-uc-search",
+      "url": "quickAction",
+      "displayName": "Search Miscellaneous Collection",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "uc/search",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1939,
+      "name": "rainmaker-uc-newcollection",
+      "url": "quickAction",
+      "displayName": "New Miscellaneous Collection",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "uc/newCollection",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
