@@ -6397,6 +6397,42 @@
       "actionid": 1939,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }

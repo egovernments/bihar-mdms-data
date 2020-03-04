@@ -710,6 +710,34 @@
       "masterName": "RiskTypeComputation",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "SubOccupancyType": {
+      "masterName": "SubOccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Usages": {
+      "masterName": "Usages",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.question"
+      ]
     }
   }
 }
