@@ -36,6 +36,17 @@
       "isVoucherCreationEnabled": true
     },
     {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [
+        "CREDIT.DEBIT.CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
       "businessService": "WaterCharges.Metered",
       "code": "WaterCharges.Metered",
       "collectionModesNotAllowed": [

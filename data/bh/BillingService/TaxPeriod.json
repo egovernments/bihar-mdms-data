@@ -1091,6 +1091,14 @@
       "financialYear": "2019-22"
     },
     {
+      "fromDate": 1585699200000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2020_22",
+      "financialYear": "2020-22"
+    },
+    {
       "fromDate": 1522540801000,
       "toDate": 1838159999000,
       "periodCycle": "FORTENYEARS",
