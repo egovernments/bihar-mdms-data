@@ -6183,6 +6183,12 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 1921,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1766,
       "actioncode": "",
