@@ -731,6 +731,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.question"
+      ]
     }
   }
 }

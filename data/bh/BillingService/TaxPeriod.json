@@ -1091,6 +1091,14 @@
       "financialYear": "2019-22"
     },
     {
+      "fromDate": 1585699200000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2020_22",
+      "financialYear": "2020-22"
+    },
+    {
       "fromDate": 1522540801000,
       "toDate": 1838159999000,
       "periodCycle": "FORTENYEARS",
@@ -1111,6 +1119,14 @@
       "toDate": 1838159999000,
       "periodCycle": "FORTENYEARS",
       "service": "BPA.NC_SAN_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
       "code": "BPA10YRS2018",
       "financialYear": "2018-28"
     }

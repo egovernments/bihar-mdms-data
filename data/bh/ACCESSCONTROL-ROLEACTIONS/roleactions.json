@@ -6183,6 +6183,12 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 1921,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1766,
       "actioncode": "",
@@ -6197,6 +6203,18 @@
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1925,
       "actioncode": "",
       "tenantId": "bh"
     },
@@ -6527,6 +6545,42 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1936,
       "actioncode": "",
       "tenantId": "bh"
     }
