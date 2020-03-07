@@ -6208,6 +6208,18 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "bh"
