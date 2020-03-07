@@ -245,11 +245,11 @@
             "docTypes": [
                 {
                     "code": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 },
                 {
                     "code": "NOC.AIRPORT",
-                    "required": true
+                    "required": false
                 }
             ]
         },
@@ -301,11 +301,11 @@
             "docTypes": [
                 {
                     "code": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 },
                 {
                     "code": "NOC.AIRPORT",
-                    "required": true
+                    "required": false
                 }
             ]
         },
@@ -357,11 +357,11 @@
             "docTypes": [
                 {
                     "code": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 },
                 {
                     "code": "NOC.AIRPORT",
-                    "required": true
+                    "required": false
                 }
             ]
         }
