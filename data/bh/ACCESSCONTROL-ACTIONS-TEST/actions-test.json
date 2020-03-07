@@ -6227,6 +6227,17 @@
       "code": "null",
       "path": ""
     },
+      {
+      "id": 1925,
+      "name": "BPA-PermitOrderEDCR Report",
+      "url": "/bpa-services/bpa/appl/_permitorderedcr",
+      "displayName": "Apply",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 1931,
       "name": "BPA-updateapplicationservice",
