@@ -40,7 +40,28 @@
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "LOW",
             "feeType":"Low_SanctionFee",
-            "amount":500
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":1,
+                "NP":1,
+                "MC":1,
+                "MC1":10,
+                "MC2":12
+            },
+            "labourCess":1,
+            "scrutinyFee":1000,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }
         },{
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
@@ -56,10 +77,58 @@
         },{
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "ALL",
-            "riskType": "ALL",
+            "riskType": "HIGH",
             "feeType":"SanctionFee",
-            "amount":500
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":1,
+                "NP":1,
+                "MC":12,
+                "MC1":20,
+                "MC2":25
+            },
+            "labourCess":1,
+            "scrutinyFee":100000,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }   
+        },
+        {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "MEDIUM",
+            "feeType":"SanctionFee",
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":1,
+                "NP":1,
+                "MC":1,
+                "MC1":15,
+                "MC2":18
+            },
+            "labourCess":1,
+            "scrutinyFee":0,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }   
         }
     ]
 }
-
