@@ -4995,6 +4995,46 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA  Development Charges",
+      "code": "BPA_DEVLOPMENT_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Shelter Fund",
+      "code": "BPA_SHELTER_FUND",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Scrutiny Fee",
+      "code": "BPA_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Labour Cess",
+      "code": "BPA_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "name": "BPA Low Risk Appllication Fees",
@@ -5009,6 +5049,46 @@
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "name": "BPA Low Risk Permit Fees",
       "code": "BPA_LOW_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Development Charges",
+      "code": "BPA_LOW_DEVLOPMENT_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Shelter Fund",
+      "code": "BPA_LOW_SHELTER_FUND",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Scrutiny Fee",
+      "code": "BPA_LOW_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Labour Cess",
+      "code": "BPA_LOW_LABOUR_CESS",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
