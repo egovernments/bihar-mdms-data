@@ -6352,17 +6352,6 @@
       "path": ""
     },
     {
-      "id": 1945,
-      "name": "BPA-Applyforservice",
-      "url": "/bpa-services/bpa/appl/_create",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1946,
       "name": "BPA-applicationsearch",
       "url": "/bpa-services/bpa/appl/_search",
