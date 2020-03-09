@@ -51,6 +51,25 @@
             "active": true
         },
         {
+            "code": "APPL.TECHNICAL.APPENDIX",
+            "active": true
+        },{
+            "code": "APPL.DECLARATION.APPENDIX",
+            "active": true
+        },
+        {
+            "code": "APPL.PC.PC",
+            "active": true
+        },
+        {
+            "code": "APPL.LD.LD",
+            "active": true
+        },
+        {
+            "code": "APPL.OD.OD",
+            "active": true
+        },
+        {
             "code": "BPD.SP.SP",
             "active": true
         },
@@ -76,6 +95,18 @@
         },
         {
             "code": "BPD.PP.PP",
+            "active": true
+        },
+        {
+            "code": "BPD.BP.BP",
+            "active": true
+        },
+        {
+            "code": "BPD.OD.OD",
+            "active": true
+        },
+        {
+            "code": "BPD.DP.DP",
             "active": true
         },
         {
@@ -111,7 +142,51 @@
             "active": true
         },
         {
+            "code": "FI.SIBS.SIBS",
+            "active": true
+        },
+        {
+            "code": "FI.SIEB.SIEB",
+            "active": true
+        },
+        {
+            "code": "FI.SIFS.SIFS",
+            "active": true
+        },
+        {
+            "code": "FI.SIPB.SIPB",
+            "active": true
+        },
+        {
+            "code": "FI.SIRI.SIRI",
+            "active": true
+        },
+        {
+            "code": "FI.SISB.SISB",
+            "active": true
+        },
+        {
             "code": "NOC.AIRPORT.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.AIRPORT.AUTHORITY.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.FIRE.SERVICES.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.IRRIGATION.DEPARTMENT.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.MONUMENTS.AUTHORITY.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.POLLUTION.CONTROL.BOARD.CERTIFICATE",
             "active": true
         },
         {
