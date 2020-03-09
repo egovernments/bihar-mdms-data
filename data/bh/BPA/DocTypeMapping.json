@@ -37,11 +37,11 @@
                     "required": false
                 },
                 {
-                    "code": "APPL.TECHNICAL.APPENDIX",
+                    "code": "APPL.TECHNICAL",
                     "required": true
                 },
                 {
-                    "code": "APPL.DECLARATION.APPENDIX",
+                    "code": "APPL.DECLARATION",
                     "required": true
                 },
                 {
@@ -153,11 +153,11 @@
                     "required": false
                 },
                 {
-                    "code": "APPL.TECHNICAL.APPENDIX",
+                    "code": "APPL.TECHNICAL",
                     "required": true
                 },
                 {
-                    "code": "APPL.DECLARATION.APPENDIX",
+                    "code": "APPL.DECLARATION",
                     "required": true
                 },
                 {
@@ -269,11 +269,11 @@
                     "required": false
                 },
                 {
-                    "code": "APPL.TECHNICAL.APPENDIX",
+                    "code": "APPL.TECHNICAL",
                     "required": true
                 },
                 {
-                    "code": "APPL.DECLARATION.APPENDIX",
+                    "code": "APPL.DECLARATION",
                     "required": true
                 },
                 {
