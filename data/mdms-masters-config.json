@@ -738,6 +738,20 @@
       "uniqueKeys": [
         "$.question"
       ]
+    },
+    "ProposedLandUse": {
+      "masterName": "ProposedLandUse",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TownPlanningScheme": {
+      "masterName": "TownPlanningScheme",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   }
 }
