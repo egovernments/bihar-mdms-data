@@ -6308,17 +6308,6 @@
       "path": ""
     },
     {
-      "id": 1926,
-      "name": "BPA-Applyforservice",
-      "url": "/bpa-services/bpa/appl/_create",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1940,
       "name": "BPA-applicationsearch",
       "url": "/bpa-services/bpa/appl/_search",
@@ -6333,17 +6322,6 @@
       "id": 1941,
       "name": "BPA-updateapplicationservice",
       "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1942,
-      "name": "BPA-Applyforservice",
-      "url": "/bpa-services/bpa/appl/_create",
       "displayName": "Apply",
       "orderNumber": 0,
       "enabled": false,
