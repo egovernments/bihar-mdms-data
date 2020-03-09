@@ -6472,12 +6472,6 @@
     },
     {
       "rolecode": "BPA_BUILDER",
-      "actionid": 1926,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "BPA_BUILDER",
       "actionid": 1940,
       "actioncode": "",
       "tenantId": "bh"
@@ -6485,12 +6479,6 @@
     {
       "rolecode": "BPA_BUILDER",
       "actionid": 1941,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1942,
       "actioncode": "",
       "tenantId": "bh"
     },
@@ -6581,6 +6569,30 @@
     {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+     {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 1924,
       "actioncode": "",
       "tenantId": "bh"
     }
