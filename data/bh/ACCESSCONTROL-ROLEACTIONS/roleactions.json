@@ -6595,6 +6595,12 @@
       "actionid": 1950,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 1814,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
