@@ -6390,6 +6390,17 @@
       "queryParams": ""
     },
     {
+      "id": 1950,
+      "name": "UserEvent",
+      "url": "/egov-user-event/v1/events/_search",
+      "displayName": "User Events",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "User",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1939,
       "name": "rainmaker-uc-newcollection",
       "url": "quickAction",
