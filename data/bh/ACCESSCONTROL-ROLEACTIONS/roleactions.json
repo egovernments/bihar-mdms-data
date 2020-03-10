@@ -6589,6 +6589,12 @@
       "actionid": 1924,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
