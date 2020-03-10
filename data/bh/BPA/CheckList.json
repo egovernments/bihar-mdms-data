@@ -19,11 +19,6 @@
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
           "active": true
@@ -194,11 +189,6 @@
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
           "active": true
@@ -365,11 +355,6 @@
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "PLAN_AS_PER_THE_SITE",
           "fieldType": "YES/NO/NA",
           "active": true
         },
