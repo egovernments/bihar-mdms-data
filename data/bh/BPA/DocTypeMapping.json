@@ -62,19 +62,19 @@
                 },
                 {
                     "code": "BPD.FP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SCP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.EP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SECP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.PP",
@@ -178,19 +178,19 @@
                 },
                 {
                     "code": "BPD.FP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SCP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.EP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SECP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.PP",
@@ -294,19 +294,19 @@
                 },
                 {
                     "code": "BPD.FP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SCP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.EP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.SECP",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "BPD.PP",

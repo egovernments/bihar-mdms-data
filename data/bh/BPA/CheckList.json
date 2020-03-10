@@ -136,10 +136,6 @@
       ],
       "docTypes": [
         {
-          "code": "FI.FIR",
-          "required": true
-        },
-        {
           "code": "FI.SINS",
           "required": true
         },
@@ -315,10 +311,6 @@
       ],
       "docTypes": [
         {
-          "code": "FI.FIR",
-          "required": true
-        },
-        {
           "code": "FI.SINS",
           "required": true
         },
@@ -493,10 +485,6 @@
         }
       ],
       "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": true
-        },
         {
           "code": "FI.SINS",
           "required": true
