@@ -9,7 +9,7 @@
             "toBuildingHeight":9999999999,
             "riskType": "HIGH",
             "note": "(Heigh 10 Mt or More) or ( Plot area >=300 sq.Mt)"
-        }{
+        },{
             "fromPlotArea": 0,
             "toPlotArea": 300,
             "fromBuildingHeight": 0,
