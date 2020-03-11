@@ -88,14 +88,14 @@
     },
     {
       "id": "57b66c2a-0033-4875-a3bd-856e5cf82427",
-      "tradeType": "TOWNPLANNER",
+      "tradeType": "TOWNPLANNER.CLASSA",
       "role": ["BPA_TOWNPLANNER","BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500
     },
     {
       "id": "57b66c2a-0033-4875-a3bd-856e5cf82430",
-      "tradeType": "SUPERVISOR",
+      "tradeType": "SUPERVISOR.CLASSA",
       "role": ["BPA_SUPERVISOR"],
       "endstate": "APPROVED",
       "applicationFee": 500
