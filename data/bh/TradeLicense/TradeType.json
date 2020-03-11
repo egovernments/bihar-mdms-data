@@ -3232,7 +3232,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
@@ -3245,7 +3249,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
@@ -3258,7 +3266,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
@@ -3271,7 +3283,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
@@ -3284,7 +3300,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
@@ -3297,7 +3317,11 @@
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
+        "EXPERIENCEPROOF",
+        "GOVT_APPROVED_ID_CARD",
+        "EDC_CERTIFICATE",
+        "EXP_CERTIFICATE",
+        "PASS_PORT_SIZE_PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
