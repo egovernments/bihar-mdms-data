@@ -6327,6 +6327,17 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1859,
+      "name": "Locality searcher endpoint for BPA",
+      "url": "/egov-searcher/locality/bpa-services/_get",
+      "displayName": "BPA locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
