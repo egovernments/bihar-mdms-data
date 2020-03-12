@@ -1484,7 +1484,7 @@
       "businessService": "BPARegistration",
       "code": "BPAREG",
       "collectionModesNotAllowed": [
-        "DD"
+        
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1495,7 +1495,7 @@
       "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
       "code": "BPA.NC_APP_FEE",
       "collectionModesNotAllowed": [
-        "DD"
+      
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1506,7 +1506,7 @@
       "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
       "code": "BPA.NC_SAN_FEE",
       "collectionModesNotAllowed": [
-        "DD"
+       
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1517,7 +1517,7 @@
       "businessService": "BPA.NEWCONSTRUCTION_LOW_RISK_PERMIT_FEE",
       "code": "BPA.LOW_RISK_PERMIT_FEE",
       "collectionModesNotAllowed": [
-        "DD"
+        
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
