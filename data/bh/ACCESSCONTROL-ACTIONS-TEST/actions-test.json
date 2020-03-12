@@ -6286,94 +6286,6 @@
       "rightIcon": ""
     },
     {
-      "id": 1929,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/bpa/appl/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1928,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1940,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/bpa/appl/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1941,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1943,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/bpa/appl/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1944,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1946,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/bpa/appl/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1947,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1938,
       "name": "rainmaker-uc-search",
       "url": "quickAction",
@@ -6415,6 +6327,28 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1859,
+      "name": "Locality searcher endpoint for BPA",
+      "url": "/egov-searcher/locality/bpa-services/_get",
+      "displayName": "BPA locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1860,
+      "name": "Locality searcher endpoint for BPA",
+      "url": "/egov-searcher/locality/BPAREG/_get",
+      "displayName": "BPA locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
