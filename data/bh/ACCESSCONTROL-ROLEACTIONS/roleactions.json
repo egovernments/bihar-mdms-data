@@ -6699,26 +6699,20 @@
       "tenantId": "bh"
     },
     {
-      "rolecode": "BPA_VERIFIER",
+      "rolecode": "EMPLOYEE",
       "actionid": 1815,
       "actioncode": "",
       "tenantId": "bh"
     },
     {
-      "rolecode": "BPA_FIELD_INSPECTOR",
-      "actionid": 1815,
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 1860,
       "actioncode": "",
       "tenantId": "bh"
     },
     {
-      "rolecode": "BPA_NOC_VERIFIER",
-      "actionid": 1815,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "BPA_APPROVER",
-      "actionid": 1815,
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 1860,
       "actioncode": "",
       "tenantId": "bh"
     }

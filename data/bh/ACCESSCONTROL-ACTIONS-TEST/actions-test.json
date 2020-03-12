@@ -6338,6 +6338,17 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1860,
+      "name": "Locality searcher endpoint for BPA",
+      "url": "/egov-searcher/locality/BPAREG/_get",
+      "displayName": "BPA locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
