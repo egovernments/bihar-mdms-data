@@ -6697,6 +6697,30 @@
       "actionid": 1859,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
