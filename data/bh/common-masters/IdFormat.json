@@ -1,8 +1,7 @@
 {
     "tenantId": "bh",
     "moduleName": "common-masters",
-    "IdFormat": [
-        {
+    "IdFormat": [{
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "watercharges.metered.receipt.id"
         },

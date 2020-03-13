@@ -5727,6 +5727,12 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1845,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 1846,
       "actioncode": "",
@@ -6041,54 +6047,6 @@
     {
       "rolecode": "TL_CEMP",
       "actionid": 1819,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 1856,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_CEMP",
-      "actionid": 1857,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 1857,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1857,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_CEMP",
-      "actionid": 1858,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 1858,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1858,
-      "actioncode": "",
-      "tenantId": "bh"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 1856,
       "actioncode": "",
       "tenantId": "bh"
     }
