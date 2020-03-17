@@ -3236,7 +3236,8 @@
         "GOVT_APPROVED_ID_CARD",
         "EDC_CERTIFICATE",
         "EXP_CERTIFICATE",
-        "PASS_PORT_SIZE_PHOTO"
+        "PASS_PORT_SIZE_PHOTO",
+        "REG_CERTIFICATE_LICENSEE"
       ],
       "verificationDocument": [],
       "active": true,
