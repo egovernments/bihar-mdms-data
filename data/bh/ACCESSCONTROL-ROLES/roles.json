@@ -191,6 +191,11 @@
       "code": "UC_EMP",
       "name": "Universal Collection Employee",
       "description": "Universal Miscellaneous Collection Employee"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous",
+      "description": "Anonymous"
     }
   ]
 }
