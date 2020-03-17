@@ -251,6 +251,11 @@
       "code": "BPA_NOC_VERIFIER",
       "name": "BPA NOC Verifier",
       "description": "BPA Service NOC verifier"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous",
+      "description": "Anonymous"
     }
   ]
 }
