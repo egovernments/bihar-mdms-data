@@ -6349,6 +6349,76 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1861,
+      "name": "mSeva Event Create",
+      "url": "/egov-user-event/v1/events/_create",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1862,
+      "name": "mSeva Event Update",
+      "url": "/egov-user-event/v1/events/_update",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1863,
+      "name": "mSeva Event Search",
+      "url": "/egov-user-event/v1/events/_search",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1864,
+      "name": "mSeva Event Count",
+      "url": "/egov-user-event/v1/events/notifications/_count",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1865,
+      "name": "mSeva Event llt Update",
+      "url": "/egov-user-event/v1/events/lat/_update",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1866,
+      "name": "ULBInformation",
+      "url": "url",
+      "displayName": "ULB Information",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": "ULBInformation",
+      "navigationURL": "notifications",
+      "leftIcon": "action:description",
+      "rightIcon": ""
     }
   ]
 }
