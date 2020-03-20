@@ -6715,6 +6715,42 @@
       "actionid": 1860,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1861,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1862,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
