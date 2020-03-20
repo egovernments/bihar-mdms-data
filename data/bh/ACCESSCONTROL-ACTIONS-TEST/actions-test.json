@@ -6037,76 +6037,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Receipt Register"
-    },
-    {
-      "id": 1856,
-      "name": "mSeva Event Create",
-      "url": "/egov-user-event/v1/events/_create",
-      "displayName": "mSeva Event Notification",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1857,
-      "name": "mSeva Event Update",
-      "url": "/egov-user-event/v1/events/_update",
-      "displayName": "mSeva Event Notification",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1858,
-      "name": "mSeva Event Search",
-      "url": "/egov-user-event/v1/events/_search",
-      "displayName": "mSeva Event Notification",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1859,
-      "name": "mSeva Event Count",
-      "url": "/egov-user-event/v1/events/notifications/_count",
-      "displayName": "mSeva Event Notification",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1860,
-      "name": "mSeva Event llt Update",
-      "url": "/egov-user-event/v1/events/lat/_update",
-      "displayName": "mSeva Event Notification",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1861,
-      "name": "ULBInformation",
-      "url": "url",
-      "displayName": "ULB Information",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "msea-event-notification",
-      "code": "null",
-      "path": "ULBInformation",
-      "navigationURL": "notifications",
-      "leftIcon": "action:description",
-      "rightIcon": ""
     }
+    
   ]
 }
