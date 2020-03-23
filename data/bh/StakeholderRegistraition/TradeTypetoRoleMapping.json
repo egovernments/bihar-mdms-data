@@ -7,98 +7,766 @@
       "tradeType": "ARCHITECT.CLASSA",
       "role": ["BPA_ARCHITECT","BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     },
     {
       "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
       "tradeType": "ARCHITECT.CLASSB",
       "role": ["BPA_ARCHITECT"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
       "tradeType": "ARCHITECT.CLASSC",
       "role": ["BPA_ARCHITECT"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
       "tradeType": "BUILDER.CLASSA",
       "role": ["BPA_BUILDER","BPA_ARCHITECT"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
       "tradeType": "BUILDER.CLASSB",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
       "tradeType": "BUILDER.CLASSC",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
       "tradeType": "ENGINEER.CLASSA",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
       "tradeType": "ENGINEER.CLASSB",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
       "tradeType": "ENGINEER.CLASSC",
       "role": ["BPA_ENGINEER","BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "91d278e9-0bcd-4436-978e-793af58e325f",
       "tradeType": "STRUCTURALENGINEER.CLASSA",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     },
     {
       "id": "91d278e9-0bcd-4436-978e-793af58e325f",
       "tradeType": "STRUCTURALENGINEER.CLASSB",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "91d278e9-0bcd-4436-978e-793af58e325f",
       "tradeType": "STRUCTURALENGINEER.CLASSC",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": null
     },
     {
       "id": "57b66c2a-0033-4875-a3bd-856e5cf82427",
       "tradeType": "TOWNPLANNER.CLASSA",
       "role": ["BPA_TOWNPLANNER","BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     },
     {
       "id": "57b66c2a-0033-4875-a3bd-856e5cf82430",
       "tradeType": "SUPERVISOR.CLASSA",
       "role": ["BPA_SUPERVISOR"],
       "endstate": "APPROVED",
-      "applicationFee": 500
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.IDENTITYPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.ADDRESSPROOF",
+              "required": true
+          },
+          {
+              "code": "APPL.LTR",
+              "required": true
+          },
+          {
+              "code": "APPL.TDP",
+              "required": true
+          },
+          {
+              "code": "APPL.LAC",
+              "required": false
+          },
+          {
+              "code": "APPL.SSC",
+              "required": false
+          },
+          {
+              "code": "APPL.LSVS",
+              "required": false
+          },
+          {
+              "code": "APPL.TECHNICAL",
+              "required": true
+          },
+          {
+              "code": "APPL.DECLARATION",
+              "required": true
+          },
+          {
+              "code": "APPL.PC",
+              "required": true
+          },
+          {
+              "code": "APPL.LD",
+              "required": false
+          },
+          {
+              "code": "APPL.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.SP",
+              "required": true
+          },
+          {
+              "code": "BPD.FP",
+              "required": true
+          },
+          {
+              "code": "BPD.SCP",
+              "required": true
+          },
+          {
+              "code": "BPD.EP",
+              "required": true
+          },
+          {
+              "code": "BPD.SECP",
+              "required": true
+          },
+          {
+              "code": "BPD.PP",
+              "required": false
+          },
+          {
+              "code": "BPD.RP",
+              "required": false
+          },
+          {
+              "code": "BPD.BP",
+              "required": false
+          },
+          {
+              "code": "BPD.OD",
+              "required": false
+          },
+          {
+              "code": "BPD.DP",
+              "required": false
+          },
+          {
+              "code": "NOC.FIRE",
+              "required": false
+          },
+          {
+              "code": "NOC.AIRPORT",
+              "required": false
+          },
+          {
+              "code": "NOC.IRRIGATION",
+              "required": false
+          },
+          {
+              "code": "NOC.MONUMENTS",
+              "required": false
+          },
+          {
+              "code": "NOC.POLLUTION",
+              "required": false
+          }
+      ]
     }
   ]
 }
