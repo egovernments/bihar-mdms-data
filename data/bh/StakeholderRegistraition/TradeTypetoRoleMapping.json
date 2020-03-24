@@ -10,35 +10,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": true
           }
       ]
@@ -67,35 +67,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -124,35 +124,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -181,35 +181,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -238,35 +238,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -279,35 +279,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "BPA_GOVT_APPROVED_ID_CARD",
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "BPA_EDC_CERTIFICATE",
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_EXP_CERTIFICATE",
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "BPA_PASS_PORT_SIZE_PHOTO",
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "BPA_INCOMETAX_STATEMENT",
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "BPA_OTHERS",
+              "code": "APPL.BPAREG_OTHERS",
               "required": false
           },
           {
-              "code": "BPA_REGISTRATION_CERTIFICATE",
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
