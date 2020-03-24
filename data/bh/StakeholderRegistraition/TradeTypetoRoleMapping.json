@@ -10,112 +10,36 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
-              "required": false
           }
       ]
     },
@@ -143,111 +67,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
-              "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -276,111 +124,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
-              "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -409,111 +181,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
-              "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -542,111 +238,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
-              "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
@@ -659,111 +279,35 @@
       "applicationFee": 500,
       "docTypes": [
           {
-              "code": "APPL.IDENTITYPROOF",
+              "code": "BPA_GOVT_APPROVED_ID_CARD",
               "required": true
           },
           {
-              "code": "APPL.ADDRESSPROOF",
+              "code": "BPA_EDC_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.LTR",
+              "code": "BPA_EXP_CERTIFICATE",
               "required": true
           },
           {
-              "code": "APPL.TDP",
+              "code": "BPA_PASS_PORT_SIZE_PHOTO",
               "required": true
           },
           {
-              "code": "APPL.LAC",
+              "code": "BPA_SHOWCAUSE_NOTICE_IFANY",
               "required": false
           },
           {
-              "code": "APPL.SSC",
+              "code": "BPA_INCOMETAX_STATEMENT",
               "required": false
           },
           {
-              "code": "APPL.LSVS",
+              "code": "BPA_OTHERS",
               "required": false
           },
           {
-              "code": "APPL.TECHNICAL",
-              "required": true
-          },
-          {
-              "code": "APPL.DECLARATION",
-              "required": true
-          },
-          {
-              "code": "APPL.PC",
-              "required": true
-          },
-          {
-              "code": "APPL.LD",
-              "required": false
-          },
-          {
-              "code": "APPL.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.SP",
-              "required": true
-          },
-          {
-              "code": "BPD.FP",
-              "required": true
-          },
-          {
-              "code": "BPD.SCP",
-              "required": true
-          },
-          {
-              "code": "BPD.EP",
-              "required": true
-          },
-          {
-              "code": "BPD.SECP",
-              "required": true
-          },
-          {
-              "code": "BPD.PP",
-              "required": false
-          },
-          {
-              "code": "BPD.RP",
-              "required": false
-          },
-          {
-              "code": "BPD.BP",
-              "required": false
-          },
-          {
-              "code": "BPD.OD",
-              "required": false
-          },
-          {
-              "code": "BPD.DP",
-              "required": false
-          },
-          {
-              "code": "NOC.FIRE",
-              "required": false
-          },
-          {
-              "code": "NOC.AIRPORT",
-              "required": false
-          },
-          {
-              "code": "NOC.IRRIGATION",
-              "required": false
-          },
-          {
-              "code": "NOC.MONUMENTS",
-              "required": false
-          },
-          {
-              "code": "NOC.POLLUTION",
+              "code": "BPA_REGISTRATION_CERTIFICATE",
               "required": false
           }
       ]
