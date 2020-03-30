@@ -32,7 +32,8 @@
         "municipalityName": "Biharsharif Municipal Corporation"
       },
       "address": "Biharsharif Municipal corporation, Biharsharif",
-      "contactNumber": "1800-121-4554"
+      "contactNumber": "1800-121-4554",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Biharsharif/"
     },
     {
       "code": "bh.muzaffarpur",
