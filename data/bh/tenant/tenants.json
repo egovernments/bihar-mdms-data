@@ -65,7 +65,8 @@
         "municipalityName": "Muzaffarpur Municipal Corporation"
       },
       "address": "Muzaffarpur Municipal Corporation , Muzaffarpur",
-      "contactNumber": "9939005692"
+      "contactNumber": "9939005692",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Muzaffarpur/"
     },
     {
       "code": "bh.danapur",
@@ -97,7 +98,8 @@
         "municipalityName": "Danapur Municipal Council"
       },
       "address": "Danapur Municipal Council , Danapur",
-      "contactNumber": "7250444794 /7677223981"
+      "contactNumber": "7250444794 /7677223981",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Danapur/"
     },
     {
       "code": "bh.hajipur",
@@ -129,7 +131,8 @@
         "municipalityName": "Hajipur Municipal Council"
       },
       "address": "Hajipur Municipal Council , Hajipur",
-      "contactNumber": "7808016983"
+      "contactNumber": "7808016983",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Hajipur/"
     },
     {
       "code": "bh.sitamarhi",
@@ -161,7 +164,8 @@
         "municipalityName": "Sitamarhi Municipal Council"
       },
       "address": "Sitamarhi Municipal Council , Sitamarhi",
-      "contactNumber": "Not Available"
+      "contactNumber": "Not Available",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Sitamarhi/"
     },
     {
       "code": "bh.katihar",
@@ -193,7 +197,8 @@
         "municipalityName": "Katihar Municipal Corporation"
       },
       "address": "Katihar Municipal Corporation , Katihar",
-      "contactNumber": "9934997256 /9122483309"
+      "contactNumber": "9934997256 /9122483309",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Katihar/"
     },
     {
       "code": "bh.bhagalpur",
@@ -225,7 +230,8 @@
         "municipalityName": "Bhagalpur Municipal Corporation"
       },
       "address": "Bhagalpur Municipal Corporation , Bhagalpur",
-      "contactNumber": "8292151116"
+      "contactNumber": "8292151116",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Bhagalpur/"
     },
     {
       "code": "bh.sonpur",
@@ -257,7 +263,8 @@
         "municipalityName": "Sonpur Nagar Panchayat"
       },
       "address": "Not Available",
-      "contactNumber": "Not Available"
+      "contactNumber": "Not Available",
+      "ulbPortalLink":"https://portal.mseva.bihar.gov.in/Sonpur/"
     },
     {
       "code": "bh.bihar",
