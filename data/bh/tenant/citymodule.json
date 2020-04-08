@@ -7,9 +7,6 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "bh.sonpur"
-        },
-        {
           "code": "bh.muzaffarpur"
         },
         {
@@ -40,9 +37,6 @@
       "module": "UC",
       "code": "UC",
       "tenants": [
-        {
-          "code": "bh.sonpur"
-        },
         {
           "code": "bh.hajipur"
         },
