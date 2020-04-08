@@ -225,38 +225,6 @@
       },
       "address": "Bhagalpur Municipal Corporation , Bhagalpur",
       "contactNumber": "8292151116"
-    },
-    {
-      "code": "bh.sonpur",
-      "name": "Sonpur",
-      "description": "Sonpur",
-      "logoId": "https://mseva.bihar.gov.in/bihar-asset/bh.sonpur/logo.png",
-      "imageId": null,
-      "domainUrl": "https://patnamunicipal.net/pmc/public",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": null,
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "Sonpur",
-        "localName": "Sonpur",
-        "districtCode": "49",
-        "districtName": "Sonpur",
-        "regionName": null,
-        "ulbGrade": "NP",
-        "longitude": 85.1784,
-        "latitude": 25.6943,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248430",
-        "regionCode": null,
-        "municipalityName": "Sonpur Nagar Panchayat"
-      },
-      "address": "Not Available",
-      "contactNumber": "Not Available"
     }
   ]
 }
