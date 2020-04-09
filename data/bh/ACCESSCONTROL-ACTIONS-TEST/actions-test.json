@@ -6037,7 +6037,37 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Receipt Register"
-    }
+    },
+    {
+    "id": 1856,
+    "name": "TradeTypeValidationReport",
+    "url": "/report/rainmaker-tl/TradeTypeValidationReport/metadata/_get",
+    "displayName": "Trade Type Validation Report",
+    "orderNumber": 3,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "Trade License.TL Reports.Trade Type Validation Report",
+    "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 1857,
+    "name": "Trade Type Validation Report",
+    "url": "url",
+    "displayName": "Trade Type Validation Report",
+    "orderNumber": 3,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "State Reports.TL.Trade Type Validation Report",
+    "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  }
     
   ]
 }
