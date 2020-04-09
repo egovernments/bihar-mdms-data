@@ -6052,22 +6052,6 @@
     "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
     "leftIcon": "action:assignment",
     "rightIcon": ""
-  },
-  {
-    "id": 1857,
-    "name": "Trade Type Validation Report",
-    "url": "url",
-    "displayName": "Trade Type Validation Report",
-    "orderNumber": 3,
-    "queryParams": "",
-    "parentModule": "",
-    "enabled": true,
-    "serviceCode": "",
-    "path": "State Reports.TL.Trade Type Validation Report",
-    "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
-    "leftIcon": "action:assignment",
-    "rightIcon": ""
-  }
-    
+  }    
   ]
 }
