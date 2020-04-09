@@ -32,6 +32,7 @@
         "municipalityName": "Biharsharif Municipal Corporation"
       },
       "address": "Biharsharif Municipal corporation, Biharsharif",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Biharsharif/",
       "contactNumber": "1800-121-4554"
     },
     {
@@ -64,6 +65,7 @@
         "municipalityName": "Muzaffarpur Municipal Corporation"
       },
       "address": "Muzaffarpur Municipal Corporation , Muzaffarpur",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Muzaffarpur/",
       "contactNumber": "9939005692"
     },
     {
@@ -96,6 +98,7 @@
         "municipalityName": "Danapur Municipal Council"
       },
       "address": "Danapur Municipal Council , Danapur",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Danapur/",
       "contactNumber": "7250444794 /7677223981"
     },
     {
@@ -128,6 +131,7 @@
         "municipalityName": "Hajipur Municipal Council"
       },
       "address": "Hajipur Municipal Council , Hajipur",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/ Hajipur/",
       "contactNumber": "7808016983"
     },
     {
@@ -160,6 +164,7 @@
         "municipalityName": "Sitamarhi Municipal Council"
       },
       "address": "Sitamarhi Municipal Council , Sitamarhi",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Sitamarhi/",
       "contactNumber": "Not Available"
     },
     {
@@ -192,6 +197,7 @@
         "municipalityName": "Katihar Municipal Corporation"
       },
       "address": "Katihar Municipal Corporation , Katihar",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Katihar/",
       "contactNumber": "9934997256 /9122483309"
     },
     {
@@ -224,7 +230,101 @@
         "municipalityName": "Bhagalpur Municipal Corporation"
       },
       "address": "Bhagalpur Municipal Corporation , Bhagalpur",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Bhagalpur/",
       "contactNumber": "8292151116"
+    },
+    {
+      "code": "bh.sonpur",
+      "name": "Sonpur",
+      "description": "Sonpur",
+      "logoId": "https://mseva.bihar.gov.in/bihar-asset/bh.sonpur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://patnamunicipal.net/pmc/public",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Sonpur",
+        "localName": "Sonpur",
+        "districtCode": "49",
+        "districtName": "Sonpur",
+        "regionName": null,
+        "ulbGrade": "NP",
+        "longitude": 85.1784,
+        "latitude": 25.6943,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248430",
+        "regionCode": null,
+        "municipalityName": "Sonpur Nagar Panchayat"
+      },
+      "address": "Not Available",
+      "ulbPortalLink": "https://portal.mseva.bihar.gov.in/Sonpur/",
+      "contactNumber": "Not Available"
+    },
+    {
+      "code": "bh.bihar",
+      "name": "Bihar",
+      "description": "Bihar",
+      "logoId": "https://mseva.bihar.gov.in/bihar-asset/bh.hajipur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bihar",
+        "localName": "Bihar",
+        "districtCode": "0",
+        "districtName": "Bihar",
+        "regionName": "Bihar",
+        "ulbGrade": "BH",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "123456"
+      },
+      "address": "Bihar, India",
+      "contactNumber": "-"
+    },
+    {
+      "code": "bh.testing",
+      "name": "Testing",
+      "description": "Testing",
+      "logoId": "https://mseva.bihar.gov.in/bihar-asset/bh.hajipur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "0",
+        "districtName": "Testing",
+        "regionName": "Testing",
+        "ulbGrade": "BH",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "123456"
+      },
+      "address": "Testing ULB, Bihar, India",
+      "contactNumber": "-"
     }
   ]
 }
