@@ -6048,7 +6048,7 @@
     "parentModule": "",
     "enabled": true,
     "serviceCode": "",
-    "path": "Trade License.TL Reports.Trade Type Validation Report",
+    "path": "Trade License.TL Reports.TradeTypeValidationReport",
     "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
     "leftIcon": "action:assignment",
     "rightIcon": ""
@@ -6063,7 +6063,7 @@
         "parentModule": "",
         "enabled": true,
         "serviceCode": "",
-        "path": "Trade License.TL Reports.State Level Boundary Validation",
+        "path": "Trade License.TL Reports.StateLevelBoundaryValidation",
         "navigationURL": "report/rainmaker-tl/StateLevelBoundaryValidation",
         "leftIcon": "action:assignment",
         "rightIcon": ""
