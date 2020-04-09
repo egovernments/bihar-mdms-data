@@ -6067,6 +6067,29 @@
         "navigationURL": "report/rainmaker-tl/StateLevelBoundaryValidation",
         "leftIcon": "action:assignment",
         "rightIcon": ""
-      }
+      },
+          {
+          "id": 1858,
+          "name": "StateLevelBoundaryValidation",
+          "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/_get",
+          "displayName": "State Level Boundary Validation",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "",
+          "code": "null",
+          "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
+        },
+        {
+            "id": 1859,
+            "name": "TradeTypeValidationReport",
+            "url": "/report/rainmaker-tl/TradeTypeValidationReport/_get",
+            "displayName": "Trade Type Validation Report",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "",
+            "code": "null",
+            "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
+          }
+
   ]
 }
