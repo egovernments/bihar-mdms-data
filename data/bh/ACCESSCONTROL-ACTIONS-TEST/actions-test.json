@@ -6053,7 +6053,7 @@
     "leftIcon": "action:assignment",
     "rightIcon": ""
   },
-    {
+   {
         "id": 1857,
         "name": "StateLevelBoundaryValidation",
         "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/metadata/_get",
@@ -6064,7 +6064,7 @@
         "enabled": true,
         "serviceCode": "",
         "path": "Trade License.TL Reports.State Level Boundary Validation",
-        "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
+        "navigationURL": "report/rainmaker-tl/StateLevelBoundaryValidation",
         "leftIcon": "action:assignment",
         "rightIcon": ""
       }
