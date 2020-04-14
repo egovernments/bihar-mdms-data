@@ -6421,7 +6421,7 @@
       "rightIcon": ""
     },
     {
-    "id": 1856,
+    "id": 1970,
     "name": "TradeTypeValidationReport",
     "url": "/report/rainmaker-tl/TradeTypeValidationReport/metadata/_get",
     "displayName": "Trade Type Validation Report",
@@ -6436,7 +6436,7 @@
     "rightIcon": ""
   },
    {
-        "id": 1857,
+        "id": 1971,
         "name": "StateLevelBoundaryValidation",
         "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/metadata/_get",
         "displayName": "State Level Boundary Validation",
@@ -6451,7 +6451,7 @@
         "rightIcon": ""
       },
           {
-          "id": 1858,
+          "id": 1972,
           "name": "StateLevelBoundaryValidation",
           "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/_get",
           "displayName": "State Level Boundary Validation",
@@ -6462,7 +6462,7 @@
           "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
         },
         {
-            "id": 1859,
+            "id": 1973,
             "name": "TradeTypeValidationReport",
             "url": "/report/rainmaker-tl/TradeTypeValidationReport/_get",
             "displayName": "Trade Type Validation Report",
@@ -6470,7 +6470,7 @@
             "enabled": false,
             "serviceCode": "",
             "code": "null",
-            "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
+            "path": "Trade License.TL Reports.TradeTypeValidationReport"
           }
   ]
 }
