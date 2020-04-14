@@ -6419,6 +6419,58 @@
       "navigationURL": "notifications",
       "leftIcon": "action:description",
       "rightIcon": ""
-    }
+    },
+    {
+    "id": 1856,
+    "name": "TradeTypeValidationReport",
+    "url": "/report/rainmaker-tl/TradeTypeValidationReport/metadata/_get",
+    "displayName": "Trade Type Validation Report",
+    "orderNumber": 3,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "Trade License.TL Reports.TradeTypeValidationReport",
+    "navigationURL": "report/rainmaker-tl/TradeTypeValidationReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+   {
+        "id": 1857,
+        "name": "StateLevelBoundaryValidation",
+        "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/metadata/_get",
+        "displayName": "State Level Boundary Validation",
+        "orderNumber": 4,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "path": "Trade License.TL Reports.StateLevelBoundaryValidation",
+        "navigationURL": "report/rainmaker-tl/StateLevelBoundaryValidation",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+          {
+          "id": 1858,
+          "name": "StateLevelBoundaryValidation",
+          "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/_get",
+          "displayName": "State Level Boundary Validation",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "",
+          "code": "null",
+          "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
+        },
+        {
+            "id": 1859,
+            "name": "TradeTypeValidationReport",
+            "url": "/report/rainmaker-tl/TradeTypeValidationReport/_get",
+            "displayName": "Trade Type Validation Report",
+            "orderNumber": 1,
+            "enabled": false,
+            "serviceCode": "",
+            "code": "null",
+            "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
+          }
   ]
 }
