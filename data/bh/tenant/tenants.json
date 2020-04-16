@@ -287,6 +287,36 @@
       },
       "address": "Bihar, India",
       "contactNumber": "-"
+    },
+    {
+      "code": "bh.testing",
+      "name": "Testing",
+      "description": "Testing",
+      "logoId": "https://mseva.bihar.gov.in/bihar-asset/bh.hajipur/logo.png",
+      "imageId": null,
+      "domainUrl": "https://nagarseva.bihar.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "0",
+        "districtName": "Testing",
+        "regionName": "Testing",
+        "ulbGrade": "BH",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "123456"
+      },
+      "address": "Testing ULB, Bihar, India",
+      "contactNumber": "-"
     }
   ]
 }
