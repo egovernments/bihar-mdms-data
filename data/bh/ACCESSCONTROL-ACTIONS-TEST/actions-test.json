@@ -6471,6 +6471,28 @@
             "serviceCode": "",
             "code": "null",
             "path": "Trade License.TL Reports.TradeTypeValidationReport"
+          },
+          {
+            "id": 1874,
+            "name": "EDITRENEWAL",
+            "url": "/egov-searcher/locality/EDITRENEWAL/_get",
+            "displayName": "Edit Renewal",
+            "orderNumber": 0,
+            "enabled": false,
+            "serviceCode": "egov-searcher",
+            "code": "null",
+            "path": ""
+          },
+          {
+            "id": 1875,
+            "name": "DIRECTRENEWAL",
+            "url": "/egov-searcher/locality/DIRECTRENEWAL/_get",
+            "displayName": "Direct Renewal",
+            "orderNumber": 0,
+            "enabled": false,
+            "serviceCode": "egov-searcher",
+            "code": "null",
+            "path": ""
           }
   ]
 }
