@@ -6192,6 +6192,22 @@
       "queryParams": ""
     },
     {
+      "id": 1940,
+      "name": "rainmaker-citizen-tradelicence",
+      "url": "card",
+      "displayName": "Trade Licence",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "tradelicense-citizen/home",
+      "leftIcon": "custom:trade-license",
+      "rightIcon": "",
+      "queryParams": ""
+      },     
+      {
       "id": 1922,
       "name": "BPASearch",
       "url": "url",
