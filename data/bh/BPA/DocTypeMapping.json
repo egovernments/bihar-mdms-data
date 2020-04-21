@@ -45,10 +45,6 @@
                     "required": true
                 },
                 {
-                    "code": "APPL.PC",
-                    "required": true
-                },
-                {
                     "code": "APPL.LD",
                     "required": false
                 },
@@ -146,7 +142,7 @@
                 },
                 {
                     "code": "APPL.SSC",
-                    "required": false
+                    "required": true
                 },
                 {
                     "code": "APPL.LSVS",
@@ -158,10 +154,6 @@
                 },
                 {
                     "code": "APPL.DECLARATION",
-                    "required": true
-                },
-                {
-                    "code": "APPL.PC",
                     "required": true
                 },
                 {
@@ -274,10 +266,6 @@
                 },
                 {
                     "code": "APPL.DECLARATION",
-                    "required": true
-                },
-                {
-                    "code": "APPL.PC",
                     "required": true
                 },
                 {
