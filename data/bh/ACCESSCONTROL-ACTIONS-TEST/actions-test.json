@@ -6473,7 +6473,7 @@
             "path": "Trade License.TL Reports.TradeTypeValidationReport"
           },
           {
-            "id": 1874,
+            "id": 1974,
             "name": "EDITRENEWAL",
             "url": "/egov-searcher/locality/EDITRENEWAL/_get",
             "displayName": "Edit Renewal",
@@ -6484,7 +6484,7 @@
             "path": ""
           },
           {
-            "id": 1875,
+            "id": 1975,
             "name": "DIRECTRENEWAL",
             "url": "/egov-searcher/locality/DIRECTRENEWAL/_get",
             "displayName": "Direct Renewal",
