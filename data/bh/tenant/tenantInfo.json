@@ -3,14 +3,74 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "bh.hajipur",
-      "districtCode": "Vaishali",
-      "population": "156716",
-      "malePopulation": "82045",
-      "femalePopultion": "74671",
-      "workingPopulation": "37.2",
-      "literacyRate": "79.2",
-      "languagesSpoken": ["HN", "EN"]
-    }
+            "code": "bh.muzaffarpur",
+            "ditrictCode": "Muzaffarpur",
+            "population": "4801062",
+            "malePopulation": "2,527,497",
+            "femalePopultion": "2,273,565",
+            "workingPopulation": "",
+            "literacyRate": "74.74",
+            "languagepoken": ["HI"]
+        },
+        {
+            "code": "bh.danapur",
+            "ditrictCode": "Patna",
+            "population": "182241",
+            "malePopulation": "182,241",
+            "femalePopultion": "85,112",
+            "workingPopulation": "",
+            "literacyRate": "78.40",
+            "languagepoken": ["MA","HI"]
+        },
+        {
+            "code": "bh.hajipur",
+            "ditrictCode": "Vaihali",
+            "population": "147688",
+            "malePopulation": "78,047",
+            "femalePopultion": "69,641",
+            "workingPopulation": "",
+            "literacyRate": "76.80",
+            "languagepoken": ["HI","BA","AN","UR"]
+        },
+        {
+            "code": "bh.bhagalpur",
+            "ditrictCode": "Bhagalpur",
+            "population": "410210",
+            "malePopulation": "218,284",
+            "femalePopultion": "191,926",
+            "workingPopulation": "",
+            "literacyRate": "",
+            "languagepoken": ["HI","UR"]
+        },
+        {
+            "code": "bh.katihar",
+            "ditrictCode": "Katihar",
+            "population": "225982",
+            "malePopulation": "119,142",
+            "femalePopultion": "106,840",
+            "workingPopulation": "",
+            "literacyRate": "79.87",
+            "languagepoken": ["HI","EN","UR","U","BE"]
+        },
+        {
+            "code": "bh.sitamarhi",
+            "ditrictCode": "itamarhi",
+            "population": "106093",
+            "malePopulation": "56,693",
+            "femalePopultion": "49,400",
+            "workingPopulation": "",
+            "literacyRate": "77.03",
+            "languagepoken": ["HI","MA","BA"]
+        },
+        {
+            "code": "bh.biharharif",
+            "ditrictCode": "Nalanda",
+            "population": "297268",
+            "malePopulation": "",
+            "femalePopultion": "",
+            "workingPopulation": "",
+            "literacyRate": "75.30",
+            "languagepoken": ["HI","UR","MA"]
+        }
   ]
 }
