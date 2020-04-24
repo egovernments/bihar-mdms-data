@@ -81,6 +81,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },    
+    "wfSlaConfig": {
+      "masterName": "wfSlaConfig",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": null
+      
     },
     "OwnerType": {
       "masterName": "OwnerType",
