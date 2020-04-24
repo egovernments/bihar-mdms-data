@@ -88,7 +88,6 @@
                 "MC2":25
             },
             "labourCess":1,
-            "scrutinyFee":0,
             "noOfBlocksForDevelopmentCharges":1,
             "developmentCharges":5000,
             "shelterFund":{
