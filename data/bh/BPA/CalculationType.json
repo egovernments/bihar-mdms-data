@@ -21,7 +21,7 @@
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "ALL",
             "feeType":"ApplicationFee",
-            "amount":1000
+            "amount":10000
         },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
