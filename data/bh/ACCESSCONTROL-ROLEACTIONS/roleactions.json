@@ -21,6 +21,12 @@
       "tenantId": "bh"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 1976,
+      "actioncode": "",
+      "tenantId": "bh"
+    },
+    {
       "rolecode": "Financial Administrator",
       "actionid": 631,
       "actioncode": "",
