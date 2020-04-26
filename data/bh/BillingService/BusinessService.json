@@ -36,6 +36,17 @@
       "isVoucherCreationEnabled": true
     },
     {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [
+        "CREDIT.DEBIT.CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
       "businessService": "WaterCharges.Metered",
       "code": "WaterCharges.Metered",
       "collectionModesNotAllowed": [
@@ -1468,6 +1479,50 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [
+        
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
+      "code": "BPA.NC_APP_FEE",
+      "collectionModesNotAllowed": [
+      
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
+      "code": "BPA.NC_SAN_FEE",
+      "collectionModesNotAllowed": [
+       
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_LOW_RISK_PERMIT_FEE",
+      "code": "BPA.LOW_RISK_PERMIT_FEE",
+      "collectionModesNotAllowed": [
+        
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }

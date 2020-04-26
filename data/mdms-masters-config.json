@@ -81,6 +81,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },    
+    "wfSlaConfig": {
+      "masterName": "wfSlaConfig",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": null
+      
     },
     "OwnerType": {
       "masterName": "OwnerType",
@@ -610,6 +617,20 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   },
   "egov-hrms": {
@@ -673,6 +694,81 @@
     },
     "TaxPeriod": {
       "masterName": "TaxPeriod",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "BPA": {
+    "ServiceType": {
+      "masterName": "ServiceType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ApplicationType": {
+      "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DocTypeMapping": {
+      "masterName": "DocTypeMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CalculationType": {
+      "masterName": "CalculationType",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "RiskTypeComputation": {
+      "masterName": "RiskTypeComputation",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "SubOccupancyType": {
+      "masterName": "SubOccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Usages": {
+      "masterName": "Usages",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.question"
+      ]
+    },
+    "ProposedLandUse": {
+      "masterName": "ProposedLandUse",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TownPlanningScheme": {
+      "masterName": "TownPlanningScheme",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
