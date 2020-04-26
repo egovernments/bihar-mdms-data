@@ -9,6 +9,209 @@
         {
             "code": "OWNERSHIPPROOF",
             "active": true
+        },
+        {
+            "code": "APPL.IDENTITYPROOF.AADHAAR",
+            "active": true
+        },
+        {
+            "code": "APPL.IDENTITYPROOF.PASSPORT",
+            "active": true
+        },
+        {
+            "code": "APPL.IDENTITYPROOF.DRIVINGLICENSE",
+            "active": true
+        },
+        {
+            "code": "APPL.ADDRESSPROOF.ELECTRICITYBILL",
+            "active": true
+        },
+        {
+            "code": "APPL.ADDRESSPROOF.PASSPORT",
+            "active": true
+        },
+        {
+            "code": "APPL.LTR.LTR",
+            "active": true
+        },
+        {
+            "code": "APPL.TDP.TDP",
+            "active": true
+        },
+        {
+            "code": "APPL.LAC.LAC",
+            "active": true
+        },
+        {
+            "code": "APPL.SSC.SSC",
+            "active": true
+        },
+        {
+            "code": "APPL.LSVS.LSVS",
+            "active": true
+        },
+        {
+            "code": "APPL.TECHNICAL.APPENDIX",
+            "active": true
+        },{
+            "code": "APPL.DECLARATION.APPENDIX",
+            "active": true
+        },
+        {
+            "code": "APPL.PC.PC",
+            "active": true
+        },
+        {
+            "code": "APPL.LD.LD",
+            "active": true
+        },
+        {
+            "code": "APPL.OD.OD",
+            "active": true
+        },
+        {
+            "code": "BPD.SP.SP",
+            "active": true
+        },
+        {
+            "code": "BPD.RP.RP",
+            "active": true
+        },
+        {
+            "code": "BPD.FP.FP",
+            "active": true
+        },
+        {
+            "code": "BPD.SCP.SCP",
+            "active": true
+        },
+        {
+            "code": "BPD.EP.EP",
+            "active": true
+        },
+        {
+            "code": "BPD.SECP.SECP",
+            "active": true
+        },
+        {
+            "code": "BPD.PP.PP",
+            "active": true
+        },
+        {
+            "code": "BPD.BP.BP",
+            "active": true
+        },
+        {
+            "code": "BPD.OD.OD",
+            "active": true
+        },
+        {
+            "code": "BPD.DP.DP",
+            "active": true
+        },
+        {
+            "code": "NOC.FIRE.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.AGRICULTURE.LANDUSE",
+            "active": true
+        },
+        {
+            "code": "NOC.AGRICULTURE_WATERBODY.FTL",
+            "active": true
+        },
+        {
+            "code": "FI.FIR.FIR",
+            "active": true
+        },
+        {
+            "code": "FI.SINS.SINS",
+            "active": true
+        },
+        {
+            "code": "FI.SISS.SISS",
+            "active": true
+        },
+        {
+            "code": "FI.SIES.SIES",
+            "active": true
+        },
+        {
+            "code": "FI.SIWS.SIWS",
+            "active": true
+        },
+        {
+            "code": "FI.SIBS.SIBS",
+            "active": true
+        },
+        {
+            "code": "FI.SIEB.SIEB",
+            "active": true
+        },
+        {
+            "code": "FI.SIFS.SIFS",
+            "active": true
+        },
+        {
+            "code": "FI.SIPB.SIPB",
+            "active": true
+        },
+        {
+            "code": "FI.SIRI.SIRI",
+            "active": true
+        },
+        {
+            "code": "FI.SISB.SISB",
+            "active": true
+        },
+        {
+            "code": "NOC.AIRPORT.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.AIRPORT.AUTHORITY.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.FIRE.SERVICES.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.IRRIGATION.DEPARTMENT.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.MONUMENTS.AUTHORITY.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "NOC.POLLUTION.CONTROL.BOARD.CERTIFICATE",
+            "active": true
+        },
+        {
+            "code": "APPL.BUILDING_DIAGRAM.SECTION_PLAN",
+            "active": true
+        },
+        {
+            "code": "APPL.BUILDING_DIAGRAM.ELEVATION_PLAN",
+            "active": true
+        },
+        {
+            "code": "APPL.BUILDING_DIAGRAM.FLOOR_PLAN",
+            "active": true
+        },
+        {
+            "code": "APPL.LOCALBODY.MUNCIPAL_APPROVAL",
+            "active": true
+        },
+        {
+            "code": "APPL.LOCALBODY.PANCHAYAT_APPROVAL",
+            "active": true
+        },
+        {
+            "code": "APPL.LOCALBODY.DTCP_APPROVAL",
+            "active": true
         }
     ]
 }

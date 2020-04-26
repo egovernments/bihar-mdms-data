@@ -1,0 +1,133 @@
+{
+    "tenantId":"bh",
+    "moduleName":"BPA",
+    "CalculationType":[
+        {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType":"ApplicationFee",
+            "amount":100
+        },
+        {
+            "applicationType": "ALL",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType":"ApplicationFee",
+            "amount":110
+        },
+        {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "ALL",
+            "feeType":"ApplicationFee",
+            "amount":10000
+        },
+        {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType":"ApplicationFee",
+            "amount":200
+        },{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType":"Low_ApplicationFee",
+            "amount":100
+        },{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType":"Low_SanctionFee",
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":3,
+                "NP":4,
+                "MC":6,
+                "MC1":10,
+                "MC2":12
+            },
+            "labourCess":1,
+            "scrutinyFee":1000,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }
+        },{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType":"SanctionFee",
+            "amount":500
+        },{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType":"SanctionFee",
+            "amount":500
+        },{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "HIGH",
+            "feeType":"SanctionFee",
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":6,
+                "NP":8,
+                "MC":12,
+                "MC1":20,
+                "MC2":25
+            },
+            "labourCess":1,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }   
+        },
+        {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "MEDIUM",
+            "feeType":"SanctionFee",
+            "amount":500,
+            "BHRSPSQMT":{
+                "GP":5,
+                "NP":6,
+                "MC":8,
+                "MC1":15,
+                "MC2":18
+            },
+            "labourCess":1,
+            "scrutinyFee":0,
+            "noOfBlocksForDevelopmentCharges":1,
+            "developmentCharges":5000,
+            "shelterFund":{
+                "from":500,
+                "to":4000,
+                "percentageOfBuiltUpArea":10,
+                "MC2":750,
+                "MC1":500,
+                "NP":250,
+                "GP":250,
+                "MC":250
+            }   
+        }
+    ]
+}

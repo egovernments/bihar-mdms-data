@@ -1,0 +1,22 @@
+{
+    "tenantId": "bh",
+    "moduleName": "BPA",
+    "RiskTypeComputation": [
+        {
+            "fromPlotArea": 300,
+            "toPlotArea": 9999999999,
+            "fromBuildingHeight": 10,
+            "toBuildingHeight":9999999999,
+            "riskType": "HIGH",
+            "note": "(Heigh 10 Mt or More) or ( Plot area >=300 sq.Mt)"
+        },{
+            "fromPlotArea": 0,
+            "toPlotArea": 300,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight":10,
+            "riskType": "LOW",
+            "note": "Up to 10.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
+            
+        }
+    ]
+}

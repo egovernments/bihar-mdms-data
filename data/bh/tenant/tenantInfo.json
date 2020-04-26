@@ -1,0 +1,76 @@
+{
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+            "code": "bh.muzaffarpur",
+            "districtCode": "Muzaffarpur",
+            "population": "4801062",
+            "malePopulation": "2,527,497",
+            "femalePopultion": "2,273,565",
+            "workingPopulation": "",
+            "literacyRate": "74.74",
+            "languagesSpoken": ["HI"]
+        },
+        {
+            "code": "bh.danapur",
+            "districtCode": "Patna",
+            "population": "182241",
+            "malePopulation": "182,241",
+            "femalePopultion": "85,112",
+            "workingPopulation": "",
+            "literacyRate": "78.40",
+            "languagesSpoken": ["MA","HI"]
+        },
+        {
+            "code": "bh.hajipur",
+            "districtCode": "Vaishali",
+            "population": "147688",
+            "malePopulation": "78,047",
+            "femalePopultion": "69,641",
+            "workingPopulation": "",
+            "literacyRate": "76.80",
+            "languagesSpoken": ["HI","BA","AN","UR","EN","BJ","MI"]
+        },
+        {
+            "code": "bh.bhagalpur",
+            "districtCode": "Bhagalpur",
+            "population": "410210",
+            "malePopulation": "218,284",
+            "femalePopultion": "191,926",
+            "workingPopulation": "",
+            "literacyRate": "",
+            "languagesSpoken": ["HI","UR"]
+        },
+        {
+            "code": "bh.katihar",
+            "districtCode": "Katihar",
+            "population": "225982",
+            "malePopulation": "119,142",
+            "femalePopultion": "106,840",
+            "workingPopulation": "",
+            "literacyRate": "79.87",
+            "languagesSpoken": ["HI","EN","UR","SU","BE"]
+        },
+        {
+            "code": "bh.sitamarhi",
+            "districtCode": "Sitamarhi",
+            "population": "106093",
+            "malePopulation": "56,693",
+            "femalePopultion": "49,400",
+            "workingPopulation": "",
+            "literacyRate": "77.03",
+            "languagesSpoken": ["HI","MA","BA"]
+        },
+        {
+            "code": "bh.biharharif",
+            "districtCode": "Nalanda",
+            "population": "297268",
+            "malePopulation": "",
+            "femalePopultion": "",
+            "workingPopulation": "",
+            "literacyRate": "75.30",
+            "languagesSpoken": ["HI","UR","MG"]
+        }
+  ]
+}
