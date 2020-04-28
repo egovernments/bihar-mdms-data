@@ -7050,7 +7050,7 @@
       "validityPeriod": 5
     },
     {
-    "code": " MARKET.MARKET.CPVTS",
+    "code": "MARKET.MARKET.CPVTS",
     "uom": null,
     "applicationDocument": [
       {
@@ -7077,7 +7077,7 @@
     "TYPE": "TL"
   },
   {
-    "code": " MARKET.MARKET.TRDGW",
+    "code": "MARKET.MARKET.TRDGW",
     "uom": null,
     "applicationDocument": [
       {
@@ -7104,7 +7104,7 @@
     "TYPE": "TL"
   },
   {
-    "code": " MARKET.MARKET.WSHRT",
+    "code": "MARKET.MARKET.WSHRT",
     "uom": null,
     "applicationDocument": [
       {
@@ -7131,7 +7131,7 @@
     "TYPE": "TL"
   },
   {
-    "code": " MARKET.FOOD.MCFRT",
+    "code": "MARKET.FOOD.MCFRT",
     "uom": null,
     "applicationDocument": [
       {
@@ -7158,7 +7158,7 @@
     "TYPE": "TL"
   },
   {
-    "code": " MARKET.MARKET.RTL",
+    "code": "MARKET.MARKET.RTL",
     "uom": null,
     "applicationDocument": [
       {
@@ -7185,7 +7185,7 @@
     "TYPE": "TL"
   },
   {
-    "code": " MARKET.FOOD.CFMWH",
+    "code": "MARKET.FOOD.CFMWH",
     "uom": null,
     "applicationDocument": [
       {
