@@ -5826,7 +5826,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
-      "path": "Reports.Miscellaneous Receipt Register"
+      "path": "Miscellaneous Collection.Reports.Miscellaneous Receipt Register"
     },
     {
       "id": 1836,
@@ -5880,7 +5880,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled",
-      "path": "Reports.miscellaneous Receipt Register"
+      "path": "Miscellaneous Collection.Reports.miscellaneous Receipt Register"
     },
     {
       "id": 1842,
@@ -5893,7 +5893,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
-      "path": "Reports.miscellaneous Receipt Register"
+      "path": "Miscellaneous Collection.Reports.miscellaneous Receipt Register"
     },
     {
       "id": 1843,
@@ -5915,7 +5915,7 @@
       "displayName": "Universal Collection",
       "orderNumber": 4,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "uc/search",
@@ -5986,7 +5986,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
-      "path": "Reports.Misc Business Service Collections"
+      "path": "Miscellaneous Collection.Reports.Misc Business Service Collections"
     },
     {
       "id": 1850,
@@ -6064,7 +6064,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "Miscellaneous Collection.Search Miscellaneous Collection",
       "navigationURL": "uc/search",
       "leftIcon": "image:collections-bookmark",
       "rightIcon": "",
