@@ -2,15 +2,7 @@
   "tenantId": "bh",
   "moduleName": "BillingService",
   "TaxPeriod": [
-     {
-      "fromDate": 1648771199000,
-      "toDate": 1743465599000,
-      "periodCycle": "ANNUAL",
-      "service": "PT",
-      "code": "PTAN202225",
-      "financialYear": "2022-25"
-    },
-    {
+   {
       "fromDate": 1554076799000,
       "toDate": 1585699199000,
       "periodCycle": "ANNUAL",
@@ -1145,6 +1137,14 @@
       "service": "TL",
       "code": "TLAN2021_23",
       "financialYear": "2021-23"
-    }
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1743465599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN202225",
+      "financialYear": "2022-25"
+    },
   ]
 }
