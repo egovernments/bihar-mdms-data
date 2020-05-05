@@ -1143,8 +1143,8 @@
       "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TL",
-      "code": "TLAN202225",
+      "code": "TLAN2022_25",
       "financialYear": "2022-25"
-    },
+    }
   ]
 }
