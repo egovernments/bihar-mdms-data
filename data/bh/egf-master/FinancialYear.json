@@ -2,8 +2,21 @@
     "tenantId": "bh",
     "moduleName": "egf-master",
     "FinancialYear": [
-        
-       {
+        {
+            "id": "20",
+            "tenantId": "bh",
+            "finYearRange": "2022-25",
+            "name": "2022-25",
+            "code": "2022-25",
+            "startingDate": 1648771200000,
+            "endingDate": 1743465599000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "TL"
+        },
+        {
             "id": "19",
             "tenantId": "bh",
             "finYearRange": "2022-24",
