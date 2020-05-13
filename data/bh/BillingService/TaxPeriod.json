@@ -1129,6 +1129,22 @@
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "code": "BPA10YRS2018",
       "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2021_23",
+      "financialYear": "2021-23"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1743465599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2022_25",
+      "financialYear": "2022-25"
     }
   ]
 }
