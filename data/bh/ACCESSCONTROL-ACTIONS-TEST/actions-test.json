@@ -6104,7 +6104,7 @@
       "parentModule": "",
       "displayName": "Create BPALicense",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
@@ -6116,7 +6116,7 @@
       "parentModule": "",
       "displayName": "Update BPALicense",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
@@ -6128,7 +6128,7 @@
       "parentModule": "",
       "displayName": "Search BPALicense",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
@@ -6140,7 +6140,7 @@
       "parentModule": "",
       "displayName": "Get Bill BPA",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "tl-calculator",
       "code": "null",
       "path": ""
@@ -6227,7 +6227,7 @@
       "url": "/bpa-services/bpa/appl/_create",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -6238,7 +6238,7 @@
       "url": "/bpa-services/bpa/appl/_search",
       "displayName": "Search",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -6249,7 +6249,7 @@
       "url": "/bpa-services/bpa/appl/_permitorderedcr",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -6260,7 +6260,7 @@
       "url": "/bpa-services/bpa/appl/_update",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""

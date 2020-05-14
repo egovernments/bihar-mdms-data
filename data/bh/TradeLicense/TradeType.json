@@ -7048,6 +7048,168 @@
       "active": true,
       "type": "BPA",
       "validityPeriod": 5
-    }
+    },
+    {
+    "code": "MARKET.MARKET.CPVTS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  },
+  {
+    "code": "MARKET.MARKET.TRDGW",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  },
+  {
+    "code": "MARKET.MARKET.WSHRT",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  },
+  {
+    "code": "MARKET.FOOD.MCFRT",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  },
+  {
+    "code": "MARKET.MARKET.RTL",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  },
+  {
+    "code": "MARKET.FOOD.CFMWH",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "RLAPO",
+          "TRDSHOPBLDGPRMS",
+          "OWNERPHOTO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "TYPE": "TL"
+  }
   ]
 }
