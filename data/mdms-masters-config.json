@@ -86,7 +86,7 @@
       "masterName": "wfSlaConfig",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": null
+      "uniqueKeys": []
       
     },
     "OwnerType": {
