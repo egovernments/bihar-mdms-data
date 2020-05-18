@@ -6472,7 +6472,7 @@
           "url": "/report/rainmaker-tl/StateLevelBoundaryValidation/_get",
           "displayName": "State Level Boundary Validation",
           "orderNumber": 1,
-          "enabled": true,
+          "enabled": false,
           "serviceCode": "",
           "code": "null",
           "path": "Trade License.TL Reports.StateLevelBoundaryValidation"
@@ -6483,7 +6483,7 @@
             "url": "/report/rainmaker-tl/TradeTypeValidationReport/_get",
             "displayName": "Trade Type Validation Report",
             "orderNumber": 1,
-            "enabled": true,
+            "enabled": false,
             "serviceCode": "",
             "code": "null",
             "path": "Trade License.TL Reports.TradeTypeValidationReport"
