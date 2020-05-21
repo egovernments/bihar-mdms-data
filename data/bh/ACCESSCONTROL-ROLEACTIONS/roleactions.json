@@ -6943,6 +6943,12 @@
       "actionid": 1975,
       "actioncode": "",
       "tenantId": "bh"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "bh"
     }
   ]
 }
